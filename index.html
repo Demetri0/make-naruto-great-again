@@ -1,0 +1,368 @@
+<html>
+<head>
+<title>Make Naruto Great Again</title>
+<meta charset="utf-8" />
+<style>
+    html, body {
+        margin: 0;
+        font-family: sans-serif;
+    }
+    .play-container {
+        text-align: center;
+    }
+    #debug-toolbar {
+        background: rgba(0,0,0,0.75);
+        color: white;
+        padding: 8px;
+        border-bottom: 1px solid rgba(0,0,0,0.5);
+    }
+    #debug-toolbar .title { margin-right: 10px; }
+    #debug-toolbar .value { color: coral }
+
+    .page { display: grid; grid-template-columns: 1fr 1fr 1fr }
+    #playlist {
+        background-color: rgba(0,0,0, 0.75);
+        color: rgba(255,255,255,0.9);
+    }
+    .playlist-item {
+        padding: 8px;
+        border-bottom: 1px solid rgba(0,0,0,0.5);
+    }
+    .playlist-item-nested {
+        padding-left: 24px;
+    }
+    .playlist-item-title {}
+    .playlist-item-info {
+        padding-top: 8px;
+        color: rgba(255,255,255,0.75);
+        font-size: 0.8rem;
+    }
+</style>
+</head>
+<body>
+    <div id="debug-toolbar"></div>
+    <div class="page">
+        <div style="width:100%">
+            <fieldset>
+                <legend>Сценарий</legend>
+                <div>
+                    <label>
+                        <input name="scenario.skip" disabled type="checkbox" /> Пропуск
+                    </label>
+                </div>
+                <div>
+                    <label>
+                        Скорость <input name="scenario.speed" width="40" type="number" value="1" min="0.5" max="4" step="0.5" />
+                    </label>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>Филлеры</legend>
+                <div>
+                    <label>
+                        <input name="filler.skip" type="checkbox" checked /> Пропуск
+                    </label>
+                </div>
+                <div>
+                    <label>
+                        Скорость <input name="filler.speed" width="40" type="number" value="1" min="0.5" max="4" step="0.5" />
+                    </label>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>Опенинг</legend>
+                <div>
+                    <label>
+                        <input name="opening.skip" type="checkbox" /> Пропуск
+                    </label>
+                </div>
+                <div>
+                    <label>
+                        Скорость <input name="opening.speed" width="40" type="number" value="1" min="0.5" max="4" step="0.5" />
+                    </label>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>Эндинг</legend>
+                <div>
+                    <label>
+                        <input name="ending.skip" type="checkbox" checked /> Пропуск
+                    </label>
+                </div>
+                <div>
+                    <label>
+                        Скорость <input name="ending.speed" width="40" type="number" value="1" min="0.5" max="4" step="0.5" />
+                    </label>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>Флэшбэк</legend>
+                <div>
+                    <label>
+                        <input name="flashback.skip" type="checkbox" /> Пропуск
+                    </label>
+                </div>
+                <div>
+                    <label>
+                        Скорость <input name="flashback.speed" width="40" type="number" value="2" min="0.5" max="4" step="0.5" />
+                    </label>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>Нудятина</legend>
+                <div>
+                    <label>
+                        <input name='boring.skip' type="checkbox" /> Пропуск
+                    </label>
+                </div>
+                <div>
+                    <label>
+                        Скорость <input name="boring.speed" width="40" type="number" value="1.5" min="0.5" max="4" step="0.5" />
+                    </label>
+                </div>
+            </fieldset>
+        </div>
+        <div class="play-container">
+            <video id="player" src="./1.480.1f89a08c65b0c303.mp4" controls />
+        </div>
+        <div id="playlist"></div>
+    </div>
+    <script>
+        const playlist = [
+        	{
+        		episode: 1,
+                title: 'Знакомьтесь, Узумаки Наруто!',
+        		url: './1.480.1f89a08c65b0c303.mp4',
+        		mediaType: 'serial',
+        		contentType: 'scenario',
+        		fragments: [
+        			{
+        				start: 0,
+        				end: 54,
+        				type: 'flashback'
+        			},
+        			{
+        				start: 54,
+        				end: 75,
+        				type: 'opening'
+        			},
+        		  {
+        		  	start: 198,
+        		  	end: 216,
+        		  	type: 'filler'
+        		  },
+        		  {
+        		  	start: 801,
+        		  	end: 893,
+        		  	type: 'boring'
+        		  },
+                  {
+                    start: 1284.461145,
+                    end: 1370.680208,
+                    type: 'ending'
+                  }
+        		]
+        	},
+        	{
+        		episode: 2,
+                title: 'Конохамару!',
+        		url: './2.480.f6fbc40058af276a.mp4',
+        		mediaType: 'serial',
+        		contentType: 'filler',
+        		fragments: [
+        			{
+        				start: 0,
+        				end: 89.663978,
+        				type: 'opening'
+        			},
+    		    	{
+        				start: 165,
+        				end: 180,
+        				type: 'filler'
+        			}
+        		]
+        	}
+        ];
+    </script>
+    <script>
+        const utils = {
+          timeFormat(seconds) {
+            const h = Math.floor(seconds / 3600);
+            const m = Math.floor((seconds % 3600) / 60);
+            const s = Math.round(seconds % 60);
+            return [
+              h,
+              m > 9 ? m : (h ? '0' + m : m || '0'),
+              s > 9 ? s : '0' + s
+            ].filter(Boolean).join(':');
+          },
+          getNextEpisode(episode, cfg, playlist) {
+            const filteredPlaylist = playlist.filter(item => !cfg[item.contentType].skip);
+            const currentEpisodeIndex = filteredPlaylist.findIndex(item => item.episode === episode);
+            return filteredPlaylist[currentEpisodeIndex + 1];
+          }
+        };
+    </script>
+    <script>
+        /**
+            # media-type:
+            - serial
+            - amv
+            - ova
+            - ona
+            - film
+
+            # content-type:
+            - default
+            - filler
+
+            # fragment-type:
+            - scenario (default)
+            - filler
+            - opening
+            - ending
+            - flashback/flashforward
+            - boring
+        */
+
+        const player = document.getElementById('player');
+        let info = { episode: 1 };
+        const defaultConfig = {
+            skip: false,
+            speed: 1
+        };
+        const config = {
+            scenario: {
+                skip: false,
+                speed: 1
+            },
+            filler: {
+                skip: true,
+                speed: 1
+            },
+            opening: {
+                skip: false,
+                speed: 1
+            },
+            ending: {
+                skip: true,
+                speed: 1
+            },
+            flashback: {
+                skip: false,
+                speed: 2
+            },
+            boring: {
+                skip: false,
+                speed: 1.5
+            }
+        };
+
+        // Controls
+        (function(){
+            const controls = Array.from(document.querySelectorAll('input'));
+            controls.forEach(function(control){
+                const [group, option] = control.name.split('.');
+                control.addEventListener('change', function(event){
+                    const value = option === 'skip' ? event.target.checked : Number(event.target.value);
+                    config[group][option] = value;
+                })
+            });
+        })();
+
+        // Init playlist
+        (function(){
+            const $playlist = document.querySelector('#playlist');
+            $playlist.innerHTML = playlist.map(item => {
+                const fragments = item.fragments.map(fr => `
+                    <div class="playlist-item playlist-item-nested">
+                        <div class="playlist-item-title">${fr.type}</div>
+                        <div class="playlist-item-info">
+                        <span class="playlist-item-info-part">${utils.timeFormat(fr.start)} - ${utils.timeFormat(fr.end)}</span>
+                        </div>
+                    </div>
+                `).join('\n');
+                return `
+                    <div class="playlist-item">
+                        <div class="playlist-item-title">${item.episode}. ${item.title ?? 'N/A'}</div>
+                        <div class="playlist-item-info">
+                            <span class="playlist-item-info-part">${item.contentType}</span>
+                        </div>
+                    </div>
+                    ${fragments}
+                `;
+            }).join('\n');
+        })();
+
+        setInterval(function(){
+            const currentTime = player.currentTime;
+            const currentEpisode = playlist.find(item => item.episode === info.episode);
+            const currentFragment = currentEpisode.fragments.find(fr => currentTime >= fr.start && currentTime <= fr.end);
+            info = {
+                episode: info.episode,
+                mediaType: currentEpisode.mediaType,
+                contentType: currentEpisode.contentType,
+                currentFragment: currentFragment ?? { start: 0, end: 0, type: currentEpisode.contentType }
+            };
+        }, 100);
+
+        //let hasPreloadAdded = false;
+        setInterval(() => {
+            if (player.paused) {
+                return;
+            }
+            if (!info.currentFragment) {
+                return;
+            }
+            const cfg = config[info.currentFragment.type] ?? defaultConfig;
+            if (player.playbackRate != cfg.speed) {
+                player.playbackRate = cfg.speed;
+            }
+            if (cfg.skip) {
+                if (info.currentFragment.type === 'ending' && playlist.length > info.episode) {
+                    const nextEpisode = utils.getNextEpisode(info.episode, config, playlist);
+                    if (!nextEpisode) {
+                        player.pause();
+                        alert('The End!');
+                        return;
+                    }
+                    info.episode = nextEpisode.episode;
+                    player.src = nextEpisode.url;
+                    player.play();
+                    return;
+                }
+                player.currentTime = info.currentFragment.end;
+            }
+            /*
+            if (player.currentTime > 1000 && !hasPreloadAdded) {
+                const link = document.createElement('link');
+                link.rel = 'prefetch';
+                link.as = 'video';
+                link.href = './2.480.f6fbc40058af276a.mp4';
+                document.head.appendChild(link);
+                hasPreloadAdded = true;
+                console.log('preloadAdded');
+            }
+            if (player.currentTime > 1284.648437) {
+                player.src = './2.480.f6fbc40058af276a.mp4';
+            }
+            //*/
+        }, 500);
+
+        // Debug Toolbar
+        (function(){
+            const toolbar = document.querySelector('#debug-toolbar');
+            function update() {
+                const toolbarInfo = [
+                    { title: 'Episode', value: info.episode ?? 'N/A' },
+                    { title: 'MediaType', value: info.mediaType ?? 'N/A' },
+                    { title: 'ContentType', value: info.contentType ?? 'N/A' },
+                    { title: 'Fragment', value: info.currentFragment?.type ?? 'N/A' },
+                ];
+                toolbar.innerHTML = toolbarInfo.map(item => `<span class="title">${item.title}</span><span class="value">${item.value}</span>`).join(' | ');
+            }
+            setInterval(update, 1000);
+        })();
+    </script>
+</body>
+</html>
