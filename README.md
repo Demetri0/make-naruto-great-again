@@ -16,5 +16,8 @@ You can use `extract-episode-links.sh` to get list of all episodes
 ## 3. Convert downloaded base64 data to json
 - `to-json.sh`
 
+## 4. Concatenate json files to single json file with array
+- `jq -s . jutsu-data/season-1/*.json jutsu-data/season-2/*.json > jutsu-data.json`
+
 # LICENSE
 MIT
