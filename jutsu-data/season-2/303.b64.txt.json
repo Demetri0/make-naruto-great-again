@@ -1,0 +1,65 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "303",
+  "video_intro_start": 280,
+  "video_intro_end": 370,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1409861532?i=1409861550&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 280,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1286599059?i=1286599215&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDQ2MiwKdGl0bGU6ICLQktC+0LfRgNC+0LbQtNGR0L3QvdGL0Lkg0LPQuNCz0LDQvdGCIiwKZGVzY3JpcHRpb246ICLQktGLINCy0YHRgtGA0LXRgtC40LvQuCDQstC+0YHQutGA0LXRiNGR0L3QvdC+0LPQviDQlNC20LjRgNC+0LHQviIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY1NC5qcGciLAppZDogIjY1NCIsCmhhc2g6ICJkZDU1OTE3N2U0MmUxZDUyIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDU5NywKdGl0bGU6ICLQktC+0LfRgNC+0LbQtNGR0L3QvdGL0Lkg0L/QsNGD0LoiLApkZXNjcmlwdGlvbjogItCS0Ysg0LLRgdGC0YDQtdGC0LjQu9C4INCy0L7RgdC60YDQtdGI0ZHQvdC90L7Qs9C+INCa0LjQtNC+0LzQsNGA0YMiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82NTUuanBnIiwKaWQ6ICI2NTUiLApoYXNoOiAiZjlhNWUwMjllMWUwYjRlYiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiA0MzMsCnRpdGxlOiAi0JLQvtC30YDQvtC20LTRkdC90L3Ri9C1INCx0LvQuNC30L3QtdGG0YsiLApkZXNjcmlwdGlvbjogItCS0Ysg0LLRgdGC0YDQtdGC0LjQu9C4INCy0L7RgdC60YDQtdGI0ZHQvdC90L7Qs9C+INCh0LDQutC+0L3QsCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY1Ni5qcGciLAppZDogIjY1NiIsCmhhc2g6ICJmZTk3ZWM1OGU2YmU4MTNhIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDc1MSwKdGl0bGU6ICLQktC+0LfRgNC+0LbQtNGR0L3QvdCw0Y8g0YTQu9C10LnRgtCwIiwKZGVzY3JpcHRpb246ICLQktGLINCy0YHRgtGA0LXRgtC40LvQuCDQstC+0YHQutGA0LXRiNGR0L3QvdGD0Y4g0KLQsNGO0Y4iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82NTcuanBnIiwKaWQ6ICI2NTciLApoYXNoOiAiY2EyNzE3Mjc1MmQ4NDQxOSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiAxMjM2LAp0aXRsZTogItCU0L7QsdGA0L4g0L/QvtC20LDQu9C+0LLQsNGC0Ywg0LIg0LDQtCIsCmRlc2NyaXB0aW9uOiAi0J3QvtCy0LDRjyDQsdC40YLQstCwINGBINCn0LXRgtCy0ZHRgNC60L7QuSDQl9Cy0YPQutCwIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjU4LmpwZyIsCmlkOiAiNjU4IiwKaGFzaDogImE0ODYzZWQ2NGYyYzg0MjMiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY1NC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82NTUuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjU2LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY1Ny5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82NTguanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 462,\ntitle: \"Возрождённый гигант\",\ndescription: \"Вы встретили воскрешённого Джиробо\",\nicon: js_preres_url + \"/uploads/achievements/icons/654.jpg\",\nid: \"654\",\nhash: \"dd559177e42e1d52\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 597,\ntitle: \"Возрождённый паук\",\ndescription: \"Вы встретили воскрешённого Кидомару\",\nicon: js_preres_url + \"/uploads/achievements/icons/655.jpg\",\nid: \"655\",\nhash: \"f9a5e029e1e0b4eb\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 433,\ntitle: \"Возрождённые близнецы\",\ndescription: \"Вы встретили воскрешённого Сакона\",\nicon: js_preres_url + \"/uploads/achievements/icons/656.jpg\",\nid: \"656\",\nhash: \"fe97ec58e6be813a\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 751,\ntitle: \"Возрождённая флейта\",\ndescription: \"Вы встретили воскрешённую Таюю\",\nicon: js_preres_url + \"/uploads/achievements/icons/657.jpg\",\nid: \"657\",\nhash: \"ca27172752d84419\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1236,\ntitle: \"Добро пожаловать в ад\",\ndescription: \"Новая битва с Четвёркой Звука\",\nicon: js_preres_url + \"/uploads/achievements/icons/658.jpg\",\nid: \"658\",\nhash: \"a4863ed64f2c8423\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/654.jpg\", js_preres_url + \"/uploads/achievements/icons/655.jpg\", js_preres_url + \"/uploads/achievements/icons/656.jpg\", js_preres_url + \"/uploads/achievements/icons/657.jpg\", js_preres_url + \"/uploads/achievements/icons/658.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 462,
+        "title": "Возрождённый гигант",
+        "description": "Вы встретили воскрешённого Джиробо",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/654.jpg",
+        "id": "654",
+        "hash": "dd559177e42e1d52"
+      },
+      {
+        "category": "heroes",
+        "time_start": 597,
+        "title": "Возрождённый паук",
+        "description": "Вы встретили воскрешённого Кидомару",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/655.jpg",
+        "id": "655",
+        "hash": "f9a5e029e1e0b4eb"
+      },
+      {
+        "category": "heroes",
+        "time_start": 433,
+        "title": "Возрождённые близнецы",
+        "description": "Вы встретили воскрешённого Сакона",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/656.jpg",
+        "id": "656",
+        "hash": "fe97ec58e6be813a"
+      },
+      {
+        "category": "heroes",
+        "time_start": 751,
+        "title": "Возрождённая флейта",
+        "description": "Вы встретили воскрешённую Таюю",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/657.jpg",
+        "id": "657",
+        "hash": "ca27172752d84419"
+      },
+      {
+        "category": "events",
+        "time_start": 1236,
+        "title": "Добро пожаловать в ад",
+        "description": "Новая битва с Четвёркой Звука",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/658.jpg",
+        "id": "658",
+        "hash": "a4863ed64f2c8423"
+      }
+    ]
+  }
+}

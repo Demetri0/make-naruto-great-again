@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "78",
+  "video_intro_start": 83,
+  "video_intro_end": 173,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1536372804?i=1536372808&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 83,
+  "video_music_outro": null,
+  "this_video_duration": 1264,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImNyZWRpdHMiLAp0aW1lX3N0YXJ0OiAxNjEsCnRpdGxlOiAiTGV0YHMgR28iLApkZXNjcmlwdGlvbjogItCf0YDQvtGB0LvRg9GI0LDQudGC0LUgNCDQvtC/0LXQvdC40L3QsyAyINGB0LXQt9C+0L3QsCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM2NC5qcGciLAppZDogIjM2NCIsCmhhc2g6ICJkNDBkNTNmNWI1YmY2NjFiIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiA3MywKdGl0bGU6ICLQn9GA0L7QutC70Y/RgtC40LUg0LrRgNC+0LLQuCIsCmRlc2NyaXB0aW9uOiAi0KHQvNC10YDRgtC10LvRjNC90YvQuSDRgNC40YLRg9Cw0Lsg0KXQuNC00LDQvdCwIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzY1LmpwZyIsCmlkOiAiMzY1IiwKaGFzaDogIjhjNThlMjdhYTM3NDk3MzgiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM2NC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zNjUuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"credits\",\ntime_start: 161,\ntitle: \"Let`s Go\",\ndescription: \"Прослушайте 4 опенинг 2 сезона\",\nicon: js_preres_url + \"/uploads/achievements/icons/364.jpg\",\nid: \"364\",\nhash: \"d40d53f5b5bf661b\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 73,\ntitle: \"Проклятие крови\",\ndescription: \"Смертельный ритуал Хидана\",\nicon: js_preres_url + \"/uploads/achievements/icons/365.jpg\",\nid: \"365\",\nhash: \"8c58e27aa3749738\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/364.jpg\", js_preres_url + \"/uploads/achievements/icons/365.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "credits",
+        "time_start": 161,
+        "title": "Let`s Go",
+        "description": "Прослушайте 4 опенинг 2 сезона",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/364.jpg",
+        "id": "364",
+        "hash": "d40d53f5b5bf661b"
+      },
+      {
+        "category": "techniques",
+        "time_start": 73,
+        "title": "Проклятие крови",
+        "description": "Смертельный ритуал Хидана",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/365.jpg",
+        "id": "365",
+        "hash": "8c58e27aa3749738"
+      }
+    ]
+  }
+}

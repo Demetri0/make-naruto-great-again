@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "44",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/963662940?i=963662941&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535488943?i=1535488948&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1387,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiA4OTgsCnRpdGxlOiAi0J/QvtC00YDQsNC20LDQvdC40LUg0LfQstC10YDRjiIsCmRlc2NyaXB0aW9uOiAi0J/QuNGC0L7QvNC10YYg0L/RgNC10LLRgNCw0YnQsNC10YLRgdGPINCyINGF0L7Qt9GP0LjQvdCwIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTAyLmpwZyIsCmlkOiAiMTAyIiwKaGFzaDogIjE3OGNkMDUxZDQ0NDYzYTkiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogMjA3LAp0aXRsZTogItCe0YHRgtGA0YvQuSDQutC70YvQuiIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQmtC40LHQvtC5INC4INCQ0LrQsNC80LDRgNGDIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTAzLmpwZyIsCmlkOiAiMTAzIiwKaGFzaDogIjU3NmMxYmRkMTExMWZiZjMiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogMzc2LAp0aXRsZTogItCU0L7RgdGC0L7QudC90YvQuSDRgdC+0L/QtdGA0L3QuNC6IiwKZGVzY3JpcHRpb246ICLQkdC+0Lkg0J3QsNGA0YPRgtC+INC4INCa0LjQsdGLIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTA0LmpwZyIsCmlkOiAiMTA0IiwKaGFzaDogIjJkZGMxODlkMWIxNzhmYTgiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzEwMi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xMDMuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTA0LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 898,\ntitle: \"Подражание зверю\",\ndescription: \"Питомец превращается в хозяина\",\nicon: js_preres_url + \"/uploads/achievements/icons/102.jpg\",\nid: \"102\",\nhash: \"178cd051d44463a9\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 207,\ntitle: \"Острый клык\",\ndescription: \"Вы познакомились с Кибой и Акамару\",\nicon: js_preres_url + \"/uploads/achievements/icons/103.jpg\",\nid: \"103\",\nhash: \"576c1bdd1111fbf3\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 376,\ntitle: \"Достойный соперник\",\ndescription: \"Бой Наруто и Кибы\",\nicon: js_preres_url + \"/uploads/achievements/icons/104.jpg\",\nid: \"104\",\nhash: \"2ddc189d1b178fa8\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/102.jpg\", js_preres_url + \"/uploads/achievements/icons/103.jpg\", js_preres_url + \"/uploads/achievements/icons/104.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 898,
+        "title": "Подражание зверю",
+        "description": "Питомец превращается в хозяина",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/102.jpg",
+        "id": "102",
+        "hash": "178cd051d44463a9"
+      },
+      {
+        "category": "heroes",
+        "time_start": 207,
+        "title": "Острый клык",
+        "description": "Вы познакомились с Кибой и Акамару",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/103.jpg",
+        "id": "103",
+        "hash": "576c1bdd1111fbf3"
+      },
+      {
+        "category": "events",
+        "time_start": 376,
+        "title": "Достойный соперник",
+        "description": "Бой Наруто и Кибы",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/104.jpg",
+        "id": "104",
+        "hash": "2ddc189d1b178fa8"
+      }
+    ]
+  }
+}

@@ -1,2 +1,2 @@
 #!/bin/bash
-curl https://jut.su/narutoo/season-2 | pup '.content a attr{href}'
+curl https://jut.su/narutoo/season-1/ | pup '.content a attr{href}' | tail -n +3

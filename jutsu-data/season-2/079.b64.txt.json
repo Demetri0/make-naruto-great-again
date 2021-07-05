@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "79",
+  "video_intro_start": null,
+  "video_intro_end": null,
+  "video_music_intro": null,
+  "video_outro_start": null,
+  "video_music_outro": "https://www.shazam.com/track/153770694",
+  "this_video_duration": 1294,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDIyMSwKdGl0bGU6ICLQkdC10YHRgdC80LXRgNGC0L3Ri9C5IiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCl0LjQtNCw0L3QvtC8IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzY2LmpwZyIsCmlkOiAiMzY2IiwKaGFzaDogIjEzOTdiYTFjYzAwNTk2ZDUiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM2Ni5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 221,\ntitle: \"Бессмертный\",\ndescription: \"Вы познакомились с Хиданом\",\nicon: js_preres_url + \"/uploads/achievements/icons/366.jpg\",\nid: \"366\",\nhash: \"1397ba1cc00596d5\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/366.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 221,
+        "title": "Бессмертный",
+        "description": "Вы познакомились с Хиданом",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/366.jpg",
+        "id": "366",
+        "hash": "1397ba1cc00596d5"
+      }
+    ]
+  }
+}

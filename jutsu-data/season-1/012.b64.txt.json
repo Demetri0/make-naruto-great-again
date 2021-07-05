@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "12",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://www.shazam.com/track/40834897",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1539173661?i=1539173662&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1400,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDU1NywKdGl0bGU6ICLQotGLINC90LUg0LTQtdCy0YPRiNC60LA/ISIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQpdCw0LrRgyDQrtC60LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zNC5qcGciLAppZDogIjM0IiwKaGFzaDogIjhlOGFjMjVhN2EwNWQ4MDgiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogMTIyNywKdGl0bGU6ICLQktC+0LfQstGA0LDRidC10L3QuNC1INCyINGC0YPQvNCw0L3QtSIsCmRlc2NyaXB0aW9uOiAi0J3QvtCy0LDRjyDQsdC40YLQstCwINGBINCX0LDQsdGD0LfQvtC5INC90LDRh9C40L3QsNC10YLRgdGPIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzUuanBnIiwKaWQ6ICIzNSIsCmhhc2g6ICIzNTk5NGRjOTFmYzY1NGRiIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zNC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zNS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 557,\ntitle: \"Ты не девушка?!\",\ndescription: \"Вы познакомились с Хаку Юки\",\nicon: js_preres_url + \"/uploads/achievements/icons/34.jpg\",\nid: \"34\",\nhash: \"8e8ac25a7a05d808\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1227,\ntitle: \"Возвращение в тумане\",\ndescription: \"Новая битва с Забузой начинается\",\nicon: js_preres_url + \"/uploads/achievements/icons/35.jpg\",\nid: \"35\",\nhash: \"35994dc91fc654db\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/34.jpg\", js_preres_url + \"/uploads/achievements/icons/35.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 557,
+        "title": "Ты не девушка?!",
+        "description": "Вы познакомились с Хаку Юки",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/34.jpg",
+        "id": "34",
+        "hash": "8e8ac25a7a05d808"
+      },
+      {
+        "category": "events",
+        "time_start": 1227,
+        "title": "Возвращение в тумане",
+        "description": "Новая битва с Забузой начинается",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/35.jpg",
+        "id": "35",
+        "hash": "35994dc91fc654db"
+      }
+    ]
+  }
+}

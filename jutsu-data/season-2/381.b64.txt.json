@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "381",
+  "video_intro_start": 357,
+  "video_intro_end": 447,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1123920486?i=1123920648&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 357,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536272178?i=1536272179&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiA0ODcsCnRpdGxlOiAi0KHQtdC80LXQudC90L7QtSDQtNC10LvQviIsCmRlc2NyaXB0aW9uOiAi0J3QsNGA0YPRgtC+INC4INCc0LjQvdCw0YLQviDRgNCw0LHQvtGC0LDRjtGCINGB0L7QvtCx0YnQsCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzc1NS5qcGciLAppZDogIjc1NSIsCmhhc2g6ICI3ZWM5ZTlhZDBhNTlmMjczIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDk2MSwKdGl0bGU6ICLQm9C10LPQtdC90LTQsCDQviDQnNGD0LTRgNC10YbQtSIsCmRlc2NyaXB0aW9uOiAi0JLRi9GB0LvRg9GI0LDQudGC0LUg0YDQsNGB0YHQutCw0Lcg0JzQsNC00LDRgNGLIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzU2LmpwZyIsCmlkOiAiNzU2IiwKaGFzaDogIjA2NzM3OTcxMDhkZDU4ZmQiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzc1NS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83NTYuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 487,\ntitle: \"Семейное дело\",\ndescription: \"Наруто и Минато работают сообща\",\nicon: js_preres_url + \"/uploads/achievements/icons/755.jpg\",\nid: \"755\",\nhash: \"7ec9e9ad0a59f273\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 961,\ntitle: \"Легенда о Мудреце\",\ndescription: \"Выслушайте рассказ Мадары\",\nicon: js_preres_url + \"/uploads/achievements/icons/756.jpg\",\nid: \"756\",\nhash: \"0673797108dd58fd\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/755.jpg\", js_preres_url + \"/uploads/achievements/icons/756.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 487,
+        "title": "Семейное дело",
+        "description": "Наруто и Минато работают сообща",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/755.jpg",
+        "id": "755",
+        "hash": "7ec9e9ad0a59f273"
+      },
+      {
+        "category": "events",
+        "time_start": 961,
+        "title": "Легенда о Мудреце",
+        "description": "Выслушайте рассказ Мадары",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/756.jpg",
+        "id": "756",
+        "hash": "0673797108dd58fd"
+      }
+    ]
+  }
+}

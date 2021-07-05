@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "53",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/963662940?i=963662941&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1537386692?i=1537386697&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1386,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDEzNywKdGl0bGU6ICLQmNC30LLRgNCw0YnRkdC90L3Ri9C5INCe0YLRiNC10LvRjNC90LjQuiIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQlNC20LjRgNCw0LnQtdC5IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTE3LmpwZyIsCmlkOiAiMTE3IiwKaGFzaDogIjlhZjFmMDEwYWY4MTc5ZDUiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaHVtb3IiLAp0aW1lX3N0YXJ0OiA2NTYsCnRpdGxlOiAi0KHQvtCx0LvQsNC30L0g0LLQtdC70LjQuiIsCmRlc2NyaXB0aW9uOiAi0JrQsNC6INGB0YLQsNGC0Ywg0YPRh9C10L3QuNC60L7QvCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzExOC5qcGciLAppZDogIjExOCIsCmhhc2g6ICI0ZjAyMjg4OWZiNzRiM2M1Igp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xMTcuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTE4LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 137,\ntitle: \"Извращённый Отшельник\",\ndescription: \"Вы познакомились с Джирайей\",\nicon: js_preres_url + \"/uploads/achievements/icons/117.jpg\",\nid: \"117\",\nhash: \"9af1f010af8179d5\"\n});\r\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 656,\ntitle: \"Соблазн велик\",\ndescription: \"Как стать учеником\",\nicon: js_preres_url + \"/uploads/achievements/icons/118.jpg\",\nid: \"118\",\nhash: \"4f022889fb74b3c5\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/117.jpg\", js_preres_url + \"/uploads/achievements/icons/118.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 137,
+        "title": "Извращённый Отшельник",
+        "description": "Вы познакомились с Джирайей",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/117.jpg",
+        "id": "117",
+        "hash": "9af1f010af8179d5"
+      },
+      {
+        "category": "humor",
+        "time_start": 656,
+        "title": "Соблазн велик",
+        "description": "Как стать учеником",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/118.jpg",
+        "id": "118",
+        "hash": "4f022889fb74b3c5"
+      }
+    ]
+  }
+}

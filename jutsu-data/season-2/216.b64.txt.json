@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "216",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/550296634?i=550296638&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/507684809?i=507684818&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEwMjMsCnRpdGxlOiAi0J/QvtC90Y/RgtGMINC00YDRg9CzINC00YDRg9Cz0LAiLApkZXNjcmlwdGlvbjogItCS0YvRgdC70YPRiNCw0LnRgtC1INGA0LDQt9Cz0L7QstC+0YAg0J3QsNGA0YPRgtC+INC4INCh0LDRgdC60LUiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81NDEuanBnIiwKaWQ6ICI1NDEiLApoYXNoOiAiZmJlZWFiNTI5ZWQ3ZDAwOSIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTQxLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1023,\ntitle: \"Понять друг друга\",\ndescription: \"Выслушайте разговор Наруто и Саске\",\nicon: js_preres_url + \"/uploads/achievements/icons/541.jpg\",\nid: \"541\",\nhash: \"fbeeab529ed7d009\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/541.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 1023,
+        "title": "Понять друг друга",
+        "description": "Выслушайте разговор Наруто и Саске",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/541.jpg",
+        "id": "541",
+        "hash": "fbeeab529ed7d009"
+      }
+    ]
+  }
+}

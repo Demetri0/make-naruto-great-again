@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "298",
+  "video_intro_start": 159,
+  "video_intro_end": 249,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1409861532?i=1409861550&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 159,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1286599059?i=1286599215&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDE1MSwKdGl0bGU6ICLQktC+0LfRgNC+0LbQtNGR0L3QvdGL0Lkg0KjQsNGA0LjQvdCz0LDQvSIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQstGB0YLRgNC10YLQuNC70Lgg0LLQvtGB0LrRgNC10YjRkdC90L3QvtCz0L4g0JjRgtCw0YfQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY0NC5qcGciLAppZDogIjY0NCIsCmhhc2g6ICIzM2QyZDdmNWIzZTRjMzMyIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDMxLAp0aXRsZTogItCS0L7Qt9GA0L7QttC00ZHQvdC90YvQuSDQoNC40L3QvdC10LPQsNC9IiwKZGVzY3JpcHRpb246ICLQktGLINCy0YHRgtGA0LXRgtC40LvQuCDQstC+0YHQutGA0LXRiNGR0L3QvdC+0LPQviDQndCw0LPQsNGC0L4iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82NDUuanBnIiwKaWQ6ICI2NDUiLApoYXNoOiAiYjU2NTdhYzZlZTczMGVhZiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiAxMDAyLAp0aXRsZTogItCd0LDRgdC70LXQtNC40LUg0KjQuNGB0YPQuCIsCmRlc2NyaXB0aW9uOiAi0JjRgtCw0YfQuCDQuNC30LHQsNCy0LjQu9GB0Y8g0L7RgiDQutC+0L3RgtGA0L7Qu9GPIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjQ2LmpwZyIsCmlkOiAiNjQ2IiwKaGFzaDogIjk1MDY0NTFmZGQ3NzgxYWYiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY0NC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82NDUuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjQ2LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 151,\ntitle: \"Возрождённый Шаринган\",\ndescription: \"Вы встретили воскрешённого Итачи\",\nicon: js_preres_url + \"/uploads/achievements/icons/644.jpg\",\nid: \"644\",\nhash: \"33d2d7f5b3e4c332\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 31,\ntitle: \"Возрождённый Риннеган\",\ndescription: \"Вы встретили воскрешённого Нагато\",\nicon: js_preres_url + \"/uploads/achievements/icons/645.jpg\",\nid: \"645\",\nhash: \"b5657ac6ee730eaf\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1002,\ntitle: \"Наследие Шисуи\",\ndescription: \"Итачи избавился от контроля\",\nicon: js_preres_url + \"/uploads/achievements/icons/646.jpg\",\nid: \"646\",\nhash: \"9506451fdd7781af\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/644.jpg\", js_preres_url + \"/uploads/achievements/icons/645.jpg\", js_preres_url + \"/uploads/achievements/icons/646.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 151,
+        "title": "Возрождённый Шаринган",
+        "description": "Вы встретили воскрешённого Итачи",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/644.jpg",
+        "id": "644",
+        "hash": "33d2d7f5b3e4c332"
+      },
+      {
+        "category": "heroes",
+        "time_start": 31,
+        "title": "Возрождённый Риннеган",
+        "description": "Вы встретили воскрешённого Нагато",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/645.jpg",
+        "id": "645",
+        "hash": "b5657ac6ee730eaf"
+      },
+      {
+        "category": "events",
+        "time_start": 1002,
+        "title": "Наследие Шисуи",
+        "description": "Итачи избавился от контроля",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/646.jpg",
+        "id": "646",
+        "hash": "9506451fdd7781af"
+      }
+    ]
+  }
+}

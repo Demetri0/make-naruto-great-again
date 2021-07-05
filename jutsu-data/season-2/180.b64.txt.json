@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "180",
+  "video_intro_start": 133,
+  "video_intro_end": 223,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/673586556?i=673586565&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 133,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536392596?i=1536392605&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImNyZWRpdHMiLAp0aW1lX3N0YXJ0OiAyMDMsCnRpdGxlOiAiT2JvcmVuYWkgWW8iLApkZXNjcmlwdGlvbjogItCf0YDQvtGB0LvRg9GI0LDQudGC0LUgOCDQvtC/0LXQvdC40L3QsyAyINGB0LXQt9C+0L3QsCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ4OC5qcGciLAppZDogIjQ4OCIsCmhhc2g6ICJhNzA2M2QxYzVjMzVhY2Y3Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDk5LAp0aXRsZTogItCl0YDQsNCx0YDRi9C5INC80LDQu9GL0LkiLApkZXNjcmlwdGlvbjogItCS0Ysg0LLRgdGC0YDQtdGC0LjQu9C4INC/0L7QstC30YDQvtGB0LvQtdCy0YjQtdCz0L4g0JjQvdCw0YDQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ4OS5qcGciLAppZDogIjQ4OSIsCmhhc2g6ICI5ZmZhZTQyNTYxNjc2OTg4Igp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80ODguanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDg5LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"credits\",\ntime_start: 203,\ntitle: \"Oborenai Yo\",\ndescription: \"Прослушайте 8 опенинг 2 сезона\",\nicon: js_preres_url + \"/uploads/achievements/icons/488.jpg\",\nid: \"488\",\nhash: \"a7063d1c5c35acf7\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 99,\ntitle: \"Храбрый малый\",\ndescription: \"Вы встретили повзрослевшего Инари\",\nicon: js_preres_url + \"/uploads/achievements/icons/489.jpg\",\nid: \"489\",\nhash: \"9ffae42561676988\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/488.jpg\", js_preres_url + \"/uploads/achievements/icons/489.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "credits",
+        "time_start": 203,
+        "title": "Oborenai Yo",
+        "description": "Прослушайте 8 опенинг 2 сезона",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/488.jpg",
+        "id": "488",
+        "hash": "a7063d1c5c35acf7"
+      },
+      {
+        "category": "heroes",
+        "time_start": 99,
+        "title": "Храбрый малый",
+        "description": "Вы встретили повзрослевшего Инари",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/489.jpg",
+        "id": "489",
+        "hash": "9ffae42561676988"
+      }
+    ]
+  }
+}

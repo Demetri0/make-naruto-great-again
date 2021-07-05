@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "243",
+  "video_intro_start": 164,
+  "video_intro_end": 254,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1537248449?i=1537248451&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 164,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/491247699?i=491247706&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDQxMSwKdGl0bGU6ICLQktC+0YHQtdC80Ywg0Lgg0LTQtdCy0Y/RgtGMIiwKZGVzY3JpcHRpb246ICLQndCw0YDRg9GC0L4g0L/RgNC40LHRi9Cy0LDQtdGCINC90LAg0L7RgdGC0YDQvtCyIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTU5LmpwZyIsCmlkOiAiNTU5IiwKaGFzaDogImQ2MDU2MDk0ZTU3MTllZTEiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogODk4LAp0aXRsZTogItCS0YDQsNCzINCyINC+0YLRgNCw0LbQtdC90LjQuCIsCmRlc2NyaXB0aW9uOiAi0KHRgtC+0LvQutC90LjRgtC10YHRjCDRgSDQotGR0LzQvdGL0Lwg0J3QsNGA0YPRgtC+IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTYwLmpwZyIsCmlkOiAiNTYwIiwKaGFzaDogImZiODhiOGY2NDc3ZTBiNjYiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU1OS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81NjAuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 411,\ntitle: \"Восемь и девять\",\ndescription: \"Наруто прибывает на остров\",\nicon: js_preres_url + \"/uploads/achievements/icons/559.jpg\",\nid: \"559\",\nhash: \"d6056094e5719ee1\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 898,\ntitle: \"Враг в отражении\",\ndescription: \"Столкнитесь с Тёмным Наруто\",\nicon: js_preres_url + \"/uploads/achievements/icons/560.jpg\",\nid: \"560\",\nhash: \"fb88b8f6477e0b66\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/559.jpg\", js_preres_url + \"/uploads/achievements/icons/560.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 411,
+        "title": "Восемь и девять",
+        "description": "Наруто прибывает на остров",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/559.jpg",
+        "id": "559",
+        "hash": "d6056094e5719ee1"
+      },
+      {
+        "category": "events",
+        "time_start": 898,
+        "title": "Враг в отражении",
+        "description": "Столкнитесь с Тёмным Наруто",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/560.jpg",
+        "id": "560",
+        "hash": "fb88b8f6477e0b66"
+      }
+    ]
+  }
+}

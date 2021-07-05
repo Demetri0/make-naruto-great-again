@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "309",
+  "video_intro_start": 257,
+  "video_intro_end": 347,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/673672242?i=673672255&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 257,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1394422068?i=1394422070&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDEyMywKdGl0bGU6ICLQn9Cw0LLRiNC40Lkg0YHQsNC80YPRgNCw0LkiLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0KLQsNGC0LXQstCw0LrQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY2MC5qcGciLAppZDogIjY2MCIsCmhhc2g6ICJiMjQ5MmU1ODMzOWJmZjRiIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImh1bW9yIiwKdGltZV9zdGFydDogNDM2LAp0aXRsZTogItCQ0YLQvNC+0YHRhNC10YDQsCDQsiDQvtGA0LPQsNC90LjQt9Cw0YbQuNC4IiwKZGVzY3JpcHRpb246ICLQmtCw0Log0LvQsNC00Y/RgiDQkNC60LDRhtGD0LrQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY2MS5qcGciLAppZDogIjY2MSIsCmhhc2g6ICIwZmM0NTg2MWYyMDcxMTA5Igp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82NjAuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjYxLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 123,\ntitle: \"Павший самурай\",\ndescription: \"Вы познакомились с Татеваки\",\nicon: js_preres_url + \"/uploads/achievements/icons/660.jpg\",\nid: \"660\",\nhash: \"b2492e58339bff4b\"\n});\r\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 436,\ntitle: \"Атмосфера в организации\",\ndescription: \"Как ладят Акацуки\",\nicon: js_preres_url + \"/uploads/achievements/icons/661.jpg\",\nid: \"661\",\nhash: \"0fc45861f2071109\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/660.jpg\", js_preres_url + \"/uploads/achievements/icons/661.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 123,
+        "title": "Павший самурай",
+        "description": "Вы познакомились с Татеваки",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/660.jpg",
+        "id": "660",
+        "hash": "b2492e58339bff4b"
+      },
+      {
+        "category": "humor",
+        "time_start": 436,
+        "title": "Атмосфера в организации",
+        "description": "Как ладят Акацуки",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/661.jpg",
+        "id": "661",
+        "hash": "0fc45861f2071109"
+      }
+    ]
+  }
+}

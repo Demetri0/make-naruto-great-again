@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "36",
+  "video_intro_start": 230,
+  "video_intro_end": 320,
+  "video_music_intro": "https://www.shazam.com/track/477851517",
+  "video_outro_start": 230,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536963848?i=1536963849&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1385,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInF1b3RlcyIsCnRpbWVfc3RhcnQ6IDIyNSwKdGl0bGU6ICLQpNCw0LvRjNGI0LjQstCw0Y8g0YPQu9GL0LHQutCwIiwKZGVzY3JpcHRpb246ICLQktGL0YHQu9GD0YjQsNC50YLQtSDRgNCw0LfQs9C+0LLQvtGAINC90L7QstC+0Lkg0LrQvtC80LDQvdC00YsiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zMzAuanBnIiwKaWQ6ICIzMzAiLApoYXNoOiAiMWIzM2FlYzYxZWFjMDlhNCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJodW1vciIsCnRpbWVfc3RhcnQ6IDY3OSwKdGl0bGU6ICLQodC+0LLQvNC10YHRgtC90YvQuSDQvtGC0LTRi9GFIiwKZGVzY3JpcHRpb246ICLQndC1INC/0L7QstC10LfQu9C+INGBINC60L7QvNC/0LDQvdC40LXQuSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMzMS5qcGciLAppZDogIjMzMSIsCmhhc2g6ICJmNWYzODY5NDk3MzI2MTk4Igp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zMzAuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzMxLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"quotes\",\ntime_start: 225,\ntitle: \"Фальшивая улыбка\",\ndescription: \"Выслушайте разговор новой команды\",\nicon: js_preres_url + \"/uploads/achievements/icons/330.jpg\",\nid: \"330\",\nhash: \"1b33aec61eac09a4\"\n});\r\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 679,\ntitle: \"Совместный отдых\",\ndescription: \"Не повезло с компанией\",\nicon: js_preres_url + \"/uploads/achievements/icons/331.jpg\",\nid: \"331\",\nhash: \"f5f3869497326198\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/330.jpg\", js_preres_url + \"/uploads/achievements/icons/331.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "quotes",
+        "time_start": 225,
+        "title": "Фальшивая улыбка",
+        "description": "Выслушайте разговор новой команды",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/330.jpg",
+        "id": "330",
+        "hash": "1b33aec61eac09a4"
+      },
+      {
+        "category": "humor",
+        "time_start": 679,
+        "title": "Совместный отдых",
+        "description": "Не повезло с компанией",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/331.jpg",
+        "id": "331",
+        "hash": "f5f3869497326198"
+      }
+    ]
+  }
+}

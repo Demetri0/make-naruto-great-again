@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "325",
+  "video_intro_start": 345,
+  "video_intro_end": 435,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/673672242?i=673672255&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 345,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1538111878?i=1538111883&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDgzLAp0aXRsZTogItCX0LLQtdGA0Ywg0L3QsCDQt9Cy0LXRgNGPIiwKZGVzY3JpcHRpb246ICLQkdC40YLQstCwINGBINCU0LbQuNC90YfRg9GA0LjQutC4INC4INC40YUg0KXQstC+0YHRgtCw0YLRi9C80LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82NzcuanBnIiwKaWQ6ICI2NzciLApoYXNoOiAiZDQ4MDg2NzVhM2IyY2QyNSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiAxNDMsCnRpdGxlOiAi0JvQsNCy0L7QstGL0Lkg0YHRgtCw0YDQuNC6IiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCg0L7RiNC4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjc4LmpwZyIsCmlkOiAiNjc4IiwKaGFzaDogIjk3MmYwZTgzYmY4ZDUyMjgiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogNzA4LAp0aXRsZTogItCf0LDRgNC+0LLQsNGPINCx0YDQvtC90Y8iLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0KXQsNC90L7QvCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY3OS5qcGciLAppZDogIjY3OSIsCmhhc2g6ICI2MWE4N2FiMTY0MjNhMWM2Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDQ3MSwKdGl0bGU6ICLQlNC10LLRg9GI0LrQsC3QttGD0LoiLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0KTRgyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY4MC5qcGciLAppZDogIjY4MCIsCmhhc2g6ICIxZjU1ZWJiMTI2NTg3MDA0Igp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82NzcuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjc4LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY3OS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82ODAuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 83,\ntitle: \"Зверь на зверя\",\ndescription: \"Битва с Джинчурики и их Хвостатыми\",\nicon: js_preres_url + \"/uploads/achievements/icons/677.jpg\",\nid: \"677\",\nhash: \"d4808675a3b2cd25\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 143,\ntitle: \"Лавовый старик\",\ndescription: \"Вы познакомились с Роши\",\nicon: js_preres_url + \"/uploads/achievements/icons/678.jpg\",\nid: \"678\",\nhash: \"972f0e83bf8d5228\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 708,\ntitle: \"Паровая броня\",\ndescription: \"Вы познакомились с Ханом\",\nicon: js_preres_url + \"/uploads/achievements/icons/679.jpg\",\nid: \"679\",\nhash: \"61a87ab16423a1c6\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 471,\ntitle: \"Девушка-жук\",\ndescription: \"Вы познакомились с Фу\",\nicon: js_preres_url + \"/uploads/achievements/icons/680.jpg\",\nid: \"680\",\nhash: \"1f55ebb126587004\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/677.jpg\", js_preres_url + \"/uploads/achievements/icons/678.jpg\", js_preres_url + \"/uploads/achievements/icons/679.jpg\", js_preres_url + \"/uploads/achievements/icons/680.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 83,
+        "title": "Зверь на зверя",
+        "description": "Битва с Джинчурики и их Хвостатыми",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/677.jpg",
+        "id": "677",
+        "hash": "d4808675a3b2cd25"
+      },
+      {
+        "category": "heroes",
+        "time_start": 143,
+        "title": "Лавовый старик",
+        "description": "Вы познакомились с Роши",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/678.jpg",
+        "id": "678",
+        "hash": "972f0e83bf8d5228"
+      },
+      {
+        "category": "heroes",
+        "time_start": 708,
+        "title": "Паровая броня",
+        "description": "Вы познакомились с Ханом",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/679.jpg",
+        "id": "679",
+        "hash": "61a87ab16423a1c6"
+      },
+      {
+        "category": "heroes",
+        "time_start": 471,
+        "title": "Девушка-жук",
+        "description": "Вы познакомились с Фу",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/680.jpg",
+        "id": "680",
+        "hash": "1f55ebb126587004"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "301",
+  "video_intro_start": 98,
+  "video_intro_end": 188,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1409861532?i=1409861550&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 98,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1286599059?i=1286599215&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiA0NzUsCnRpdGxlOiAi0KDQtdC30LjQvdC+0LLRi9C1INGC0LXRhdC90LjQutC4IiwKZGVzY3JpcHRpb246ICLQo9C/0YDRg9Cz0LDRjyDQt9Cw0YnQuNGC0LAiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82NTAuanBnIiwKaWQ6ICI2NTAiLApoYXNoOiAiODczMGMyY2ExMTljY2E3OCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiAzMCwKdGl0bGU6ICLQotGA0LXRgtC40Lkg0KDQsNC50LrQsNCz0LUiLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0L7RgtGG0L7QvCDQrdGPIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjUxLmpwZyIsCmlkOiAiNjUxIiwKaGFzaDogImViYmQyY2MyYTgyZWZkY2UiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY1MC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82NTEuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 475,\ntitle: \"Резиновые техники\",\ndescription: \"Упругая защита\",\nicon: js_preres_url + \"/uploads/achievements/icons/650.jpg\",\nid: \"650\",\nhash: \"8730c2ca119cca78\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 30,\ntitle: \"Третий Райкаге\",\ndescription: \"Вы познакомились с отцом Эя\",\nicon: js_preres_url + \"/uploads/achievements/icons/651.jpg\",\nid: \"651\",\nhash: \"ebbd2cc2a82efdce\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/650.jpg\", js_preres_url + \"/uploads/achievements/icons/651.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 475,
+        "title": "Резиновые техники",
+        "description": "Упругая защита",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/650.jpg",
+        "id": "650",
+        "hash": "8730c2ca119cca78"
+      },
+      {
+        "category": "heroes",
+        "time_start": 30,
+        "title": "Третий Райкаге",
+        "description": "Вы познакомились с отцом Эя",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/651.jpg",
+        "id": "651",
+        "hash": "ebbd2cc2a82efdce"
+      }
+    ]
+  }
+}

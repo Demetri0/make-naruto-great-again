@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "498",
+  "video_intro_start": 160,
+  "video_intro_end": 250,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1189707930?i=1189708057&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 160,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1538113636?i=1538113637&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1393,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImh1bW9yIiwKdGltZV9zdGFydDogNzAxLAp0aXRsZTogItCX0LDQv9Cw0Lsg0L3QsCDQvdC10ZEiLApkZXNjcmlwdGlvbjogItCa0LjQsdC1INC90LUg0LTQviDQtNC10LLRg9GI0LXQuiIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzg2OS5qcGciLAppZDogIjg2OSIsCmhhc2g6ICJjNGQyMmU5NTM0MGQ5OTU0Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEyNjcsCnRpdGxlOiAi0J/QvtC00LDRgNC+0Log0YLQvtCy0LDRgNC40YnQtdC5IiwKZGVzY3JpcHRpb246ICLQo9C30L3QsNC50YLQtSwg0YfRgtC+INCz0L7RgtC+0LLQuNGCINCa0L7QvNCw0L3QtNCwINCa0YPRgNC10L3QsNC5IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODcwLmpwZyIsCmlkOiAiODcwIiwKaGFzaDogIjEwYTI2YmQ0MDUwY2VhNWIiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzg2OS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84NzAuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 701,\ntitle: \"Запал на неё\",\ndescription: \"Кибе не до девушек\",\nicon: js_preres_url + \"/uploads/achievements/icons/869.jpg\",\nid: \"869\",\nhash: \"c4d22e95340d9954\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1267,\ntitle: \"Подарок товарищей\",\ndescription: \"Узнайте, что готовит Команда Куренай\",\nicon: js_preres_url + \"/uploads/achievements/icons/870.jpg\",\nid: \"870\",\nhash: \"10a26bd4050cea5b\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/869.jpg\", js_preres_url + \"/uploads/achievements/icons/870.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "humor",
+        "time_start": 701,
+        "title": "Запал на неё",
+        "description": "Кибе не до девушек",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/869.jpg",
+        "id": "869",
+        "hash": "c4d22e95340d9954"
+      },
+      {
+        "category": "events",
+        "time_start": 1267,
+        "title": "Подарок товарищей",
+        "description": "Узнайте, что готовит Команда Куренай",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/870.jpg",
+        "id": "870",
+        "hash": "10a26bd4050cea5b"
+      }
+    ]
+  }
+}

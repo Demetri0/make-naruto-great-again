@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "165",
+  "video_intro_start": 63,
+  "video_intro_end": 153,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1445023799?i=1445023978&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 63,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1297477596?i=1297478116&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInF1b3RlcyIsCnRpbWVfc3RhcnQ6IDExNzcsCnRpdGxlOiAi0JrRgNGD0LMg0L3QtdC90LDQstC40YHRgtC4IiwKZGVzY3JpcHRpb246ICLQktGL0YHQu9GD0YjQsNC50YLQtSDQvNC+0L3QvtC70L7QsyDQn9C10LnQvdCwIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDc0LmpwZyIsCmlkOiAiNDc0IiwKaGFzaDogIjZiYjdjZDc3OTAxNWE4MzEiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ3NC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"quotes\",\ntime_start: 1177,\ntitle: \"Круг ненависти\",\ndescription: \"Выслушайте монолог Пейна\",\nicon: js_preres_url + \"/uploads/achievements/icons/474.jpg\",\nid: \"474\",\nhash: \"6bb7cd779015a831\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/474.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "quotes",
+        "time_start": 1177,
+        "title": "Круг ненависти",
+        "description": "Выслушайте монолог Пейна",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/474.jpg",
+        "id": "474",
+        "hash": "6bb7cd779015a831"
+      }
+    ]
+  }
+}

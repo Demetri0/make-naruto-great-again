@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "10",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://www.shazam.com/track/40834897",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1539173661?i=1539173662&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1401,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiA4MzcsCnRpdGxlOiAi0KHQu9C10LTRg9GO0YnQuNC5INGD0YDQvtC6IiwKZGVzY3JpcHRpb246ICLQndC40L3QtNC30Y8g0YPQvNC10Y7RgiDRhdC+0LTQuNGC0Ywg0L/QviDQtNC10YDQtdCy0YzRj9C8IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzEuanBnIiwKaWQ6ICIzMSIsCmhhc2g6ICI0MjFkNTUyMzg0MjdlN2RkIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDU4MSwKdGl0bGU6ICLQn9C70LDQutGB0LAiLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0JjQvdCw0YDQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMyLmpwZyIsCmlkOiAiMzIiLApoYXNoOiAiNmUzMzEwOGRiMWNkNWQwOSIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzEuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzIuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 837,\ntitle: \"Следующий урок\",\ndescription: \"Ниндзя умеют ходить по деревьям\",\nicon: js_preres_url + \"/uploads/achievements/icons/31.jpg\",\nid: \"31\",\nhash: \"421d55238427e7dd\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 581,\ntitle: \"Плакса\",\ndescription: \"Вы познакомились с Инари\",\nicon: js_preres_url + \"/uploads/achievements/icons/32.jpg\",\nid: \"32\",\nhash: \"6e33108db1cd5d09\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/31.jpg\", js_preres_url + \"/uploads/achievements/icons/32.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 837,
+        "title": "Следующий урок",
+        "description": "Ниндзя умеют ходить по деревьям",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/31.jpg",
+        "id": "31",
+        "hash": "421d55238427e7dd"
+      },
+      {
+        "category": "heroes",
+        "time_start": 581,
+        "title": "Плакса",
+        "description": "Вы познакомились с Инари",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/32.jpg",
+        "id": "32",
+        "hash": "6e33108db1cd5d09"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "88",
+  "video_intro_start": 154,
+  "video_intro_end": 244,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1536372804?i=1536372808&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 154,
+  "video_music_outro": "https://www.shazam.com/track/153770694",
+  "this_video_duration": 1384,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiAxMTI2LAp0aXRsZTogItCg0LDRgdC10L0g0KHRjtGA0LjQutC10L0iLApkZXNjcmlwdGlvbjogItCd0L7QstGL0Lkg0LLQuNGF0YDRjCDQndCw0YDRg9GC0L4iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zODAuanBnIiwKaWQ6ICIzODAiLApoYXNoOiAiZTlhZmM0YjYyY2RmYjdkOCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJhcmNzIiwKdGltZV9zdGFydDogMTIwMSwKdGl0bGU6ICLQl9C+0LzQsdC4LdC60L7QvNCx0L4iLApkZXNjcmlwdGlvbjogItCX0LDQstC10YDRiNC40YLQtSDQsNGA0LrRgyDQkdC10YHRgdC80LXRgNGC0L3Ri9GFINCe0L/Rg9GB0YLQvtGI0LjRgtC10LvQtdC5IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzgxLmpwZyIsCmlkOiAiMzgxIiwKaGFzaDogIjA4ZTMzZmNiOTQxZDFhODkiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM4MC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zODEuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 1126,\ntitle: \"Расен Сюрикен\",\ndescription: \"Новый вихрь Наруто\",\nicon: js_preres_url + \"/uploads/achievements/icons/380.jpg\",\nid: \"380\",\nhash: \"e9afc4b62cdfb7d8\"\n});\r\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 1201,\ntitle: \"Зомби-комбо\",\ndescription: \"Завершите арку Бессмертных Опустошителей\",\nicon: js_preres_url + \"/uploads/achievements/icons/381.jpg\",\nid: \"381\",\nhash: \"08e33fcb941d1a89\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/380.jpg\", js_preres_url + \"/uploads/achievements/icons/381.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 1126,
+        "title": "Расен Сюрикен",
+        "description": "Новый вихрь Наруто",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/380.jpg",
+        "id": "380",
+        "hash": "e9afc4b62cdfb7d8"
+      },
+      {
+        "category": "arcs",
+        "time_start": 1201,
+        "title": "Зомби-комбо",
+        "description": "Завершите арку Бессмертных Опустошителей",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/381.jpg",
+        "id": "381",
+        "hash": "08e33fcb941d1a89"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "364",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1536453723?i=1536453786&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1394561868?i=1394562025&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDQ0MCwKdGl0bGU6ICLQqNGC0LDQsSDRg9C90LjRh9GC0L7QttC10L0iLApkZXNjcmlwdGlvbjogItCYINCy0YHQtSwg0LrRgtC+INGC0LDQvCDQsdGL0LsiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83MjQuanBnIiwKaWQ6ICI3MjQiLApoYXNoOiAiODc5NDdlMTVmYmRiM2U2NyIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiA4NTMsCnRpdGxlOiAi0JLQvtC70YzQvdCw0Y8g0L/RgtC40YbQsCIsCmRlc2NyaXB0aW9uOiAi0J3QtdC00LbQuCDQv9C+0LPQuNCx0LDQtdGCIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzI1LmpwZyIsCmlkOiAiNzI1IiwKaGFzaDogIjE3MzA1Y2EzYTM4MjkyNTMiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAicXVvdGVzIiwKdGltZV9zdGFydDogOTgzLAp0aXRsZTogItCh0LrQsNC20Lgg0Y3RgtC+INC10YnRkSDRgNCw0LciLApkZXNjcmlwdGlvbjogItCS0YvRgdC70YPRiNCw0LnRgtC1INC80L7QvdC+0LvQvtCzINCe0LHQuNGC0L4iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83MjYuanBnIiwKaWQ6ICI3MjYiLApoYXNoOiAiMzA3YjBlOTdjOTA3YjE5MCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiAxMjU3LAp0aXRsZTogItChINC90L7QstC+0Lkg0LLQtdGA0L7QuSIsCmRlc2NyaXB0aW9uOiAi0KXQuNC90LDRgtCwINCy0L7QvtC00YPRiNC10LLQu9GP0LXRgiDQndCw0YDRg9GC0L4iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83MjcuanBnIiwKaWQ6ICI3MjciLApoYXNoOiAiNzNkZjg4NjcyNWMyYTI2NyIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzI0LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzcyNS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83MjYuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzI3LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 440,\ntitle: \"Штаб уничтожен\",\ndescription: \"И все, кто там был\",\nicon: js_preres_url + \"/uploads/achievements/icons/724.jpg\",\nid: \"724\",\nhash: \"87947e15fbdb3e67\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 853,\ntitle: \"Вольная птица\",\ndescription: \"Неджи погибает\",\nicon: js_preres_url + \"/uploads/achievements/icons/725.jpg\",\nid: \"725\",\nhash: \"17305ca3a3829253\"\n});\r\nthis_anime_achievements.push({\ncategory: \"quotes\",\ntime_start: 983,\ntitle: \"Скажи это ещё раз\",\ndescription: \"Выслушайте монолог Обито\",\nicon: js_preres_url + \"/uploads/achievements/icons/726.jpg\",\nid: \"726\",\nhash: \"307b0e97c907b190\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1257,\ntitle: \"С новой верой\",\ndescription: \"Хината воодушевляет Наруто\",\nicon: js_preres_url + \"/uploads/achievements/icons/727.jpg\",\nid: \"727\",\nhash: \"73df886725c2a267\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/724.jpg\", js_preres_url + \"/uploads/achievements/icons/725.jpg\", js_preres_url + \"/uploads/achievements/icons/726.jpg\", js_preres_url + \"/uploads/achievements/icons/727.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 440,
+        "title": "Штаб уничтожен",
+        "description": "И все, кто там был",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/724.jpg",
+        "id": "724",
+        "hash": "87947e15fbdb3e67"
+      },
+      {
+        "category": "events",
+        "time_start": 853,
+        "title": "Вольная птица",
+        "description": "Неджи погибает",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/725.jpg",
+        "id": "725",
+        "hash": "17305ca3a3829253"
+      },
+      {
+        "category": "quotes",
+        "time_start": 983,
+        "title": "Скажи это ещё раз",
+        "description": "Выслушайте монолог Обито",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/726.jpg",
+        "id": "726",
+        "hash": "307b0e97c907b190"
+      },
+      {
+        "category": "events",
+        "time_start": 1257,
+        "title": "С новой верой",
+        "description": "Хината воодушевляет Наруто",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/727.jpg",
+        "id": "727",
+        "hash": "73df886725c2a267"
+      }
+    ]
+  }
+}

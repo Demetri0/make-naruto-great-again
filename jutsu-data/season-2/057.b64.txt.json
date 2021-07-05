@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "57",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/674923705?i=674923759&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": null,
+  "this_video_duration": 1264,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDMyMCwKdGl0bGU6ICLQoNCw0YHRhdC40YLQuNGC0LXQu9C4INC80L7Qs9C40LsiLApkZXNjcmlwdGlvbjogItCd0L7QstCw0Y8g0LzQuNGB0YHQuNGPINCyINCh0YLRgNCw0L3QtSDQntCz0L3RjyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM1MS5qcGciLAppZDogIjM1MSIsCmhhc2g6ICJhMGViN2M0NTg0NTk0NDAxIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDEwMzYsCnRpdGxlOiAi0JzQvtC90LDRhSDRgSDQutC+0LPRgtGP0LzQuCIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQodC+0YDQvtC5IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzUyLmpwZyIsCmlkOiAiMzUyIiwKaGFzaDogImVmMzBlNDVhMWRlNDlkYjQiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM1MS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zNTIuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 320,\ntitle: \"Расхитители могил\",\ndescription: \"Новая миссия в Стране Огня\",\nicon: js_preres_url + \"/uploads/achievements/icons/351.jpg\",\nid: \"351\",\nhash: \"a0eb7c4584594401\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1036,\ntitle: \"Монах с когтями\",\ndescription: \"Вы познакомились с Сорой\",\nicon: js_preres_url + \"/uploads/achievements/icons/352.jpg\",\nid: \"352\",\nhash: \"ef30e45a1de49db4\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/351.jpg\", js_preres_url + \"/uploads/achievements/icons/352.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 320,
+        "title": "Расхитители могил",
+        "description": "Новая миссия в Стране Огня",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/351.jpg",
+        "id": "351",
+        "hash": "a0eb7c4584594401"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1036,
+        "title": "Монах с когтями",
+        "description": "Вы познакомились с Сорой",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/352.jpg",
+        "id": "352",
+        "hash": "ef30e45a1de49db4"
+      }
+    ]
+  }
+}

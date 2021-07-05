@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "472",
+  "video_intro_start": 65,
+  "video_intro_end": 155,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1128303226?i=1128303347&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 65,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536315770?i=1536315771&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1400,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEyNDIsCnRpdGxlOiAi0JLQvtGB0YHQvtC10LTQuNC90LXQvdC40LUg0LIg0YDQsNGOIiwKZGVzY3JpcHRpb246ICLQntCx0LjRgtC+INCy0YHRgtGA0LXRh9Cw0LXRgiDQoNC40L0iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84MjQuanBnIiwKaWQ6ICI4MjQiLApoYXNoOiAiNDFlZTQwYTI0Njk4N2JkNSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiAxMTQwLAp0aXRsZTogItCc0L7QuCDQvNC10YfRgtGLINGC0LXQv9C10YDRjCDRgtCy0L7QuCIsCmRlc2NyaXB0aW9uOiAi0J7QsdC40YLQviDQv9C+0LPQuNCx0LDQtdGCIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODI1LmpwZyIsCmlkOiAiODI1IiwKaGFzaDogIjM4NDcwZThiZmNiYzFjOGQiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzgyNC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84MjUuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1242,\ntitle: \"Воссоединение в раю\",\ndescription: \"Обито встречает Рин\",\nicon: js_preres_url + \"/uploads/achievements/icons/824.jpg\",\nid: \"824\",\nhash: \"41ee40a246987bd5\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1140,\ntitle: \"Мои мечты теперь твои\",\ndescription: \"Обито погибает\",\nicon: js_preres_url + \"/uploads/achievements/icons/825.jpg\",\nid: \"825\",\nhash: \"38470e8bfcbc1c8d\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/824.jpg\", js_preres_url + \"/uploads/achievements/icons/825.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 1242,
+        "title": "Воссоединение в раю",
+        "description": "Обито встречает Рин",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/824.jpg",
+        "id": "824",
+        "hash": "41ee40a246987bd5"
+      },
+      {
+        "category": "events",
+        "time_start": 1140,
+        "title": "Мои мечты теперь твои",
+        "description": "Обито погибает",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/825.jpg",
+        "id": "825",
+        "hash": "38470e8bfcbc1c8d"
+      }
+    ]
+  }
+}

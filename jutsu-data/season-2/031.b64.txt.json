@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "31",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://www.shazam.com/track/477851517",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536963848?i=1536963849&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1388,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImNyZWRpdHMiLAp0aW1lX3N0YXJ0OiA4MCwKdGl0bGU6ICJNeSBmcmllbmQiLApkZXNjcmlwdGlvbjogItCf0YDQvtGB0LvRg9GI0LDQudGC0LUgMiDQvtC/0LXQvdC40L3QsyAyINGB0LXQt9C+0L3QsCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMxMS5qcGciLAppZDogIjMxMSIsCmhhc2g6ICJjNTdhOWFjNTE5N2FhNzFmIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiAzNzMsCnRpdGxlOiAi0JbQuNC30L3RjCDQstC30LDQvNC10L0iLApkZXNjcmlwdGlvbjogItCi0LXRhdC90LjQutCwINGA0LXQuNC90LrQsNGA0L3QsNGG0LjQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMxMi5qcGciLAppZDogIjMxMiIsCmhhc2g6ICIzNGVkNTc1YjU5ZGRiMWNiIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDY1NSwKdGl0bGU6ICLQktC+0LfQstGA0LDRidC10L3QuNC1INCa0LDQt9C10LrQsNCz0LUiLApkZXNjcmlwdGlvbjogItCT0LDQsNGA0LAg0L7QttC40LLQsNC10YIiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zMTMuanBnIiwKaWQ6ICIzMTMiLApoYXNoOiAiOTkxZWUwNmIzNjE1ZWU3NCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiA5ODcsCnRpdGxlOiAi0JjRgdC/0YDQsNCy0LvRj9GPINC+0YjQuNCx0LrRgyIsCmRlc2NyaXB0aW9uOiAi0KHQvNC10YDRgtGMINCn0LjRkSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMxNC5qcGciLAppZDogIjMxNCIsCmhhc2g6ICJhNGI4M2ZmOGUzMjZmOGRlIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zMTEuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzEyLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMxMy5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zMTQuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"credits\",\ntime_start: 80,\ntitle: \"My friend\",\ndescription: \"Прослушайте 2 опенинг 2 сезона\",\nicon: js_preres_url + \"/uploads/achievements/icons/311.jpg\",\nid: \"311\",\nhash: \"c57a9ac5197aa71f\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 373,\ntitle: \"Жизнь взамен\",\ndescription: \"Техника реинкарнации\",\nicon: js_preres_url + \"/uploads/achievements/icons/312.jpg\",\nid: \"312\",\nhash: \"34ed575b59ddb1cb\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 655,\ntitle: \"Возвращение Казекаге\",\ndescription: \"Гаара оживает\",\nicon: js_preres_url + \"/uploads/achievements/icons/313.jpg\",\nid: \"313\",\nhash: \"991ee06b3615ee74\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 987,\ntitle: \"Исправляя ошибку\",\ndescription: \"Смерть Чиё\",\nicon: js_preres_url + \"/uploads/achievements/icons/314.jpg\",\nid: \"314\",\nhash: \"a4b83ff8e326f8de\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/311.jpg\", js_preres_url + \"/uploads/achievements/icons/312.jpg\", js_preres_url + \"/uploads/achievements/icons/313.jpg\", js_preres_url + \"/uploads/achievements/icons/314.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "credits",
+        "time_start": 80,
+        "title": "My friend",
+        "description": "Прослушайте 2 опенинг 2 сезона",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/311.jpg",
+        "id": "311",
+        "hash": "c57a9ac5197aa71f"
+      },
+      {
+        "category": "techniques",
+        "time_start": 373,
+        "title": "Жизнь взамен",
+        "description": "Техника реинкарнации",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/312.jpg",
+        "id": "312",
+        "hash": "34ed575b59ddb1cb"
+      },
+      {
+        "category": "events",
+        "time_start": 655,
+        "title": "Возвращение Казекаге",
+        "description": "Гаара оживает",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/313.jpg",
+        "id": "313",
+        "hash": "991ee06b3615ee74"
+      },
+      {
+        "category": "events",
+        "time_start": 987,
+        "title": "Исправляя ошибку",
+        "description": "Смерть Чиё",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/314.jpg",
+        "id": "314",
+        "hash": "a4b83ff8e326f8de"
+      }
+    ]
+  }
+}

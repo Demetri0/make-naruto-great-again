@@ -1,0 +1,19 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "69",
+  "video_intro_start": null,
+  "video_intro_end": null,
+  "video_music_intro": null,
+  "video_outro_start": null,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/673488678?i=673488712&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1294,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "",
+  "custom_achiv_str": "",
+  "custom_achivements": {
+    "this_anime_achievements": null
+  }
+}

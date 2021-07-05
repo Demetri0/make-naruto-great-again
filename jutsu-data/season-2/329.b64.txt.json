@@ -1,0 +1,74 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "329",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/673672242?i=673672255&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1538111878?i=1538111883&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDUxOCwKdGl0bGU6ICLQnNC+0YnRjCDQtNCy0L7QuNGFIiwKZGVzY3JpcHRpb246ICLQndCw0YDRg9GC0L4g0Lgg0JvQuNGBINGC0LXQv9C10YDRjCDQt9Cw0L7QtNC90L4iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82ODQuanBnIiwKaWQ6ICI2ODQiLApoYXNoOiAiZmM5MjRmNzU0Yjk2YzE1NCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiAxMDk2LAp0aXRsZTogItCi0YDRkdGF0YXQstC+0YHRgtGL0LkiLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0JjRgdC+0LHRgyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY4NS5qcGciLAppZDogIjY4NSIsCmhhc2g6ICJlYmJhM2IxOGViZTg5ODdlIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDExMDQsCnRpdGxlOiAi0J/Rj9GC0LjRhdCy0L7RgdGC0YvQuSIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQmtC+0LrRg9C+IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjg2LmpwZyIsCmlkOiAiNjg2IiwKaGFzaDogIjZhNDE4NDMzZDAxOTUxYzQiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogMTEwOSwKdGl0bGU6ICLQqNC10YHRgtC40YXQstC+0YHRgtGL0LkiLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0KHQsNC50LrQtdC90L7QvCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY4Ny5qcGciLAppZDogIjY4NyIsCmhhc2g6ICI3YzU4NzVlMjRlZjQwOTkyIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDExMTUsCnRpdGxlOiAi0KHQtdC80LjRhdCy0L7RgdGC0YvQuSIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQp9C+0LzQtdC10LwiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82ODguanBnIiwKaWQ6ICI2ODgiLApoYXNoOiAiMGQ2ZDc1YjkxNWI1ZTVkZSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiAxMTkyLAp0aXRsZTogItCd0L7QstGL0Lkg0JzRg9C00YDQtdGGIiwKZGVzY3JpcHRpb246ICLQo9C30L3QsNC50YLQtSDQviDQv9GA0L7RiNC70L7QvCDQpdCy0L7RgdGC0LDRgtGL0YUiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82ODkuanBnIiwKaWQ6ICI2ODkiLApoYXNoOiAiZmZlNzk2MzFmNWQyYzkwOCIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjg0LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY4NS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82ODYuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjg3LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY4OC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82ODkuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 518,\ntitle: \"Мощь двоих\",\ndescription: \"Наруто и Лис теперь заодно\",\nicon: js_preres_url + \"/uploads/achievements/icons/684.jpg\",\nid: \"684\",\nhash: \"fc924f754b96c154\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1096,\ntitle: \"Трёххвостый\",\ndescription: \"Вы познакомились с Исобу\",\nicon: js_preres_url + \"/uploads/achievements/icons/685.jpg\",\nid: \"685\",\nhash: \"ebba3b18ebe8987e\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1104,\ntitle: \"Пятихвостый\",\ndescription: \"Вы познакомились с Кокуо\",\nicon: js_preres_url + \"/uploads/achievements/icons/686.jpg\",\nid: \"686\",\nhash: \"6a418433d01951c4\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1109,\ntitle: \"Шестихвостый\",\ndescription: \"Вы познакомились с Сайкеном\",\nicon: js_preres_url + \"/uploads/achievements/icons/687.jpg\",\nid: \"687\",\nhash: \"7c5875e24ef40992\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1115,\ntitle: \"Семихвостый\",\ndescription: \"Вы познакомились с Чомеем\",\nicon: js_preres_url + \"/uploads/achievements/icons/688.jpg\",\nid: \"688\",\nhash: \"0d6d75b915b5e5de\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1192,\ntitle: \"Новый Мудрец\",\ndescription: \"Узнайте о прошлом Хвостатых\",\nicon: js_preres_url + \"/uploads/achievements/icons/689.jpg\",\nid: \"689\",\nhash: \"ffe79631f5d2c908\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/684.jpg\", js_preres_url + \"/uploads/achievements/icons/685.jpg\", js_preres_url + \"/uploads/achievements/icons/686.jpg\", js_preres_url + \"/uploads/achievements/icons/687.jpg\", js_preres_url + \"/uploads/achievements/icons/688.jpg\", js_preres_url + \"/uploads/achievements/icons/689.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 518,
+        "title": "Мощь двоих",
+        "description": "Наруто и Лис теперь заодно",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/684.jpg",
+        "id": "684",
+        "hash": "fc924f754b96c154"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1096,
+        "title": "Трёххвостый",
+        "description": "Вы познакомились с Исобу",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/685.jpg",
+        "id": "685",
+        "hash": "ebba3b18ebe8987e"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1104,
+        "title": "Пятихвостый",
+        "description": "Вы познакомились с Кокуо",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/686.jpg",
+        "id": "686",
+        "hash": "6a418433d01951c4"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1109,
+        "title": "Шестихвостый",
+        "description": "Вы познакомились с Сайкеном",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/687.jpg",
+        "id": "687",
+        "hash": "7c5875e24ef40992"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1115,
+        "title": "Семихвостый",
+        "description": "Вы познакомились с Чомеем",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/688.jpg",
+        "id": "688",
+        "hash": "0d6d75b915b5e5de"
+      },
+      {
+        "category": "events",
+        "time_start": 1192,
+        "title": "Новый Мудрец",
+        "description": "Узнайте о прошлом Хвостатых",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/689.jpg",
+        "id": "689",
+        "hash": "ffe79631f5d2c908"
+      }
+    ]
+  }
+}

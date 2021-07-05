@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "189",
+  "video_intro_start": 113,
+  "video_intro_end": 203,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/673586556?i=673586565&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 113,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536392596?i=1536392605&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImh1bW9yIiwKdGltZV9zdGFydDogNDc3LAp0aXRsZTogItCQ0LvQu9C10YDQs9C40Y8g0L3QsCDQutC+0YjQtdC6IiwKZGVzY3JpcHRpb246ICLQmNC8INC+0YfQtdC90Ywg0LjQtNGD0YIg0YPRiNC60LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80OTIuanBnIiwKaWQ6ICI0OTIiLApoYXNoOiAiNGUxNDE2NWU3MDkzNWE1ZSIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDkyLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 477,\ntitle: \"Аллергия на кошек\",\ndescription: \"Им очень идут ушки\",\nicon: js_preres_url + \"/uploads/achievements/icons/492.jpg\",\nid: \"492\",\nhash: \"4e14165e70935a5e\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/492.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "humor",
+        "time_start": 477,
+        "title": "Аллергия на кошек",
+        "description": "Им очень идут ушки",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/492.jpg",
+        "id": "492",
+        "hash": "4e14165e70935a5e"
+      }
+    ]
+  }
+}

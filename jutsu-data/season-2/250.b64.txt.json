@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "250",
+  "video_intro_start": 118,
+  "video_intro_end": 208,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1537248449?i=1537248451&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 118,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/491247699?i=491247706&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEwNjYsCnRpdGxlOiAi0JTQstCwINC30LLQtdGA0Y8iLApkZXNjcmlwdGlvbjogItCT0LDQuSDQuCDQmtC40YHQsNC80LUg0YHQvdC+0LLQsCDRgdGF0L7QtNGP0YLRgdGPINCyINCx0LjRgtCy0LUiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81NjkuanBnIiwKaWQ6ICI1NjkiLApoYXNoOiAiYmEyYTFlM2MzYTE3ZDQxOSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJ0ZWNobmlxdWVzIiwKdGltZV9zdGFydDogMTI0MywKdGl0bGU6ICLQn9C+0LvRg9C00LXQvdC90YvQuSDRgtC40LPRgCIsCmRlc2NyaXB0aW9uOiAi0KPQutGD0YEg0LHQtdC70L7Qs9C+INC30LLQtdGA0Y8iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81NzAuanBnIiwKaWQ6ICI1NzAiLApoYXNoOiAiOGZkMTI2MmViMGQzYTZiYyIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTY5LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU3MC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1066,\ntitle: \"Два зверя\",\ndescription: \"Гай и Кисаме снова сходятся в битве\",\nicon: js_preres_url + \"/uploads/achievements/icons/569.jpg\",\nid: \"569\",\nhash: \"ba2a1e3c3a17d419\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 1243,\ntitle: \"Полуденный тигр\",\ndescription: \"Укус белого зверя\",\nicon: js_preres_url + \"/uploads/achievements/icons/570.jpg\",\nid: \"570\",\nhash: \"8fd1262eb0d3a6bc\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/569.jpg\", js_preres_url + \"/uploads/achievements/icons/570.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 1066,
+        "title": "Два зверя",
+        "description": "Гай и Кисаме снова сходятся в битве",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/569.jpg",
+        "id": "569",
+        "hash": "ba2a1e3c3a17d419"
+      },
+      {
+        "category": "techniques",
+        "time_start": 1243,
+        "title": "Полуденный тигр",
+        "description": "Укус белого зверя",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/570.jpg",
+        "id": "570",
+        "hash": "8fd1262eb0d3a6bc"
+      }
+    ]
+  }
+}

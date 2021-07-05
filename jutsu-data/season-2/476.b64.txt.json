@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "476",
+  "video_intro_start": 63,
+  "video_intro_end": 153,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1128303226?i=1128303347&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 63,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536315770?i=1536315771&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1393,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInF1b3RlcyIsCnRpbWVfc3RhcnQ6IDQyNCwKdGl0bGU6ICLQmtCw0Log0JjRgtCw0YfQuCIsCmRlc2NyaXB0aW9uOiAi0JLRi9GB0LvRg9GI0LDQudGC0LUg0LzQvdC10L3QuNC1INCh0LDRgdC60LUg0L4g0KXQvtC60LDQs9C1IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODMxLmpwZyIsCmlkOiAiODMxIiwKaGFzaDogImM5NTg0MWYzM2FkNTlmMjUiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogNTc5LAp0aXRsZTogItCf0L7RgdC70LXQtNC90LjQuSDQsdC+0LkiLApkZXNjcmlwdGlvbjogItCt0YLQsCDQsdC40YLQstCwINGA0LXRiNC40YIg0LLRgdGRIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODMyLmpwZyIsCmlkOiAiODMyIiwKaGFzaDogImRlYjc0MmFmNDhhM2IyYjIiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzgzMS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84MzIuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"quotes\",\ntime_start: 424,\ntitle: \"Как Итачи\",\ndescription: \"Выслушайте мнение Саске о Хокаге\",\nicon: js_preres_url + \"/uploads/achievements/icons/831.jpg\",\nid: \"831\",\nhash: \"c95841f33ad59f25\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 579,\ntitle: \"Последний бой\",\ndescription: \"Эта битва решит всё\",\nicon: js_preres_url + \"/uploads/achievements/icons/832.jpg\",\nid: \"832\",\nhash: \"deb742af48a3b2b2\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/831.jpg\", js_preres_url + \"/uploads/achievements/icons/832.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "quotes",
+        "time_start": 424,
+        "title": "Как Итачи",
+        "description": "Выслушайте мнение Саске о Хокаге",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/831.jpg",
+        "id": "831",
+        "hash": "c95841f33ad59f25"
+      },
+      {
+        "category": "events",
+        "time_start": 579,
+        "title": "Последний бой",
+        "description": "Эта битва решит всё",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/832.jpg",
+        "id": "832",
+        "hash": "deb742af48a3b2b2"
+      }
+    ]
+  }
+}

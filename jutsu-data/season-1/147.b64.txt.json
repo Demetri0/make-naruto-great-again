@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "147",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1536275318?i=1536275329&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://www.shazam.com/track/41257968",
+  "this_video_duration": 1390,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDUyOCwKdGl0bGU6ICLQltCw0LbQtNGD0YnQuNC5IiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCc0LjQt9GD0LrQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzIyOS5qcGciLAppZDogIjIyOSIsCmhhc2g6ICJhYTJlYTZmODgzOTg0MWEyIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImFyY3MiLAp0aW1lX3N0YXJ0OiAxMjU5LAp0aXRsZTogItCh0YLQsNGA0YvQuSDQstGA0LDQsyIsCmRlc2NyaXB0aW9uOiAi0JfQsNCy0LXRgNGI0LjRgtC1INCw0YDQutGDINCy0L7Qt9Cy0YDQsNGJ0LXQvdC40Y8g0JzQuNC30YPQutC4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjMwLmpwZyIsCmlkOiAiMjMwIiwKaGFzaDogIjY5NWNiMTRjYmM2M2VlNjkiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzIyOS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yMzAuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 528,\ntitle: \"Жаждущий\",\ndescription: \"Вы познакомились с Мизуки\",\nicon: js_preres_url + \"/uploads/achievements/icons/229.jpg\",\nid: \"229\",\nhash: \"aa2ea6f8839841a2\"\n});\r\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 1259,\ntitle: \"Старый враг\",\ndescription: \"Завершите арку возвращения Мизуки\",\nicon: js_preres_url + \"/uploads/achievements/icons/230.jpg\",\nid: \"230\",\nhash: \"695cb14cbc63ee69\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/229.jpg\", js_preres_url + \"/uploads/achievements/icons/230.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 528,
+        "title": "Жаждущий",
+        "description": "Вы познакомились с Мизуки",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/229.jpg",
+        "id": "229",
+        "hash": "aa2ea6f8839841a2"
+      },
+      {
+        "category": "arcs",
+        "time_start": 1259,
+        "title": "Старый враг",
+        "description": "Завершите арку возвращения Мизуки",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/230.jpg",
+        "id": "230",
+        "hash": "695cb14cbc63ee69"
+      }
+    ]
+  }
+}

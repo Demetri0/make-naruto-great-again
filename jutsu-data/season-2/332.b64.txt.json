@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "332",
+  "video_intro_start": 156,
+  "video_intro_end": 246,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/673672242?i=673672255&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 156,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1538111878?i=1538111883&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDQ5MCwKdGl0bGU6ICLQktC+0LvRjyDQutCw0LzQvdGPIiwKZGVzY3JpcHRpb246ICLQo9C30L3QsNC50YLQtSDQviDQv9GA0L7RiNC70L7QvCDQntC90L7QutC4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjkyLmpwZyIsCmlkOiAiNjkyIiwKaGFzaDogIjlmM2Q4OTQ3MGVhYWI3MDMiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogNjYzLAp0aXRsZTogItCd0L7QstCw0Y8g0LLRgdGC0YDQtdGH0LAiLApkZXNjcmlwdGlvbjogItCh0LDRgdC60LUg0YHRgtCw0LvQutC40LLQsNC10YLRgdGPINGBINCY0YLQsNGH0LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82OTMuanBnIiwKaWQ6ICI2OTMiLApoYXNoOiAiOTFjZWMxMTY5M2JhMjViNyIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjkyLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY5My5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 490,\ntitle: \"Воля камня\",\ndescription: \"Узнайте о прошлом Оноки\",\nicon: js_preres_url + \"/uploads/achievements/icons/692.jpg\",\nid: \"692\",\nhash: \"9f3d89470eaab703\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 663,\ntitle: \"Новая встреча\",\ndescription: \"Саске сталкивается с Итачи\",\nicon: js_preres_url + \"/uploads/achievements/icons/693.jpg\",\nid: \"693\",\nhash: \"91cec11693ba25b7\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/692.jpg\", js_preres_url + \"/uploads/achievements/icons/693.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 490,
+        "title": "Воля камня",
+        "description": "Узнайте о прошлом Оноки",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/692.jpg",
+        "id": "692",
+        "hash": "9f3d89470eaab703"
+      },
+      {
+        "category": "events",
+        "time_start": 663,
+        "title": "Новая встреча",
+        "description": "Саске сталкивается с Итачи",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/693.jpg",
+        "id": "693",
+        "hash": "91cec11693ba25b7"
+      }
+    ]
+  }
+}

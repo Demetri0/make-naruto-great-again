@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "267",
+  "video_intro_start": 45,
+  "video_intro_end": 135,
+  "video_music_intro": null,
+  "video_outro_start": 45,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/520999153?i=520999157&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEyMTgsCnRpdGxlOiAi0KHRgtGA0LDRgtC10LPQuNGPINCQ0LvRjNGP0L3RgdCwIiwKZGVzY3JpcHRpb246ICLQo9C30L3QsNC50YLQtSDQviDRgdC40YLRg9Cw0YbQuNC4INC90LAg0YTRgNC+0L3RgtC1IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTk2LmpwZyIsCmlkOiAiNTk2IiwKaGFzaDogImE0NTk4NWExYjU1NDdhNjciCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU5Ni5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1218,\ntitle: \"Стратегия Альянса\",\ndescription: \"Узнайте о ситуации на фронте\",\nicon: js_preres_url + \"/uploads/achievements/icons/596.jpg\",\nid: \"596\",\nhash: \"a45985a1b5547a67\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/596.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 1218,
+        "title": "Стратегия Альянса",
+        "description": "Узнайте о ситуации на фронте",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/596.jpg",
+        "id": "596",
+        "hash": "a45985a1b5547a67"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "141",
+  "video_intro_start": 352,
+  "video_intro_end": 442,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1402641185?i=1402641459&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 352,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/337521814?i=337521818&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDkzNywKdGl0bGU6ICLQkdGA0LXQvNGPINCx0YDQsNGC0LAiLApkZXNjcmlwdGlvbjogItCj0LfQvdCw0LnRgtC1INC/0YDQsNCy0LTRgyDQvtCxINCY0YLQsNGH0LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80NDguanBnIiwKaWQ6ICI0NDgiLApoYXNoOiAiNjU4MWIzY2RkYWI5NDlkZiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJ0ZWFtcyIsCnRpbWVfc3RhcnQ6IDEyMzMsCnRpdGxlOiAi0KLQsNC60LAiLApkZXNjcmlwdGlvbjogItCa0L7QvNCw0L3QtNCwINGP0YHRgtGA0LXQsdCwIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDQ5LmpwZyIsCmlkOiAiNDQ5IiwKaGFzaDogIjA5MzE5YzliOGM2MDk5NWMiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ0OC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80NDkuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 937,\ntitle: \"Бремя брата\",\ndescription: \"Узнайте правду об Итачи\",\nicon: js_preres_url + \"/uploads/achievements/icons/448.jpg\",\nid: \"448\",\nhash: \"6581b3cddab949df\"\n});\r\nthis_anime_achievements.push({\ncategory: \"teams\",\ntime_start: 1233,\ntitle: \"Така\",\ndescription: \"Команда ястреба\",\nicon: js_preres_url + \"/uploads/achievements/icons/449.jpg\",\nid: \"449\",\nhash: \"09319c9b8c60995c\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/448.jpg\", js_preres_url + \"/uploads/achievements/icons/449.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 937,
+        "title": "Бремя брата",
+        "description": "Узнайте правду об Итачи",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/448.jpg",
+        "id": "448",
+        "hash": "6581b3cddab949df"
+      },
+      {
+        "category": "teams",
+        "time_start": 1233,
+        "title": "Така",
+        "description": "Команда ястреба",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/449.jpg",
+        "id": "449",
+        "hash": "09319c9b8c60995c"
+      }
+    ]
+  }
+}

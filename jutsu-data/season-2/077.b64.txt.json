@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "77",
+  "video_intro_start": null,
+  "video_intro_end": null,
+  "video_music_intro": null,
+  "video_outro_start": null,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/673488678?i=673488712&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1294,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDM3OSwKdGl0bGU6ICLQndCw0L/QsNC00LDQuSDQv9C10YDQstGL0LwiLApkZXNjcmlwdGlvbjogItCQ0LrQsNGG0YPQutC4INCw0YLQsNC60L7QstCw0L3RiyDQvtGC0YDRj9C00L7QvCDQkNGB0YPQvNGLIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzYzLmpwZyIsCmlkOiAiMzYzIiwKaGFzaDogIjY5YzYzNGNmMGJhZmQ2NTkiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM2My5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 379,\ntitle: \"Нападай первым\",\ndescription: \"Акацуки атакованы отрядом Асумы\",\nicon: js_preres_url + \"/uploads/achievements/icons/363.jpg\",\nid: \"363\",\nhash: \"69c634cf0bafd659\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/363.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 379,
+        "title": "Нападай первым",
+        "description": "Акацуки атакованы отрядом Асумы",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/363.jpg",
+        "id": "363",
+        "hash": "69c634cf0bafd659"
+      }
+    ]
+  }
+}

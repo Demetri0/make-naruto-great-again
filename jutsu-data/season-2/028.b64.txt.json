@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "28",
+  "video_intro_start": 298,
+  "video_intro_end": 388,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1535496914?i=1535496920&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 298,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1537203600?i=1537203881&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1387,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDExNTYsCnRpdGxlOiAi0J3QsCDQs9C+0LvQvtCy0YMg0LLRi9GI0LUiLApkZXNjcmlwdGlvbjogItCS0Ysg0LLRgdGC0YDQtdGC0LjQu9C4INC/0L7QstC30YDQvtGB0LvQtdCy0YjRg9GOINCi0LXQvdGC0LXQvSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMwNC5qcGciLAppZDogIjMwNCIsCmhhc2g6ICIzZTM2ODc2YzAxMGZmODZlIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDExNDQsCnRpdGxlOiAi0J/RgNC10LLQvtGB0YXQvtC00Y8g0YHQtdCx0Y8iLApkZXNjcmlwdGlvbjogItCS0Ysg0LLRgdGC0YDQtdGC0LjQu9C4INC/0L7QstC30YDQvtGB0LvQtdCy0YjQtdCz0L4g0J3QtdC00LbQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMwNS5qcGciLAppZDogIjMwNSIsCmhhc2g6ICI4MjE2YTI0ZGQyMTFiOTA3Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDExMzAsCnRpdGxlOiAi0JHRg9GA0LvRj9GJ0LDRjyDRjtC90L7RgdGC0YwiLApkZXNjcmlwdGlvbjogItCS0Ysg0LLRgdGC0YDQtdGC0LjQu9C4INC/0L7QstC30YDQvtGB0LvQtdCy0YjQtdCz0L4g0JvQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMwNi5qcGciLAppZDogIjMwNiIsCmhhc2g6ICJhYWRkMzZmYWViZjdjYjFlIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zMDQuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzA1LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMwNi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1156,\ntitle: \"На голову выше\",\ndescription: \"Вы встретили повзрослевшую Тентен\",\nicon: js_preres_url + \"/uploads/achievements/icons/304.jpg\",\nid: \"304\",\nhash: \"3e36876c010ff86e\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1144,\ntitle: \"Превосходя себя\",\ndescription: \"Вы встретили повзрослевшего Неджи\",\nicon: js_preres_url + \"/uploads/achievements/icons/305.jpg\",\nid: \"305\",\nhash: \"8216a24dd211b907\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1130,\ntitle: \"Бурлящая юность\",\ndescription: \"Вы встретили повзрослевшего Ли\",\nicon: js_preres_url + \"/uploads/achievements/icons/306.jpg\",\nid: \"306\",\nhash: \"aadd36faebf7cb1e\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/304.jpg\", js_preres_url + \"/uploads/achievements/icons/305.jpg\", js_preres_url + \"/uploads/achievements/icons/306.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 1156,
+        "title": "На голову выше",
+        "description": "Вы встретили повзрослевшую Тентен",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/304.jpg",
+        "id": "304",
+        "hash": "3e36876c010ff86e"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1144,
+        "title": "Превосходя себя",
+        "description": "Вы встретили повзрослевшего Неджи",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/305.jpg",
+        "id": "305",
+        "hash": "8216a24dd211b907"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1130,
+        "title": "Бурлящая юность",
+        "description": "Вы встретили повзрослевшего Ли",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/306.jpg",
+        "id": "306",
+        "hash": "aadd36faebf7cb1e"
+      }
+    ]
+  }
+}

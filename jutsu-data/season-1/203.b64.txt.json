@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "203",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://www.shazam.com/track/154665773",
+  "video_outro_start": 0,
+  "video_music_outro": "https://www.shazam.com/track/155237325",
+  "this_video_duration": 1391,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImNyZWRpdHMiLAp0aW1lX3N0YXJ0OiA4MCwKdGl0bGU6ICJZdXJheXVyYSIsCmRlc2NyaXB0aW9uOiAi0J/RgNC+0YHQu9GD0YjQsNC50YLQtSA5INC+0L/QtdC90LjQvdCzIDEg0YHQtdC30L7QvdCwIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjYxLmpwZyIsCmlkOiAiMjYxIiwKaGFzaDogIjlkYzM1MjlhOTQyMTI2MjAiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzI2MS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"credits\",\ntime_start: 80,\ntitle: \"Yurayura\",\ndescription: \"Прослушайте 9 опенинг 1 сезона\",\nicon: js_preres_url + \"/uploads/achievements/icons/261.jpg\",\nid: \"261\",\nhash: \"9dc3529a94212620\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/261.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "credits",
+        "time_start": 80,
+        "title": "Yurayura",
+        "description": "Прослушайте 9 опенинг 1 сезона",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/261.jpg",
+        "id": "261",
+        "hash": "9dc3529a94212620"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "370",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1536453723?i=1536453786&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1537252430?i=1537252431&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDMwOSwKdGl0bGU6ICLQl9Cw0YnQuNGJ0LDRjyDQtNC10YDQtdCy0L3RjiIsCmRlc2NyaXB0aW9uOiAi0KfQtdC8INC60L7QvdGH0LjQu9Cw0YHRjCDQuNGB0YLQvtGA0LjRjyDQpdCw0YjQuNGA0LDQvNGLINC4INCc0LDQtNCw0YDRiyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzczNy5qcGciLAppZDogIjczNyIsCmhhc2g6ICIyZGUxYWNjZWExNGIxZTA1Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEwOTksCnRpdGxlOiAi0KDQtdGI0LXQvdC40LUiLApkZXNjcmlwdGlvbjogItCS0YvRgdC70YPRiNCw0LnRgtC1INC+0YLQstC10YIg0KHQsNGB0LrQtSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzczOC5qcGciLAppZDogIjczOCIsCmhhc2g6ICJiNjI2ODMxZGY1YjFhMmQxIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEyNTgsCnRpdGxlOiAi0KXQvtC60LDQs9C1IOKAkyDQsiDQsdC+0LkiLApkZXNjcmlwdGlvbjogItCT0YDRg9C/0L/QsCDQodCw0YHQutC1INCy0YvRgdGC0YPQv9Cw0LXRgiDQvdCwINGE0YDQvtC90YIiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83MzkuanBnIiwKaWQ6ICI3MzkiLApoYXNoOiAiZTQ2MGIyY2JiOTU2MTA0ZCIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzM3LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzczOC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83MzkuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 309,\ntitle: \"Защищая деревню\",\ndescription: \"Чем кончилась история Хаширамы и Мадары\",\nicon: js_preres_url + \"/uploads/achievements/icons/737.jpg\",\nid: \"737\",\nhash: \"2de1accea14b1e05\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1099,\ntitle: \"Решение\",\ndescription: \"Выслушайте ответ Саске\",\nicon: js_preres_url + \"/uploads/achievements/icons/738.jpg\",\nid: \"738\",\nhash: \"b626831df5b1a2d1\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1258,\ntitle: \"Хокаге – в бой\",\ndescription: \"Группа Саске выступает на фронт\",\nicon: js_preres_url + \"/uploads/achievements/icons/739.jpg\",\nid: \"739\",\nhash: \"e460b2cbb956104d\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/737.jpg\", js_preres_url + \"/uploads/achievements/icons/738.jpg\", js_preres_url + \"/uploads/achievements/icons/739.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 309,
+        "title": "Защищая деревню",
+        "description": "Чем кончилась история Хаширамы и Мадары",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/737.jpg",
+        "id": "737",
+        "hash": "2de1accea14b1e05"
+      },
+      {
+        "category": "events",
+        "time_start": 1099,
+        "title": "Решение",
+        "description": "Выслушайте ответ Саске",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/738.jpg",
+        "id": "738",
+        "hash": "b626831df5b1a2d1"
+      },
+      {
+        "category": "events",
+        "time_start": 1258,
+        "title": "Хокаге – в бой",
+        "description": "Группа Саске выступает на фронт",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/739.jpg",
+        "id": "739",
+        "hash": "e460b2cbb956104d"
+      }
+    ]
+  }
+}

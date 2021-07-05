@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "6",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://www.shazam.com/track/40834897",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1539173661?i=1539173662&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1400,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDQ0NSwKdGl0bGU6ICLQodC10YDRjNGR0LfQvdCw0Y8g0LzQuNGB0YHQuNGPIiwKZGVzY3JpcHRpb246ICLQn9C10YDQstC+0LUg0LLQsNC20L3QvtC1INC30LDQtNCw0L3QuNC1INCa0L7QvNCw0L3QtNGLIDciLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yMC5qcGciLAppZDogIjIwIiwKaGFzaDogIjNiNmUyNjhiYjY4ZDU4ZDUiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAicXVvdGVzIiwKdGltZV9zdGFydDogNjYwLAp0aXRsZTogItCj0YfQuNC8INCz0LXQvtCz0YDQsNGE0LjRjiIsCmRlc2NyaXB0aW9uOiAi0JLRi9GB0LvRg9GI0LDQudGC0LUg0YDQsNGB0YHQutCw0Lcg0JrQsNC60LDRiNC4INC+INGB0YLRgNCw0L3QsNGFINC90LjQvdC00LfRjyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzIxLmpwZyIsCmlkOiAiMjEiLApoYXNoOiAiZjk0OTc1ZGIyNGNjOTMyZiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiA4NDQsCnRpdGxlOiAi0JHRgNCw0YLRjNGPLdC00LXQvNC+0L3RiyIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQk9C+0LfRgyDQuCDQnNC10LnQt9GDIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjIuanBnIiwKaWQ6ICIyMiIsCmhhc2g6ICJhZDRjYmJiMmYxNTYxNWVkIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiA3NDAsCnRpdGxlOiAi0KHRgtC40YXQuNGPINCS0L7QtNGLIiwKZGVzY3JpcHRpb246ICLQnNC+0LrRgNGL0LUg0L/RgNC40ZHQvNGLIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjMuanBnIiwKaWQ6ICIyMyIsCmhhc2g6ICI2MTMzMTNjZDc5NjI5NjRjIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yMC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yMS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yMi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yMy5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 445,\ntitle: \"Серьёзная миссия\",\ndescription: \"Первое важное задание Команды 7\",\nicon: js_preres_url + \"/uploads/achievements/icons/20.jpg\",\nid: \"20\",\nhash: \"3b6e268bb68d58d5\"\n});\r\nthis_anime_achievements.push({\ncategory: \"quotes\",\ntime_start: 660,\ntitle: \"Учим географию\",\ndescription: \"Выслушайте рассказ Какаши о странах ниндзя\",\nicon: js_preres_url + \"/uploads/achievements/icons/21.jpg\",\nid: \"21\",\nhash: \"f94975db24cc932f\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 844,\ntitle: \"Братья-демоны\",\ndescription: \"Вы познакомились с Гозу и Мейзу\",\nicon: js_preres_url + \"/uploads/achievements/icons/22.jpg\",\nid: \"22\",\nhash: \"ad4cbbb2f15615ed\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 740,\ntitle: \"Стихия Воды\",\ndescription: \"Мокрые приёмы\",\nicon: js_preres_url + \"/uploads/achievements/icons/23.jpg\",\nid: \"23\",\nhash: \"613313cd7962964c\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/20.jpg\", js_preres_url + \"/uploads/achievements/icons/21.jpg\", js_preres_url + \"/uploads/achievements/icons/22.jpg\", js_preres_url + \"/uploads/achievements/icons/23.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 445,
+        "title": "Серьёзная миссия",
+        "description": "Первое важное задание Команды 7",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/20.jpg",
+        "id": "20",
+        "hash": "3b6e268bb68d58d5"
+      },
+      {
+        "category": "quotes",
+        "time_start": 660,
+        "title": "Учим географию",
+        "description": "Выслушайте рассказ Какаши о странах ниндзя",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/21.jpg",
+        "id": "21",
+        "hash": "f94975db24cc932f"
+      },
+      {
+        "category": "heroes",
+        "time_start": 844,
+        "title": "Братья-демоны",
+        "description": "Вы познакомились с Гозу и Мейзу",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/22.jpg",
+        "id": "22",
+        "hash": "ad4cbbb2f15615ed"
+      },
+      {
+        "category": "techniques",
+        "time_start": 740,
+        "title": "Стихия Воды",
+        "description": "Мокрые приёмы",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/23.jpg",
+        "id": "23",
+        "hash": "613313cd7962964c"
+      }
+    ]
+  }
+}

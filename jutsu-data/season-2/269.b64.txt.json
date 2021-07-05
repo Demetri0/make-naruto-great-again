@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "269",
+  "video_intro_start": 262,
+  "video_intro_end": 352,
+  "video_music_intro": null,
+  "video_outro_start": 262,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535815464?i=1535815468&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDM5NywKdGl0bGU6ICLQkdGA0LDRgiDQodCw0LzRg9C4IiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCQ0YbRg9C4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjAyLmpwZyIsCmlkOiAiNjAyIiwKaGFzaDogImFlNDg3NGY3MGRkNDFhNTciCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAidGVhbXMiLAp0aW1lX3N0YXJ0OiAyMTQsCnRpdGxlOiAi0JTRg9GN0YIg0JrQuNC90JPQuNC9IiwKZGVzY3JpcHRpb246ICLQrdC70LjRgtCwINCe0LHQu9Cw0LrQsCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzYwMy5qcGciLAppZDogIjYwMyIsCmhhc2g6ICJjZjIzOTE3MzI2YmE0Y2E2Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDQ4MywKdGl0bGU6ICLQodC+0LrRgNC+0LLQuNGJ0LAg0JzRg9C00YDQtdGG0LAiLApkZXNjcmlwdGlvbjogItCj0LfQvdCw0LnRgtC1INC+INC/0Y/RgtC4INCw0YDRgtC10YTQsNC60YLQsNGFIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjA0LmpwZyIsCmlkOiAiNjA0IiwKaGFzaDogIjFlOGFmYjBkZGFkZjExZTIiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzYwMi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82MDMuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjA0LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 397,\ntitle: \"Брат Самуи\",\ndescription: \"Вы познакомились с Ацуи\",\nicon: js_preres_url + \"/uploads/achievements/icons/602.jpg\",\nid: \"602\",\nhash: \"ae4874f70dd41a57\"\n});\r\nthis_anime_achievements.push({\ncategory: \"teams\",\ntime_start: 214,\ntitle: \"Дуэт КинГин\",\ndescription: \"Элита Облака\",\nicon: js_preres_url + \"/uploads/achievements/icons/603.jpg\",\nid: \"603\",\nhash: \"cf23917326ba4ca6\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 483,\ntitle: \"Сокровища Мудреца\",\ndescription: \"Узнайте о пяти артефактах\",\nicon: js_preres_url + \"/uploads/achievements/icons/604.jpg\",\nid: \"604\",\nhash: \"1e8afb0ddadf11e2\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/602.jpg\", js_preres_url + \"/uploads/achievements/icons/603.jpg\", js_preres_url + \"/uploads/achievements/icons/604.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 397,
+        "title": "Брат Самуи",
+        "description": "Вы познакомились с Ацуи",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/602.jpg",
+        "id": "602",
+        "hash": "ae4874f70dd41a57"
+      },
+      {
+        "category": "teams",
+        "time_start": 214,
+        "title": "Дуэт КинГин",
+        "description": "Элита Облака",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/603.jpg",
+        "id": "603",
+        "hash": "cf23917326ba4ca6"
+      },
+      {
+        "category": "events",
+        "time_start": 483,
+        "title": "Сокровища Мудреца",
+        "description": "Узнайте о пяти артефактах",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/604.jpg",
+        "id": "604",
+        "hash": "1e8afb0ddadf11e2"
+      }
+    ]
+  }
+}

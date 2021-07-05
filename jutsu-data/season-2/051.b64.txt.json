@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "51",
+  "video_intro_start": 20,
+  "video_intro_end": 110,
+  "video_music_intro": "https://www.shazam.com/track/477851517",
+  "video_outro_start": 20,
+  "video_music_outro": null,
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDkwNCwKdGl0bGU6ICLQntGB0LvQtdC/0LjRgtC10LvRjNC90YvQuSIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQstGB0YLRgNC10YLQuNC70Lgg0L/QvtCy0LfRgNC+0YHQu9C10LLRiNC10LPQviDQodCw0YHQutC1IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzQyLmpwZyIsCmlkOiAiMzQyIiwKaGFzaDogImEyNzM5ZDI1NzM5MjFhMWMiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM0Mi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 904,\ntitle: \"Ослепительный\",\ndescription: \"Вы встретили повзрослевшего Саске\",\nicon: js_preres_url + \"/uploads/achievements/icons/342.jpg\",\nid: \"342\",\nhash: \"a2739d2573921a1c\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/342.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 904,
+        "title": "Ослепительный",
+        "description": "Вы встретили повзрослевшего Саске",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/342.jpg",
+        "id": "342",
+        "hash": "a2739d2573921a1c"
+      }
+    ]
+  }
+}

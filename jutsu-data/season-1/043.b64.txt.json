@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "43",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/963662940?i=963662941&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535488943?i=1535488948&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1386,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDQyNiwKdGl0bGU6ICLQlNC10LLRg9GI0LrQsCDRgSDQvtGA0YPQttC40LXQvCIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQotC10L3RgtC10L0iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy85OC5qcGciLAppZDogIjk4IiwKaGFzaDogIjI1OGFhYzYwOTAwNTYzMmMiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogNTMxLAp0aXRsZTogItCm0LLQtdGC0L7QuiDQv9GD0YHRgtGL0L3QuCIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQotC10LzQsNGA0LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy85OS5qcGciLAppZDogIjk5IiwKaGFzaDogImJhYzYzN2M1Mzg2OGY3NTMiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogNjE3LAp0aXRsZTogItCR0L7QudC60LjQtSIsCmRlc2NyaXB0aW9uOiAi0JHQvtC5INCi0LXQvNCw0YDQuCDQuCDQotC10L3RgtC10L0g0L7QutC+0L3Rh9C10L0iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xMDAuanBnIiwKaWQ6ICIxMDAiLApoYXNoOiAiZGMxNWY3NTZhMzRjYjQwYiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiAxMTQwLAp0aXRsZTogItCh0YLRgNCw0YLQtdCzIiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCo0LjQutCw0LzQsNGA0YMg0J3QsNGA0L7QuSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzEwMS5qcGciLAppZDogIjEwMSIsCmhhc2g6ICI2YWU1Y2NkYjFlMGI4OGVmIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy85OC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy85OS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xMDAuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTAxLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 426,\ntitle: \"Девушка с оружием\",\ndescription: \"Вы познакомились с Тентен\",\nicon: js_preres_url + \"/uploads/achievements/icons/98.jpg\",\nid: \"98\",\nhash: \"258aac609005632c\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 531,\ntitle: \"Цветок пустыни\",\ndescription: \"Вы познакомились с Темари\",\nicon: js_preres_url + \"/uploads/achievements/icons/99.jpg\",\nid: \"99\",\nhash: \"bac637c53868f753\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 617,\ntitle: \"Бойкие\",\ndescription: \"Бой Темари и Тентен окончен\",\nicon: js_preres_url + \"/uploads/achievements/icons/100.jpg\",\nid: \"100\",\nhash: \"dc15f756a34cb40b\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1140,\ntitle: \"Стратег\",\ndescription: \"Вы познакомились с Шикамару Нарой\",\nicon: js_preres_url + \"/uploads/achievements/icons/101.jpg\",\nid: \"101\",\nhash: \"6ae5ccdb1e0b88ef\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/98.jpg\", js_preres_url + \"/uploads/achievements/icons/99.jpg\", js_preres_url + \"/uploads/achievements/icons/100.jpg\", js_preres_url + \"/uploads/achievements/icons/101.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 426,
+        "title": "Девушка с оружием",
+        "description": "Вы познакомились с Тентен",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/98.jpg",
+        "id": "98",
+        "hash": "258aac609005632c"
+      },
+      {
+        "category": "heroes",
+        "time_start": 531,
+        "title": "Цветок пустыни",
+        "description": "Вы познакомились с Темари",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/99.jpg",
+        "id": "99",
+        "hash": "bac637c53868f753"
+      },
+      {
+        "category": "events",
+        "time_start": 617,
+        "title": "Бойкие",
+        "description": "Бой Темари и Тентен окончен",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/100.jpg",
+        "id": "100",
+        "hash": "dc15f756a34cb40b"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1140,
+        "title": "Стратег",
+        "description": "Вы познакомились с Шикамару Нарой",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/101.jpg",
+        "id": "101",
+        "hash": "6ae5ccdb1e0b88ef"
+      }
+    ]
+  }
+}

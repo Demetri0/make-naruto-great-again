@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "334",
+  "video_intro_start": 19,
+  "video_intro_end": 109,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1339552447?i=1339552642&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 19,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535817677?i=1535817678&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDU1NiwKdGl0bGU6ICLQlNGA0LDQutC+0L0iLApkZXNjcmlwdGlvbjogItCS0YHRgtGA0LXRh9Cw0LnRgtC1INCa0LDQsdGD0YLQviDQsiDQoNC10LbQuNC80LUg0J7RgtGI0LXQu9GM0L3QuNC60LAiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82OTcuanBnIiwKaWQ6ICI2OTciLApoYXNoOiAiZGYxNGNiZTNmN2EzMDNmNiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJ0ZWNobmlxdWVzIiwKdGltZV9zdGFydDogNzQ4LAp0aXRsZTogItCR0LXQu9Cw0Y8g0Y/RgNC+0YHRgtGMIiwKZGVzY3JpcHRpb246ICLQntGB0LvQtdC/0LvRj9GO0YnQsNGPINCw0YLQsNC60LAiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82OTguanBnIiwKaWQ6ICI2OTgiLApoYXNoOiAiMmRlMWNmMTZkZmJkOTQyYiIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjk3LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY5OC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 556,\ntitle: \"Дракон\",\ndescription: \"Встречайте Кабуто в Режиме Отшельника\",\nicon: js_preres_url + \"/uploads/achievements/icons/697.jpg\",\nid: \"697\",\nhash: \"df14cbe3f7a303f6\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 748,\ntitle: \"Белая ярость\",\ndescription: \"Ослепляющая атака\",\nicon: js_preres_url + \"/uploads/achievements/icons/698.jpg\",\nid: \"698\",\nhash: \"2de1cf16dfbd942b\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/697.jpg\", js_preres_url + \"/uploads/achievements/icons/698.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 556,
+        "title": "Дракон",
+        "description": "Встречайте Кабуто в Режиме Отшельника",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/697.jpg",
+        "id": "697",
+        "hash": "df14cbe3f7a303f6"
+      },
+      {
+        "category": "techniques",
+        "time_start": 748,
+        "title": "Белая ярость",
+        "description": "Ослепляющая атака",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/698.jpg",
+        "id": "698",
+        "hash": "2de1cf16dfbd942b"
+      }
+    ]
+  }
+}

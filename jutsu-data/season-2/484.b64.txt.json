@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "484",
+  "video_intro_start": 73,
+  "video_intro_end": 163,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1189707930?i=1189708057&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 73,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1173501808?i=1173501978&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1393,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDE5MCwKdGl0bGU6ICLQndC+0LLQvtC1INCy0YDQtdC80Y8iLApkZXNjcmlwdGlvbjogItCS0YHRgtGA0LXRh9Cw0LnRgtC1INCz0LXRgNC+0LXQsiDQv9Cw0YDRgyDQu9C10YIg0YHQv9GD0YHRgtGPIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODQ5LmpwZyIsCmlkOiAiODQ5IiwKaGFzaDogImQyOTVmZGE0ZWFjMzMzMWYiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogNzg5LAp0aXRsZTogItCf0L7RgNCwINGA0LDRgdGB0LvQtdC00L7QstCw0YLRjCIsCmRlc2NyaXB0aW9uOiAi0KHQsNGB0LrQtSDQsdC10YDRkdGC0YHRjyDQt9CwINC00LXQu9C+INCy0LfRgNGL0LLQsNGO0YnQuNGF0YHRjyDQu9GO0LTQtdC5IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODUwLmpwZyIsCmlkOiAiODUwIiwKaGFzaDogImM2YzE2MzQ5YjE0MDkwNTkiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogOTc2LAp0aXRsZTogItCc0LDQu9C10L3RjNC60LDRjyDQstC30YDQvtGB0LvQsNGPIiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCn0LjQvdC+IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODUxLmpwZyIsCmlkOiAiODUxIiwKaGFzaDogImRlNTZiOGRkMTA3ZDk0OGIiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogOTU3LAp0aXRsZTogItCc0L7Qu9GH0LDQu9C40LLRi9C5INC00YDRg9CzIiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCd0L7QstCw0LrQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzg1Mi5qcGciLAppZDogIjg1MiIsCmhhc2g6ICI2YTI2NDUxYzY3NTIyNzdkIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84NDkuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODUwLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzg1MS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84NTIuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 190,\ntitle: \"Новое время\",\ndescription: \"Встречайте героев пару лет спустя\",\nicon: js_preres_url + \"/uploads/achievements/icons/849.jpg\",\nid: \"849\",\nhash: \"d295fda4eac3331f\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 789,\ntitle: \"Пора расследовать\",\ndescription: \"Саске берётся за дело взрывающихся людей\",\nicon: js_preres_url + \"/uploads/achievements/icons/850.jpg\",\nid: \"850\",\nhash: \"c6c16349b1409059\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 976,\ntitle: \"Маленькая взрослая\",\ndescription: \"Вы познакомились с Чино\",\nicon: js_preres_url + \"/uploads/achievements/icons/851.jpg\",\nid: \"851\",\nhash: \"de56b8dd107d948b\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 957,\ntitle: \"Молчаливый друг\",\ndescription: \"Вы познакомились с Новаки\",\nicon: js_preres_url + \"/uploads/achievements/icons/852.jpg\",\nid: \"852\",\nhash: \"6a26451c6752277d\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/849.jpg\", js_preres_url + \"/uploads/achievements/icons/850.jpg\", js_preres_url + \"/uploads/achievements/icons/851.jpg\", js_preres_url + \"/uploads/achievements/icons/852.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 190,
+        "title": "Новое время",
+        "description": "Встречайте героев пару лет спустя",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/849.jpg",
+        "id": "849",
+        "hash": "d295fda4eac3331f"
+      },
+      {
+        "category": "events",
+        "time_start": 789,
+        "title": "Пора расследовать",
+        "description": "Саске берётся за дело взрывающихся людей",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/850.jpg",
+        "id": "850",
+        "hash": "c6c16349b1409059"
+      },
+      {
+        "category": "heroes",
+        "time_start": 976,
+        "title": "Маленькая взрослая",
+        "description": "Вы познакомились с Чино",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/851.jpg",
+        "id": "851",
+        "hash": "de56b8dd107d948b"
+      },
+      {
+        "category": "heroes",
+        "time_start": 957,
+        "title": "Молчаливый друг",
+        "description": "Вы познакомились с Новаки",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/852.jpg",
+        "id": "852",
+        "hash": "6a26451c6752277d"
+      }
+    ]
+  }
+}

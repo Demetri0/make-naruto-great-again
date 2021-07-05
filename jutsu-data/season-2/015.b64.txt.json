@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "15",
+  "video_intro_start": 393,
+  "video_intro_end": 483,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1535496914?i=1535496920&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 393,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/784294802?i=784294831&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1388,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiAxMDgzLAp0aXRsZTogItCT0LjQs9Cw0L3RgtGB0LrQuNC5INCg0LDRgdC10L3Qs9Cw0L0iLApkZXNjcmlwdGlvbjogItCd0LDRgNGD0YLQviDRgdGC0LDQuyDRgdC40LvRjNC90LXQtSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzI4Ny5qcGciLAppZDogIjI4NyIsCmhhc2g6ICIxN2VlNmEyNmVlNWI4OTE0Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiA4NzUsCnRpdGxlOiAi0KPRgtGA0LXQvdC90LjQuSDQv9Cw0LLQu9C40L0iLApkZXNjcmlwdGlvbjogItCe0LPQvdC10L3QvdGL0LUg0LrRg9C70LDQutC4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjg4LmpwZyIsCmlkOiAiMjg4IiwKaGFzaDogIjUzYzA4ZTlhMDk1MjBlOTAiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzI4Ny5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yODguanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 1083,\ntitle: \"Гигантский Расенган\",\ndescription: \"Наруто стал сильнее\",\nicon: js_preres_url + \"/uploads/achievements/icons/287.jpg\",\nid: \"287\",\nhash: \"17ee6a26ee5b8914\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 875,\ntitle: \"Утренний павлин\",\ndescription: \"Огненные кулаки\",\nicon: js_preres_url + \"/uploads/achievements/icons/288.jpg\",\nid: \"288\",\nhash: \"53c08e9a09520e90\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/287.jpg\", js_preres_url + \"/uploads/achievements/icons/288.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 1083,
+        "title": "Гигантский Расенган",
+        "description": "Наруто стал сильнее",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/287.jpg",
+        "id": "287",
+        "hash": "17ee6a26ee5b8914"
+      },
+      {
+        "category": "techniques",
+        "time_start": 875,
+        "title": "Утренний павлин",
+        "description": "Огненные кулаки",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/288.jpg",
+        "id": "288",
+        "hash": "53c08e9a09520e90"
+      }
+    ]
+  }
+}

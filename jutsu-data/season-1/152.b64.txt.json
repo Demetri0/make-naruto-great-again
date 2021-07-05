@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "152",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1536275318?i=1536275329&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://www.shazam.com/track/41257968",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDE2MywKdGl0bGU6ICLQodC70LXQt9C70LjQstGL0LUg0L/QvtGF0L7RgNC+0L3RiyIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQoNCw0LnQs9C+0Lkg0JrRg9GA0L7RgdGD0LrQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzIzNC5qcGciLAppZDogIjIzNCIsCmhhc2g6ICJhZDQ5MjYyMGM4ZTY5NGNhIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDIxMiwKdGl0bGU6ICLQrtC90YvQuSDRgdC/0YPRgtC90LjQuiIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQoNCw0L3QvNCw0YDRgyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzIzNS5qcGciLAppZDogIjIzNSIsCmhhc2g6ICI3ODdlZTA5MjIwZTk5YjliIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yMzQuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjM1LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 163,\ntitle: \"Слезливые похороны\",\ndescription: \"Вы познакомились с Райгой Куросуки\",\nicon: js_preres_url + \"/uploads/achievements/icons/234.jpg\",\nid: \"234\",\nhash: \"ad492620c8e694ca\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 212,\ntitle: \"Юный спутник\",\ndescription: \"Вы познакомились с Ранмару\",\nicon: js_preres_url + \"/uploads/achievements/icons/235.jpg\",\nid: \"235\",\nhash: \"787ee09220e99b9b\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/234.jpg\", js_preres_url + \"/uploads/achievements/icons/235.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 163,
+        "title": "Слезливые похороны",
+        "description": "Вы познакомились с Райгой Куросуки",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/234.jpg",
+        "id": "234",
+        "hash": "ad492620c8e694ca"
+      },
+      {
+        "category": "heroes",
+        "time_start": 212,
+        "title": "Юный спутник",
+        "description": "Вы познакомились с Ранмару",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/235.jpg",
+        "id": "235",
+        "hash": "787ee09220e99b9b"
+      }
+    ]
+  }
+}

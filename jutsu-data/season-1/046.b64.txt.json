@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "46",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/963662940?i=963662941&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535488943?i=1535488948&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1387,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiAxMDA2LAp0aXRsZTogItCc0Y/Qs9C60LjQuSDQutGD0LvQsNC6IiwKZGVzY3JpcHRpb246ICLQpNC40YDQvNC10L3QvdGL0Lkg0YHRgtC40LvRjCDQsdC+0Y8g0KXRjNGO0LPQsCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzEwNy5qcGciLAppZDogIjEwNyIsCmhhc2g6ICJhNjliNThiNDhiOTZlMTNmIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDkwMiwKdGl0bGU6ICLQkdGA0LDRgiDQuCDRgdC10YHRgtGA0LAiLApkZXNjcmlwdGlvbjogItCR0L7QuSDQpdGM0Y7Qs9CwINC90LDRh9C40L3QsNC10YLRgdGPIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTA4LmpwZyIsCmlkOiAiMTA4IiwKaGFzaDogImI5NmM1ZGFmOGE5NjUwYTQiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzEwNy5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xMDguanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 1006,\ntitle: \"Мягкий кулак\",\ndescription: \"Фирменный стиль боя Хьюга\",\nicon: js_preres_url + \"/uploads/achievements/icons/107.jpg\",\nid: \"107\",\nhash: \"a69b58b48b96e13f\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 902,\ntitle: \"Брат и сестра\",\ndescription: \"Бой Хьюга начинается\",\nicon: js_preres_url + \"/uploads/achievements/icons/108.jpg\",\nid: \"108\",\nhash: \"b96c5daf8a9650a4\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/107.jpg\", js_preres_url + \"/uploads/achievements/icons/108.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 1006,
+        "title": "Мягкий кулак",
+        "description": "Фирменный стиль боя Хьюга",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/107.jpg",
+        "id": "107",
+        "hash": "a69b58b48b96e13f"
+      },
+      {
+        "category": "events",
+        "time_start": 902,
+        "title": "Брат и сестра",
+        "description": "Бой Хьюга начинается",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/108.jpg",
+        "id": "108",
+        "hash": "b96c5daf8a9650a4"
+      }
+    ]
+  }
+}

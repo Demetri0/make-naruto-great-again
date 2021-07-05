@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "458",
+  "video_intro_start": 0,
+  "video_intro_end": 101,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1445060469?i=1445060832&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1115114197?i=1115114368&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1400,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImFyY3MiLAp0aW1lX3N0YXJ0OiA2MDAsCnRpdGxlOiAi0KHQstC10YIg0Lgg0YLRjNC80LAg0KPRh9C40YXQsCIsCmRlc2NyaXB0aW9uOiAi0JfQsNCy0LXRgNGI0LjRgtC1INCw0YDQutGDINCY0YLQsNGH0LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84MDcuanBnIiwKaWQ6ICI4MDciLApoYXNoOiAiOGNiMDcwYjc0OTkzYmY3MCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiA4ODAsCnRpdGxlOiAi0J3QtdC+0LbQuNC00LDQvdC90YvQuSDQv9C+0LLQvtGA0L7RgiIsCmRlc2NyaXB0aW9uOiAi0JfQtdGG0YMg0L/RgNC10LTQsNGR0YIg0JzQsNC00LDRgNGDIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODA4LmpwZyIsCmlkOiAiODA4IiwKaGFzaDogImE1MDQwM2VkMzU5MmJlNzEiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzgwNy5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84MDguanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 600,\ntitle: \"Свет и тьма Учиха\",\ndescription: \"Завершите арку Итачи\",\nicon: js_preres_url + \"/uploads/achievements/icons/807.jpg\",\nid: \"807\",\nhash: \"8cb070b74993bf70\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 880,\ntitle: \"Неожиданный поворот\",\ndescription: \"Зецу предаёт Мадару\",\nicon: js_preres_url + \"/uploads/achievements/icons/808.jpg\",\nid: \"808\",\nhash: \"a50403ed3592be71\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/807.jpg\", js_preres_url + \"/uploads/achievements/icons/808.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "arcs",
+        "time_start": 600,
+        "title": "Свет и тьма Учиха",
+        "description": "Завершите арку Итачи",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/807.jpg",
+        "id": "807",
+        "hash": "8cb070b74993bf70"
+      },
+      {
+        "category": "events",
+        "time_start": 880,
+        "title": "Неожиданный поворот",
+        "description": "Зецу предаёт Мадару",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/808.jpg",
+        "id": "808",
+        "hash": "a50403ed3592be71"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "114",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1059149210?i=1059149467&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://www.shazam.com/track/78050754",
+  "this_video_duration": 1387,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDE5NSwKdGl0bGU6ICLQn9GA0L7QutC70Y/RgtGL0Lkg0LPQuNCz0LDQvdGCIiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCU0LbQuNGA0L7QsdC+IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTk2LmpwZyIsCmlkOiAiMTk2IiwKaGFzaDogIjlmNWYzOTAyOGYyZGZlNWQiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogODg2LAp0aXRsZTogItCb0LXRgtC4LCDQsdCw0LHQvtGH0LrQsCIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQp9C+0LTQttC4INCQ0LrQuNC80LjRh9C4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTk3LmpwZyIsCmlkOiAiMTk3IiwKaGFzaDogIjliNjQ0ZWRkYmRmYzY4YWEiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogOTkwLAp0aXRsZTogItCvINC90LUg0YLQvtC70YHRgtGP0LohIiwKZGVzY3JpcHRpb246ICLQp9C+0LTQttC4INC/0L7QsdC10LbQtNCw0LXRgiDQlNC20LjRgNC+0LHQviIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzE5OC5qcGciLAppZDogIjE5OCIsCmhhc2g6ICJiNmVmMzY2ZDMwMWY1MzU5Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiA4NjksCnRpdGxlOiAi0JrQvtC90YLRgNC+0LvRjCDQutCw0LvQvtGA0LjQuSIsCmRlc2NyaXB0aW9uOiAi0KHQv9C+0YHQvtCxINCy0YvQuNCz0YDQsNGC0Ywg0Lgg0L/QvtGF0YPQtNC10YLRjCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzE5OS5qcGciLAppZDogIjE5OSIsCmhhc2g6ICIwYWQ1NmFlY2Y1YzgzNDAzIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xOTYuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTk3LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzE5OC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xOTkuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 195,\ntitle: \"Проклятый гигант\",\ndescription: \"Вы познакомились с Джиробо\",\nicon: js_preres_url + \"/uploads/achievements/icons/196.jpg\",\nid: \"196\",\nhash: \"9f5f39028f2dfe5d\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 886,\ntitle: \"Лети, бабочка\",\ndescription: \"Вы познакомились с Чоджи Акимичи\",\nicon: js_preres_url + \"/uploads/achievements/icons/197.jpg\",\nid: \"197\",\nhash: \"9b644eddbdfc68aa\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 990,\ntitle: \"Я не толстяк!\",\ndescription: \"Чоджи побеждает Джиробо\",\nicon: js_preres_url + \"/uploads/achievements/icons/198.jpg\",\nid: \"198\",\nhash: \"b6ef366d301f5359\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 869,\ntitle: \"Контроль калорий\",\ndescription: \"Способ выиграть и похудеть\",\nicon: js_preres_url + \"/uploads/achievements/icons/199.jpg\",\nid: \"199\",\nhash: \"0ad56aecf5c83403\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/196.jpg\", js_preres_url + \"/uploads/achievements/icons/197.jpg\", js_preres_url + \"/uploads/achievements/icons/198.jpg\", js_preres_url + \"/uploads/achievements/icons/199.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 195,
+        "title": "Проклятый гигант",
+        "description": "Вы познакомились с Джиробо",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/196.jpg",
+        "id": "196",
+        "hash": "9f5f39028f2dfe5d"
+      },
+      {
+        "category": "heroes",
+        "time_start": 886,
+        "title": "Лети, бабочка",
+        "description": "Вы познакомились с Чоджи Акимичи",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/197.jpg",
+        "id": "197",
+        "hash": "9b644eddbdfc68aa"
+      },
+      {
+        "category": "events",
+        "time_start": 990,
+        "title": "Я не толстяк!",
+        "description": "Чоджи побеждает Джиробо",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/198.jpg",
+        "id": "198",
+        "hash": "b6ef366d301f5359"
+      },
+      {
+        "category": "techniques",
+        "time_start": 869,
+        "title": "Контроль калорий",
+        "description": "Способ выиграть и похудеть",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/199.jpg",
+        "id": "199",
+        "hash": "0ad56aecf5c83403"
+      }
+    ]
+  }
+}

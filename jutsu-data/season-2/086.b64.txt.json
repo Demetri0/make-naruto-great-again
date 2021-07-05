@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "86",
+  "video_intro_start": 204,
+  "video_intro_end": 294,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1536372804?i=1536372808&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 204,
+  "video_music_outro": null,
+  "this_video_duration": 1264,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDk2NywKdGl0bGU6ICLQktGL0LjQs9GA0YvRiNC90YvQuSDQv9C70LDQvSIsCmRlc2NyaXB0aW9uOiAi0KjQuNC60LDQvNCw0YDRgyDQt9Cw0LzQsNC90LjQstCw0LXRgiDQpdC40LTQsNC90LAg0LIg0LvQvtCy0YPRiNC60YMiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zNzcuanBnIiwKaWQ6ICIzNzciLApoYXNoOiAiNmVlYmVmNjIyN2YyNDZiNSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiAxMTgxLAp0aXRsZTogItCSINC+0LHQu9Cw0LrQtSDQtNGL0LzQsCIsCmRlc2NyaXB0aW9uOiAi0J3QsNGA0YPRgtC+INCz0L7RgtC+0LIg0L/QvtC60LDQt9Cw0YLRjCwg0YfQtdC80YMg0L3QsNGD0YfQuNC70YHRjyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM3OC5qcGciLAppZDogIjM3OCIsCmhhc2g6ICI0MTc0NGRiODY1N2FjZmQyIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zNzcuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzc4LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 967,\ntitle: \"Выигрышный план\",\ndescription: \"Шикамару заманивает Хидана в ловушку\",\nicon: js_preres_url + \"/uploads/achievements/icons/377.jpg\",\nid: \"377\",\nhash: \"6eebef6227f246b5\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1181,\ntitle: \"В облаке дыма\",\ndescription: \"Наруто готов показать, чему научился\",\nicon: js_preres_url + \"/uploads/achievements/icons/378.jpg\",\nid: \"378\",\nhash: \"41744db8657acfd2\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/377.jpg\", js_preres_url + \"/uploads/achievements/icons/378.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 967,
+        "title": "Выигрышный план",
+        "description": "Шикамару заманивает Хидана в ловушку",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/377.jpg",
+        "id": "377",
+        "hash": "6eebef6227f246b5"
+      },
+      {
+        "category": "events",
+        "time_start": 1181,
+        "title": "В облаке дыма",
+        "description": "Наруто готов показать, чему научился",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/378.jpg",
+        "id": "378",
+        "hash": "41744db8657acfd2"
+      }
+    ]
+  }
+}

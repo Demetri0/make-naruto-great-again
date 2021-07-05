@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "89",
+  "video_intro_start": 189,
+  "video_intro_end": 279,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1536372804?i=1536372808&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 189,
+  "video_music_outro": "https://www.shazam.com/track/153770694",
+  "this_video_duration": 1390,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDE3OSwKdGl0bGU6ICLQodC80LXQvdCwINC/0L7QutC+0LvQtdC90LjQuSIsCmRlc2NyaXB0aW9uOiAi0JrQsNC60LDRiNC4INC00L7QsdC40LLQsNC10YIg0JrQsNC60YPQt9GDIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzgyLmpwZyIsCmlkOiAiMzgyIiwKaGFzaDogIjhmYjBiOGI4YzBkY2EwYWYiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAidGVjaG5pcXVlcyIsCnRpbWVfc3RhcnQ6IDEwOTQsCnRpdGxlOiAi0KHRgtC40YXQuNGPINCa0YDQuNGB0YLQsNC70LvQsCIsCmRlc2NyaXB0aW9uOiAi0JrRgNC40YHRgtCw0LvRjNC90YvQtSDRgtC10YXQvdC40LrQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM4My5qcGciLAppZDogIjM4MyIsCmhhc2g6ICJiMmJkN2RiZTgxZmVhNWYxIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDExMzMsCnRpdGxlOiAi0JrRgNC40YHRgtCw0LvRjNC90LDRjyDQutGD0L3QvtC40YfQuCIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQk9GD0YDQtdC9IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzg0LmpwZyIsCmlkOiAiMzg0IiwKaGFzaDogImE1NjkzM2ViYjlkMmFhOTIiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM4Mi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zODMuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzg0LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 179,\ntitle: \"Смена поколений\",\ndescription: \"Какаши добивает Какузу\",\nicon: js_preres_url + \"/uploads/achievements/icons/382.jpg\",\nid: \"382\",\nhash: \"8fb0b8b8c0dca0af\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 1094,\ntitle: \"Стихия Кристалла\",\ndescription: \"Кристальные техники\",\nicon: js_preres_url + \"/uploads/achievements/icons/383.jpg\",\nid: \"383\",\nhash: \"b2bd7dbe81fea5f1\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1133,\ntitle: \"Кристальная куноичи\",\ndescription: \"Вы познакомились с Гурен\",\nicon: js_preres_url + \"/uploads/achievements/icons/384.jpg\",\nid: \"384\",\nhash: \"a56933ebb9d2aa92\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/382.jpg\", js_preres_url + \"/uploads/achievements/icons/383.jpg\", js_preres_url + \"/uploads/achievements/icons/384.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 179,
+        "title": "Смена поколений",
+        "description": "Какаши добивает Какузу",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/382.jpg",
+        "id": "382",
+        "hash": "8fb0b8b8c0dca0af"
+      },
+      {
+        "category": "techniques",
+        "time_start": 1094,
+        "title": "Стихия Кристалла",
+        "description": "Кристальные техники",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/383.jpg",
+        "id": "383",
+        "hash": "b2bd7dbe81fea5f1"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1133,
+        "title": "Кристальная куноичи",
+        "description": "Вы познакомились с Гурен",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/384.jpg",
+        "id": "384",
+        "hash": "a56933ebb9d2aa92"
+      }
+    ]
+  }
+}

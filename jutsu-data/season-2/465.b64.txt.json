@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "465",
+  "video_intro_start": 0,
+  "video_intro_end": 101,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1128303226?i=1128303347&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1115114197?i=1115114368&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1400,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDExMywKdGl0bGU6ICLQn9GA0LXQtNC+0Log0KPRh9C40YXQsCIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQmNC90LTRgNC+0Lkg0J7RhtGD0YbRg9C60LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84MTguanBnIiwKaWQ6ICI4MTgiLApoYXNoOiAiZTc0ODRiNmMzZTA4MzMxZiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiAxODMsCnRpdGxlOiAi0J/RgNC10LTQvtC6INCh0LXQvdC00LbRgyIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQkNGI0YPRgNC+0Lkg0J7RhtGD0YbRg9C60LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84MTkuanBnIiwKaWQ6ICI4MTkiLApoYXNoOiAiM2EyMDQ2MDg0OTU1OTZmMSIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODE4LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzgxOS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 113,\ntitle: \"Предок Учиха\",\ndescription: \"Вы познакомились с Индрой Оцуцуки\",\nicon: js_preres_url + \"/uploads/achievements/icons/818.jpg\",\nid: \"818\",\nhash: \"e7484b6c3e08331f\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 183,\ntitle: \"Предок Сенджу\",\ndescription: \"Вы познакомились с Ашурой Оцуцуки\",\nicon: js_preres_url + \"/uploads/achievements/icons/819.jpg\",\nid: \"819\",\nhash: \"3a204608495596f1\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/818.jpg\", js_preres_url + \"/uploads/achievements/icons/819.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 113,
+        "title": "Предок Учиха",
+        "description": "Вы познакомились с Индрой Оцуцуки",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/818.jpg",
+        "id": "818",
+        "hash": "e7484b6c3e08331f"
+      },
+      {
+        "category": "heroes",
+        "time_start": 183,
+        "title": "Предок Сенджу",
+        "description": "Вы познакомились с Ашурой Оцуцуки",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/819.jpg",
+        "id": "819",
+        "hash": "3a204608495596f1"
+      }
+    ]
+  }
+}

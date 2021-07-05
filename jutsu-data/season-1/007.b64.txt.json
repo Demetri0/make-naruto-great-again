@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "7",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://www.shazam.com/track/40834897",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1539173661?i=1539173662&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1400,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDc2NSwKdGl0bGU6ICLQotGD0LzQsNC90L3Ri9C5INGD0LHQuNC50YbQsCIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQl9Cw0LHRg9C30L7QuSDQnNC+0LzQvtGH0LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yNC5qcGciLAppZDogIjI0IiwKaGFzaDogImQ0ZjZiZGU2ZWI4Njk4NmYiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAidGVhbXMiLAp0aW1lX3N0YXJ0OiA5NDMsCnRpdGxlOiAi0JzQtdGH0L3QuNC60Lgg0KLRg9C80LDQvdCwIiwKZGVzY3JpcHRpb246ICLQodC10LzRjCDQvNC+0LPRg9GH0LjRhSDQvdC40L3QtNC30Y8iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yNS5qcGciLAppZDogIjI1IiwKaGFzaDogImNjODhiMDA4ZTcyZTYxOTkiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAidGVjaG5pcXVlcyIsCnRpbWVfc3RhcnQ6IDk1MiwKdGl0bGU6ICLQndC40L3QtNC30Y8g0Lgg0YLQsNC6INC80L7Qs9GD0YIhIiwKZGVzY3JpcHRpb246ICLQodC/0L7RgdC+0LHQvdC+0YHRgtGMINGF0L7QttC00LXQvdC40Y8g0L/QviDQstC+0LTQtSEiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yNi5qcGciLAppZDogIjI2IiwKaGFzaDogIjdjNzgzNTc2NzY3YWFlZjYiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAicGxhY2VzIiwKdGltZV9zdGFydDogNDU5LAp0aXRsZTogItCh0YLRgNCw0L3QsCDQktC+0LvQvSIsCmRlc2NyaXB0aW9uOiAi0JTQvtCx0YDQviDQv9C+0LbQsNC70L7QstCw0YLRjCDQsiDQodGC0YDQsNC90YMg0JLQvtC70L0iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yNy5qcGciLAppZDogIjI3IiwKaGFzaDogImNmYmM5NzE0MjYzNWRjYjYiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzI0LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzI1LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzI2LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzI3LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 765,\ntitle: \"Туманный убийца\",\ndescription: \"Вы познакомились с Забузой Момочи\",\nicon: js_preres_url + \"/uploads/achievements/icons/24.jpg\",\nid: \"24\",\nhash: \"d4f6bde6eb86986f\"\n});\r\nthis_anime_achievements.push({\ncategory: \"teams\",\ntime_start: 943,\ntitle: \"Мечники Тумана\",\ndescription: \"Семь могучих ниндзя\",\nicon: js_preres_url + \"/uploads/achievements/icons/25.jpg\",\nid: \"25\",\nhash: \"cc88b008e72e6199\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 952,\ntitle: \"Ниндзя и так могут!\",\ndescription: \"Способность хождения по воде!\",\nicon: js_preres_url + \"/uploads/achievements/icons/26.jpg\",\nid: \"26\",\nhash: \"7c783576767aaef6\"\n});\r\nthis_anime_achievements.push({\ncategory: \"places\",\ntime_start: 459,\ntitle: \"Страна Волн\",\ndescription: \"Добро пожаловать в Страну Волн\",\nicon: js_preres_url + \"/uploads/achievements/icons/27.jpg\",\nid: \"27\",\nhash: \"cfbc97142635dcb6\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/24.jpg\", js_preres_url + \"/uploads/achievements/icons/25.jpg\", js_preres_url + \"/uploads/achievements/icons/26.jpg\", js_preres_url + \"/uploads/achievements/icons/27.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 765,
+        "title": "Туманный убийца",
+        "description": "Вы познакомились с Забузой Момочи",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/24.jpg",
+        "id": "24",
+        "hash": "d4f6bde6eb86986f"
+      },
+      {
+        "category": "teams",
+        "time_start": 943,
+        "title": "Мечники Тумана",
+        "description": "Семь могучих ниндзя",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/25.jpg",
+        "id": "25",
+        "hash": "cc88b008e72e6199"
+      },
+      {
+        "category": "techniques",
+        "time_start": 952,
+        "title": "Ниндзя и так могут!",
+        "description": "Способность хождения по воде!",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/26.jpg",
+        "id": "26",
+        "hash": "7c783576767aaef6"
+      },
+      {
+        "category": "places",
+        "time_start": 459,
+        "title": "Страна Волн",
+        "description": "Добро пожаловать в Страну Волн",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/27.jpg",
+        "id": "27",
+        "hash": "cfbc97142635dcb6"
+      }
+    ]
+  }
+}

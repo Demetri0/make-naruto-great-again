@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "391",
+  "video_intro_start": 286,
+  "video_intro_end": 376,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1123920486?i=1123920648&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 286,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536272178?i=1536272179&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDgxNSwKdGl0bGU6ICLQodC/0LDRgdC40LHQviwg0YfRgtC+INC20LjQstC+0LkiLApkZXNjcmlwdGlvbjogItCc0LDQtNCw0YDQsCDQvtCx0YDQtdGC0LDQtdGCINC20LjQstC+0LUg0YLQtdC70L4iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83NjIuanBnIiwKaWQ6ICI3NjIiLApoYXNoOiAiYTkyOTNkYTY5MjI4Mjc0NiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiAxMjU1LAp0aXRsZTogItCe0YXQvtGC0LAiLApkZXNjcmlwdGlvbjogItCc0LDQtNCw0YDQsCDQstGL0YHRgtGD0L/QsNC10YIg0L/RgNC+0YLQuNCyINCl0LLQvtGB0YLQsNGC0YvRhSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzc2My5qcGciLAppZDogIjc2MyIsCmhhc2g6ICI4NmRjOTdiNmRkNTAxNGQxIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83NjIuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzYzLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 815,\ntitle: \"Спасибо, что живой\",\ndescription: \"Мадара обретает живое тело\",\nicon: js_preres_url + \"/uploads/achievements/icons/762.jpg\",\nid: \"762\",\nhash: \"a9293da692282746\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1255,\ntitle: \"Охота\",\ndescription: \"Мадара выступает против Хвостатых\",\nicon: js_preres_url + \"/uploads/achievements/icons/763.jpg\",\nid: \"763\",\nhash: \"86dc97b6dd5014d1\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/762.jpg\", js_preres_url + \"/uploads/achievements/icons/763.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 815,
+        "title": "Спасибо, что живой",
+        "description": "Мадара обретает живое тело",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/762.jpg",
+        "id": "762",
+        "hash": "a9293da692282746"
+      },
+      {
+        "category": "events",
+        "time_start": 1255,
+        "title": "Охота",
+        "description": "Мадара выступает против Хвостатых",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/763.jpg",
+        "id": "763",
+        "hash": "86dc97b6dd5014d1"
+      }
+    ]
+  }
+}

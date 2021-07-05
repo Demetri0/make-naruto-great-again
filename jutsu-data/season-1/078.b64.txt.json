@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "78",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1402636708?i=1402636832&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://www.shazam.com/track/40849581",
+  "this_video_duration": 1387,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImNyZWRpdHMiLAp0aW1lX3N0YXJ0OiA4MCwKdGl0bGU6ICJGaWdodGluZyBEcmVhbWVycyIsCmRlc2NyaXB0aW9uOiAi0J/RgNC+0YHQu9GD0YjQsNC50YLQtSA0INC+0L/QtdC90LjQvdCzIDEg0YHQtdC30L7QvdCwIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTQ2LmpwZyIsCmlkOiAiMTQ2IiwKaGFzaDogImJmZTIyZjYyNGM0MWNmMGEiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogNTg4LAp0aXRsZTogItCU0LXQvNC+0L0g0J/QtdGB0LrQsCIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQqNGD0LrQsNC60YMiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xNDcuanBnIiwKaWQ6ICIxNDciLApoYXNoOiAiZDBhM2IwODQzMzExMjU0OSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiAxMjU3LAp0aXRsZTogItCR0L7Qu9GM0YjQvtC1INC4INGB0LjQu9GM0L3QvtC1IiwKZGVzY3JpcHRpb246ICLQlNC10LLRj9GC0LjRhdCy0L7RgdGC0YvQuSDQsNGC0LDQutGD0LXRgiDQqNGD0LrQsNC60YMiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xNDguanBnIiwKaWQ6ICIxNDgiLApoYXNoOiAiYTI4ZmVkMmY2MGNkOTkwZCIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTQ2LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzE0Ny5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xNDguanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"credits\",\ntime_start: 80,\ntitle: \"Fighting Dreamers\",\ndescription: \"Прослушайте 4 опенинг 1 сезона\",\nicon: js_preres_url + \"/uploads/achievements/icons/146.jpg\",\nid: \"146\",\nhash: \"bfe22f624c41cf0a\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 588,\ntitle: \"Демон Песка\",\ndescription: \"Вы познакомились с Шукаку\",\nicon: js_preres_url + \"/uploads/achievements/icons/147.jpg\",\nid: \"147\",\nhash: \"d0a3b08433112549\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1257,\ntitle: \"Большое и сильное\",\ndescription: \"Девятихвостый атакует Шукаку\",\nicon: js_preres_url + \"/uploads/achievements/icons/148.jpg\",\nid: \"148\",\nhash: \"a28fed2f60cd990d\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/146.jpg\", js_preres_url + \"/uploads/achievements/icons/147.jpg\", js_preres_url + \"/uploads/achievements/icons/148.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "credits",
+        "time_start": 80,
+        "title": "Fighting Dreamers",
+        "description": "Прослушайте 4 опенинг 1 сезона",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/146.jpg",
+        "id": "146",
+        "hash": "bfe22f624c41cf0a"
+      },
+      {
+        "category": "heroes",
+        "time_start": 588,
+        "title": "Демон Песка",
+        "description": "Вы познакомились с Шукаку",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/147.jpg",
+        "id": "147",
+        "hash": "d0a3b08433112549"
+      },
+      {
+        "category": "events",
+        "time_start": 1257,
+        "title": "Большое и сильное",
+        "description": "Девятихвостый атакует Шукаку",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/148.jpg",
+        "id": "148",
+        "hash": "a28fed2f60cd990d"
+      }
+    ]
+  }
+}

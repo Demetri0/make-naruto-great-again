@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "120",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1059149210?i=1059149467&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": null,
+  "this_video_duration": 1387,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDc2MSwKdGl0bGU6ICLQn9GA0L7QutC70Y/RgtGL0LUg0LHQu9C40LfQvdC10YbRiyIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQodCw0LrQvtC90L7QvCDQuCDQo9C60L7QvdC+0LwiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yMDMuanBnIiwKaWQ6ICIyMDMiLApoYXNoOiAiNmEzMzg5NjE1YTk2YjA0NSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJ0ZWNobmlxdWVzIiwKdGltZV9zdGFydDogNzE4LAp0aXRsZTogItCf0YDQvtC90LfQsNGO0YnQuNC5INC60LvRi9C6IiwKZGVzY3JpcHRpb246ICLQn9GA0LXQstC+0YHRhdC+0LTQvdCw0Y8g0LDRgtCw0LrQsCDRhdC+0LfRj9C40L3QsCDQuCDQv9C40YLQvtC80YbQsCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzIwNC5qcGciLAppZDogIjIwNCIsCmhhc2g6ICI4N2E2MzU0ZmVkMzZmYmNjIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yMDMuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjA0LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 761,\ntitle: \"Проклятые близнецы\",\ndescription: \"Вы познакомились с Саконом и Уконом\",\nicon: js_preres_url + \"/uploads/achievements/icons/203.jpg\",\nid: \"203\",\nhash: \"6a3389615a96b045\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 718,\ntitle: \"Пронзающий клык\",\ndescription: \"Превосходная атака хозяина и питомца\",\nicon: js_preres_url + \"/uploads/achievements/icons/204.jpg\",\nid: \"204\",\nhash: \"87a6354fed36fbcc\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/203.jpg\", js_preres_url + \"/uploads/achievements/icons/204.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 761,
+        "title": "Проклятые близнецы",
+        "description": "Вы познакомились с Саконом и Уконом",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/203.jpg",
+        "id": "203",
+        "hash": "6a3389615a96b045"
+      },
+      {
+        "category": "techniques",
+        "time_start": 718,
+        "title": "Пронзающий клык",
+        "description": "Превосходная атака хозяина и питомца",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/204.jpg",
+        "id": "204",
+        "hash": "87a6354fed36fbcc"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "32",
+  "video_intro_start": 203,
+  "video_intro_end": 293,
+  "video_music_intro": "https://www.shazam.com/track/477851517",
+  "video_outro_start": 203,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536963848?i=1536963849&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1388,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDg2LAp0aXRsZTogItCY0Lct0L/QvtC0INC30LXQvNC70LgiLApkZXNjcmlwdGlvbjogItCi0LLQvtGA0LXRhiDQttC40LIiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zMTUuanBnIiwKaWQ6ICIzMTUiLApoYXNoOiAiZWI5MmE3MDhjYWU5ODVmNCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJodW1vciIsCnRpbWVfc3RhcnQ6IDExMzgsCnRpdGxlOiAi0JHQtdC3INGA0YPQuiIsCmRlc2NyaXB0aW9uOiAi0JTRg9GI0LjRgtGMINC80L7QttC90L4g0Lgg0L3QvtCz0LDQvNC4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzE2LmpwZyIsCmlkOiAiMzE2IiwKaGFzaDogIjg0NGRhMmVmNmUxYzhjMTAiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogMTYzLAp0aXRsZTogItCl0L7RgNC+0YjQuNC5INC80LDQu9GM0YfQuNC6IiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCi0L7QsdC4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzE3LmpwZyIsCmlkOiAiMzE3IiwKaGFzaDogImYzYmVjY2ZjYmU0MDNhMWMiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiYXJjcyIsCnRpbWVfc3RhcnQ6IDk1MSwKdGl0bGU6ICLQlNGA0YPQttCx0LAg0L3QsNGA0L7QtNC+0LIiLApkZXNjcmlwdGlvbjogItCX0LDQstC10YDRiNC40YLQtSDQsNGA0LrRgyDRgdC/0LDRgdC10L3QuNGPINCa0LDQt9C10LrQsNCz0LUiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zMTguanBnIiwKaWQ6ICIzMTgiLApoYXNoOiAiZTY1YmQ2NTczMWNkNzUyYSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiAxMTU2LAp0aXRsZTogItCa0L7RgNC10L3RjCIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQlNCw0L3Qt9C+INCo0LjQvNGD0YDQvtC5IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzE5LmpwZyIsCmlkOiAiMzE5IiwKaGFzaDogImUxZTZjMDg5ZDBhOTcxN2QiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMxNS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zMTYuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzE3LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMxOC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zMTkuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 86,\ntitle: \"Из-под земли\",\ndescription: \"Творец жив\",\nicon: js_preres_url + \"/uploads/achievements/icons/315.jpg\",\nid: \"315\",\nhash: \"eb92a708cae985f4\"\n});\r\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 1138,\ntitle: \"Без рук\",\ndescription: \"Душить можно и ногами\",\nicon: js_preres_url + \"/uploads/achievements/icons/316.jpg\",\nid: \"316\",\nhash: \"844da2ef6e1c8c10\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 163,\ntitle: \"Хороший мальчик\",\ndescription: \"Вы познакомились с Тоби\",\nicon: js_preres_url + \"/uploads/achievements/icons/317.jpg\",\nid: \"317\",\nhash: \"f3beccfcbe403a1c\"\n});\r\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 951,\ntitle: \"Дружба народов\",\ndescription: \"Завершите арку спасения Казекаге\",\nicon: js_preres_url + \"/uploads/achievements/icons/318.jpg\",\nid: \"318\",\nhash: \"e65bd65731cd752a\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1156,\ntitle: \"Корень\",\ndescription: \"Вы познакомились с Данзо Шимурой\",\nicon: js_preres_url + \"/uploads/achievements/icons/319.jpg\",\nid: \"319\",\nhash: \"e1e6c089d0a9717d\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/315.jpg\", js_preres_url + \"/uploads/achievements/icons/316.jpg\", js_preres_url + \"/uploads/achievements/icons/317.jpg\", js_preres_url + \"/uploads/achievements/icons/318.jpg\", js_preres_url + \"/uploads/achievements/icons/319.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 86,
+        "title": "Из-под земли",
+        "description": "Творец жив",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/315.jpg",
+        "id": "315",
+        "hash": "eb92a708cae985f4"
+      },
+      {
+        "category": "humor",
+        "time_start": 1138,
+        "title": "Без рук",
+        "description": "Душить можно и ногами",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/316.jpg",
+        "id": "316",
+        "hash": "844da2ef6e1c8c10"
+      },
+      {
+        "category": "heroes",
+        "time_start": 163,
+        "title": "Хороший мальчик",
+        "description": "Вы познакомились с Тоби",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/317.jpg",
+        "id": "317",
+        "hash": "f3beccfcbe403a1c"
+      },
+      {
+        "category": "arcs",
+        "time_start": 951,
+        "title": "Дружба народов",
+        "description": "Завершите арку спасения Казекаге",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/318.jpg",
+        "id": "318",
+        "hash": "e65bd65731cd752a"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1156,
+        "title": "Корень",
+        "description": "Вы познакомились с Данзо Шимурой",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/319.jpg",
+        "id": "319",
+        "hash": "e1e6c089d0a9717d"
+      }
+    ]
+  }
+}

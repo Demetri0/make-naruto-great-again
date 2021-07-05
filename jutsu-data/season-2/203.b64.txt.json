@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "203",
+  "video_intro_start": 377,
+  "video_intro_end": 467,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/673586556?i=673586565&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 377,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1028930741?i=1028930747&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDM3NSwKdGl0bGU6ICLQn9GA0LXQtNC90LDRh9C10YDRgtCw0L3QviDRgdGD0LTRjNCx0L7QuSIsCmRlc2NyaXB0aW9uOiAi0JLRi9GB0LvRg9GI0LDQudGC0LUg0YDQsNGB0YHQutCw0Lcg0KLQvtCx0Lgg0L4g0L/RgNC10LTQutCw0YUg0L3QuNC90LTQt9GPIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTE4LmpwZyIsCmlkOiAiNTE4IiwKaGFzaDogIjUyZmQ1Nzg4YWM0MTAyOGYiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAidGVjaG5pcXVlcyIsCnRpbWVfc3RhcnQ6IDExNzQsCnRpdGxlOiAi0KHRgtC40YXQuNGPINCo0YLQvtGA0LzQsCIsCmRlc2NyaXB0aW9uOiAi0J7QsdGD0LfQtNCw0L3QvdCw0Y8g0LHRg9GA0Y8iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MTkuanBnIiwKaWQ6ICI1MTkiLApoYXNoOiAiNjcxNjhiNTQ0MzI3YWU3NCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJ0ZWNobmlxdWVzIiwKdGltZV9zdGFydDogNzE0LAp0aXRsZTogItCh0YLQuNGF0LjRjyDQn9C70LDQvNC10L3QuCIsCmRlc2NyaXB0aW9uOiAi0JrQvtC90YLRgNC+0LvRjCDRh9GR0YDQvdC+0LPQviDQvtCz0L3RjyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUyMC5qcGciLAppZDogIjUyMCIsCmhhc2g6ICI3NjhhOGYzZmM5Yzg0MjIxIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEyNTgsCnRpdGxlOiAi0JfQu9C+0LLQtdGJ0LDRjyDRgdC40LvQsCIsCmRlc2NyaXB0aW9uOiAi0KHQsNGB0LrQtSDQsNC60YLQuNCy0LjRgNGD0LXRgiDQodGD0YHQsNC90L7QviIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUyMS5qcGciLAppZDogIjUyMSIsCmhhc2g6ICIyMTFiZWZlMTNhNGE5NDIyIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MTguanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTE5LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUyMC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MjEuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 375,\ntitle: \"Предначертано судьбой\",\ndescription: \"Выслушайте рассказ Тоби о предках ниндзя\",\nicon: js_preres_url + \"/uploads/achievements/icons/518.jpg\",\nid: \"518\",\nhash: \"52fd5788ac41028f\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 1174,\ntitle: \"Стихия Шторма\",\ndescription: \"Обузданная буря\",\nicon: js_preres_url + \"/uploads/achievements/icons/519.jpg\",\nid: \"519\",\nhash: \"67168b544327ae74\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 714,\ntitle: \"Стихия Пламени\",\ndescription: \"Контроль чёрного огня\",\nicon: js_preres_url + \"/uploads/achievements/icons/520.jpg\",\nid: \"520\",\nhash: \"768a8f3fc9c84221\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1258,\ntitle: \"Зловещая сила\",\ndescription: \"Саске активирует Сусаноо\",\nicon: js_preres_url + \"/uploads/achievements/icons/521.jpg\",\nid: \"521\",\nhash: \"211befe13a4a9422\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/518.jpg\", js_preres_url + \"/uploads/achievements/icons/519.jpg\", js_preres_url + \"/uploads/achievements/icons/520.jpg\", js_preres_url + \"/uploads/achievements/icons/521.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 375,
+        "title": "Предначертано судьбой",
+        "description": "Выслушайте рассказ Тоби о предках ниндзя",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/518.jpg",
+        "id": "518",
+        "hash": "52fd5788ac41028f"
+      },
+      {
+        "category": "techniques",
+        "time_start": 1174,
+        "title": "Стихия Шторма",
+        "description": "Обузданная буря",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/519.jpg",
+        "id": "519",
+        "hash": "67168b544327ae74"
+      },
+      {
+        "category": "techniques",
+        "time_start": 714,
+        "title": "Стихия Пламени",
+        "description": "Контроль чёрного огня",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/520.jpg",
+        "id": "520",
+        "hash": "768a8f3fc9c84221"
+      },
+      {
+        "category": "events",
+        "time_start": 1258,
+        "title": "Зловещая сила",
+        "description": "Саске активирует Сусаноо",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/521.jpg",
+        "id": "521",
+        "hash": "211befe13a4a9422"
+      }
+    ]
+  }
+}

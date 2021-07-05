@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "197",
+  "video_intro_start": 112,
+  "video_intro_end": 202,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/673586556?i=673586565&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 112,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1028930741?i=1028930747&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImh1bW9yIiwKdGltZV9zdGFydDogMzE5LAp0aXRsZTogItCa0LDQvNGD0YjQtdC6IiwKZGVzY3JpcHRpb246ICLQrdGE0YTQtdC60YIg0LTQvtC80LjQvdC+INCyINC00LXQudGB0YLQstC40LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80OTkuanBnIiwKaWQ6ICI0OTkiLApoYXNoOiAiZWUyOWUzYjg3MTY1MWJhYyIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiAzMjksCnRpdGxlOiAi0KPRh9C10L3QuNGG0LAg0JHQuCIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQodCw0LzRg9C4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTAwLmpwZyIsCmlkOiAiNTAwIiwKaGFzaDogImVmMGNiN2U5MGI4MDhmYTkiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogMjQ0LAp0aXRsZTogItCi0YDQtdCy0L7QttC90YvQuSDQv9Cw0YDQtdC90YwiLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0J7QvNC+0LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MDEuanBnIiwKaWQ6ICI1MDEiLApoYXNoOiAiZGRlOTJmZTVmOTcwMzY4MiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiAyNzUsCnRpdGxlOiAi0JDQs9GA0LXRgdGB0LjQstC90LDRjyDQtNC10LLQsCIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQmtCw0YDRg9C4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTAyLmpwZyIsCmlkOiAiNTAyIiwKaGFzaDogIjU1YjAwMTA0NTA2YzVlODYiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ5OS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MDAuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTAxLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUwMi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 319,\ntitle: \"Камушек\",\ndescription: \"Эффект домино в действии\",\nicon: js_preres_url + \"/uploads/achievements/icons/499.jpg\",\nid: \"499\",\nhash: \"ee29e3b871651bac\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 329,\ntitle: \"Ученица Би\",\ndescription: \"Вы познакомились с Самуи\",\nicon: js_preres_url + \"/uploads/achievements/icons/500.jpg\",\nid: \"500\",\nhash: \"ef0cb7e90b808fa9\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 244,\ntitle: \"Тревожный парень\",\ndescription: \"Вы познакомились с Омои\",\nicon: js_preres_url + \"/uploads/achievements/icons/501.jpg\",\nid: \"501\",\nhash: \"dde92fe5f9703682\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 275,\ntitle: \"Агрессивная дева\",\ndescription: \"Вы познакомились с Каруи\",\nicon: js_preres_url + \"/uploads/achievements/icons/502.jpg\",\nid: \"502\",\nhash: \"55b00104506c5e86\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/499.jpg\", js_preres_url + \"/uploads/achievements/icons/500.jpg\", js_preres_url + \"/uploads/achievements/icons/501.jpg\", js_preres_url + \"/uploads/achievements/icons/502.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "humor",
+        "time_start": 319,
+        "title": "Камушек",
+        "description": "Эффект домино в действии",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/499.jpg",
+        "id": "499",
+        "hash": "ee29e3b871651bac"
+      },
+      {
+        "category": "heroes",
+        "time_start": 329,
+        "title": "Ученица Би",
+        "description": "Вы познакомились с Самуи",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/500.jpg",
+        "id": "500",
+        "hash": "ef0cb7e90b808fa9"
+      },
+      {
+        "category": "heroes",
+        "time_start": 244,
+        "title": "Тревожный парень",
+        "description": "Вы познакомились с Омои",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/501.jpg",
+        "id": "501",
+        "hash": "dde92fe5f9703682"
+      },
+      {
+        "category": "heroes",
+        "time_start": 275,
+        "title": "Агрессивная дева",
+        "description": "Вы познакомились с Каруи",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/502.jpg",
+        "id": "502",
+        "hash": "55b00104506c5e86"
+      }
+    ]
+  }
+}

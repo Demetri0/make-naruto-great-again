@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "496",
+  "video_intro_start": 45,
+  "video_intro_end": 135,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1189707930?i=1189708057&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 45,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1538113636?i=1538113637&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1393,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImh1bW9yIiwKdGltZV9zdGFydDogMTEzNCwKdGl0bGU6ICLQp9GM0ZEg0LLQutGD0YHQvdC10LUiLApkZXNjcmlwdGlvbjogItCa0YPQu9C40L3QsNGA0L3Ri9C5INC/0L7QtdC00LjQvdC+0LoiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84NjUuanBnIiwKaWQ6ICI4NjUiLApoYXNoOiAiYTMyMjk2ZWEwZmFmZWIzYyIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiAxMjY3LAp0aXRsZTogItCf0L7QtNCw0YDQvtC6INC00YDRg9C20LHRiyIsCmRlc2NyaXB0aW9uOiAi0KPQt9C90LDQudGC0LUsINGH0YLQviDQs9C+0YLQvtCy0LjRgiDQmtC+0LzQsNC90LTQsCDQkNGB0YPQvNGLIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODY2LmpwZyIsCmlkOiAiODY2IiwKaGFzaDogImI0YzRmNjkyZDJjNzZmY2QiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzg2NS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84NjYuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 1134,\ntitle: \"Чьё вкуснее\",\ndescription: \"Кулинарный поединок\",\nicon: js_preres_url + \"/uploads/achievements/icons/865.jpg\",\nid: \"865\",\nhash: \"a32296ea0fafeb3c\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1267,\ntitle: \"Подарок дружбы\",\ndescription: \"Узнайте, что готовит Команда Асумы\",\nicon: js_preres_url + \"/uploads/achievements/icons/866.jpg\",\nid: \"866\",\nhash: \"b4c4f692d2c76fcd\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/865.jpg\", js_preres_url + \"/uploads/achievements/icons/866.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "humor",
+        "time_start": 1134,
+        "title": "Чьё вкуснее",
+        "description": "Кулинарный поединок",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/865.jpg",
+        "id": "865",
+        "hash": "a32296ea0fafeb3c"
+      },
+      {
+        "category": "events",
+        "time_start": 1267,
+        "title": "Подарок дружбы",
+        "description": "Узнайте, что готовит Команда Асумы",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/866.jpg",
+        "id": "866",
+        "hash": "b4c4f692d2c76fcd"
+      }
+    ]
+  }
+}

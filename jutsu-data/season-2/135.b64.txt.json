@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "135",
+  "video_intro_start": 85,
+  "video_intro_end": 175,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1402641185?i=1402641459&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 85,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/337521814?i=337521818&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEwMTMsCnRpdGxlOiAi0KfRgtC+INGC0Ysg0LLQuNC00LjRiNGMPyIsCmRlc2NyaXB0aW9uOiAi0K3RgtCwINCy0YHRgtGA0LXRh9CwINGA0LXRiNC40YIg0LLRgdGRIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDM5LmpwZyIsCmlkOiAiNDM5IiwKaGFzaDogIjEyOGI5YzYxZGFhNWU0YTYiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQzOS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1013,\ntitle: \"Что ты видишь?\",\ndescription: \"Эта встреча решит всё\",\nicon: js_preres_url + \"/uploads/achievements/icons/439.jpg\",\nid: \"439\",\nhash: \"128b9c61daa5e4a6\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/439.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 1013,
+        "title": "Что ты видишь?",
+        "description": "Эта встреча решит всё",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/439.jpg",
+        "id": "439",
+        "hash": "128b9c61daa5e4a6"
+      }
+    ]
+  }
+}

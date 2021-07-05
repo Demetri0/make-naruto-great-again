@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "134",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1536275318?i=1536275329&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535490824?i=1535490832&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1388,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiA1MDQsCnRpdGxlOiAi0KHQutC+0YDQsdC90L7QtSDQp9C40LTQvtGA0LgiLApkZXNjcmlwdGlvbjogItCf0YDQvtC60LvRj9GC0LDRjyDRh9GR0YDQvdCw0Y8g0LzQvtC70L3QuNGPIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjIwLmpwZyIsCmlkOiAiMjIwIiwKaGFzaDogIjFkMjZhMjZlN2M2OGY0ZWUiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAidGVjaG5pcXVlcyIsCnRpbWVfc3RhcnQ6IDQ5OSwKdGl0bGU6ICLQkNC70YvQuSDQoNCw0YHQtdC90LPQsNC9IiwKZGVzY3JpcHRpb246ICLQodGE0LXRgNCwLCDQvtGB0LrQstC10YDQvdGR0L3QvdCw0Y8g0LfQstC10YDQtdC8IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjIxLmpwZyIsCmlkOiAiMjIxIiwKaGFzaDogIjJlZGQ1M2IzODVkY2ZmNWEiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogMTI2MiwKdGl0bGU6ICLQqNC/0LjQvtC9INCQ0LrQsNGG0YPQutC4IiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCX0LXRhtGDIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjIyLmpwZyIsCmlkOiAiMjIyIiwKaGFzaDogImMxNTA3MzM3NjNhMTY4N2YiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogMTE4MywKdGl0bGU6ICLQkiDQv9GD0YfQuNC90YMg0L3QtdC90LDQstC40YHRgtC4IiwKZGVzY3JpcHRpb246ICLQodCw0YHQutC1INC+0YLRgNC40L3Rg9C7INC/0YDQvtGI0LvRg9GOINC20LjQt9C90YwiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yMjMuanBnIiwKaWQ6ICIyMjMiLApoYXNoOiAiNTZlNzVhZjUxMGJhODRjZiIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjIwLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzIyMS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yMjIuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjIzLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 504,\ntitle: \"Скорбное Чидори\",\ndescription: \"Проклятая чёрная молния\",\nicon: js_preres_url + \"/uploads/achievements/icons/220.jpg\",\nid: \"220\",\nhash: \"1d26a26e7c68f4ee\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 499,\ntitle: \"Алый Расенган\",\ndescription: \"Сфера, осквернённая зверем\",\nicon: js_preres_url + \"/uploads/achievements/icons/221.jpg\",\nid: \"221\",\nhash: \"2edd53b385dcff5a\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1262,\ntitle: \"Шпион Акацуки\",\ndescription: \"Вы познакомились с Зецу\",\nicon: js_preres_url + \"/uploads/achievements/icons/222.jpg\",\nid: \"222\",\nhash: \"c150733763a1687f\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1183,\ntitle: \"В пучину ненависти\",\ndescription: \"Саске отринул прошлую жизнь\",\nicon: js_preres_url + \"/uploads/achievements/icons/223.jpg\",\nid: \"223\",\nhash: \"56e75af510ba84cf\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/220.jpg\", js_preres_url + \"/uploads/achievements/icons/221.jpg\", js_preres_url + \"/uploads/achievements/icons/222.jpg\", js_preres_url + \"/uploads/achievements/icons/223.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 504,
+        "title": "Скорбное Чидори",
+        "description": "Проклятая чёрная молния",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/220.jpg",
+        "id": "220",
+        "hash": "1d26a26e7c68f4ee"
+      },
+      {
+        "category": "techniques",
+        "time_start": 499,
+        "title": "Алый Расенган",
+        "description": "Сфера, осквернённая зверем",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/221.jpg",
+        "id": "221",
+        "hash": "2edd53b385dcff5a"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1262,
+        "title": "Шпион Акацуки",
+        "description": "Вы познакомились с Зецу",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/222.jpg",
+        "id": "222",
+        "hash": "c150733763a1687f"
+      },
+      {
+        "category": "events",
+        "time_start": 1183,
+        "title": "В пучину ненависти",
+        "description": "Саске отринул прошлую жизнь",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/223.jpg",
+        "id": "223",
+        "hash": "56e75af510ba84cf"
+      }
+    ]
+  }
+}

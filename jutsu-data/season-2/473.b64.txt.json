@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "473",
+  "video_intro_start": 258,
+  "video_intro_end": 348,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1128303226?i=1128303347&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 258,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536315770?i=1536315771&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1393,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDUyMiwKdGl0bGU6ICLQmNGB0L/QvtC70YzQt9GD0Lkg0YEg0YPQvNC+0LwiLApkZXNjcmlwdGlvbjogItCe0LHQuNGC0L4g0L7QtNCw0LvQttC40LLQsNC10YIg0LTRgNGD0LPRgyDQqNCw0YDQuNC90LPQsNC9IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODI2LmpwZyIsCmlkOiAiODI2IiwKaGFzaDogImY4YTQ2MzgxMDQ1ZGFhNjUiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogNzA0LAp0aXRsZTogItCh0LjQu9CwINCa0LDQutCw0YjQuCIsCmRlc2NyaXB0aW9uOiAi0KXQsNGC0LDQutC1INC+0LHRgNC10YLQsNC10YIg0KHRg9GB0LDQvdC+0L4iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84MjcuanBnIiwKaWQ6ICI4MjciLApoYXNoOiAiYjlkMTJiOTlkYWU0NzM0NSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiAxMjY0LAp0aXRsZTogItCvINCy0LDRgSDQu9GO0LHQu9GOIiwKZGVzY3JpcHRpb246ICLQmtC+0LzQsNC90LTQsCA3INC30LDQv9C10YfQsNGC0YvQstCw0LXRgiDQmtCw0LPRg9GOIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODI4LmpwZyIsCmlkOiAiODI4IiwKaGFzaDogImUzMDZlNTFjNGI2NTNmYmUiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzgyNi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84MjcuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODI4LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 522,\ntitle: \"Используй с умом\",\ndescription: \"Обито одалживает другу Шаринган\",\nicon: js_preres_url + \"/uploads/achievements/icons/826.jpg\",\nid: \"826\",\nhash: \"f8a46381045daa65\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 704,\ntitle: \"Сила Какаши\",\ndescription: \"Хатаке обретает Сусаноо\",\nicon: js_preres_url + \"/uploads/achievements/icons/827.jpg\",\nid: \"827\",\nhash: \"b9d12b99dae47345\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1264,\ntitle: \"Я вас люблю\",\ndescription: \"Команда 7 запечатывает Кагую\",\nicon: js_preres_url + \"/uploads/achievements/icons/828.jpg\",\nid: \"828\",\nhash: \"e306e51c4b653fbe\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/826.jpg\", js_preres_url + \"/uploads/achievements/icons/827.jpg\", js_preres_url + \"/uploads/achievements/icons/828.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 522,
+        "title": "Используй с умом",
+        "description": "Обито одалживает другу Шаринган",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/826.jpg",
+        "id": "826",
+        "hash": "f8a46381045daa65"
+      },
+      {
+        "category": "events",
+        "time_start": 704,
+        "title": "Сила Какаши",
+        "description": "Хатаке обретает Сусаноо",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/827.jpg",
+        "id": "827",
+        "hash": "b9d12b99dae47345"
+      },
+      {
+        "category": "events",
+        "time_start": 1264,
+        "title": "Я вас люблю",
+        "description": "Команда 7 запечатывает Кагую",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/828.jpg",
+        "id": "828",
+        "hash": "e306e51c4b653fbe"
+      }
+    ]
+  }
+}

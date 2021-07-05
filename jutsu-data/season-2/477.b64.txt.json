@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "477",
+  "video_intro_start": 0,
+  "video_intro_end": 93,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1128303226?i=1128303347&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536315770?i=1536315771&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1393,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiAzODQsCnRpdGxlOiAi0KHRgtGA0LXQu9CwINCY0L3QtNGA0YsiLApkZXNjcmlwdGlvbjogItCh0LjQu9GM0L3QtdC50YjQsNGPINCw0YLQsNC60LAg0KHQsNGB0LrQtSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzgzMy5qcGciLAppZDogIjgzMyIsCmhhc2g6ICJjM2JmZTIyYmJmM2M4M2VkIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiAzNzgsCnRpdGxlOiAi0JTQstC+0LnQvdCw0Y8g0L/QvtGA0YbQuNGPIiwKZGVzY3JpcHRpb246ICLQoNCw0YHQtdC9INCh0Y7RgNC40LrQtdC9INCo0LXRgdGC0Lgg0J/Rg9GC0LXQuSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzgzNC5qcGciLAppZDogIjgzNCIsCmhhc2g6ICI4NDY2ZTM0ZTMzYTg0MTg1Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInF1b3RlcyIsCnRpbWVfc3RhcnQ6IDEwMjYsCnRpdGxlOiAi0KHQvdC+0LLQsCDQuCDRgdC90L7QstCwIiwKZGVzY3JpcHRpb246ICLQn9C+0YLQvtC80YMg0YfRgtC+INGPINGC0LLQvtC5INC00YDRg9CzIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODM1LmpwZyIsCmlkOiAiODM1IiwKaGFzaDogImFiMWU5Zjg4MDFlNzMwOTMiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogMTI2MSwKdGl0bGU6ICLQoNC10YjQsNGO0YnQuNC5INGD0LTQsNGAIiwKZGVzY3JpcHRpb246ICLQkdC40YLQstCwINC30LAg0YHRg9C00YzQsdGDINC80LjRgNCwINC30LDQstC10YDRiNC10L3QsCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzgzNi5qcGciLAppZDogIjgzNiIsCmhhc2g6ICI0YzZkNDA2NmUzY2ExZjRjIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84MzMuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODM0LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzgzNS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84MzYuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 384,\ntitle: \"Стрела Индры\",\ndescription: \"Сильнейшая атака Саске\",\nicon: js_preres_url + \"/uploads/achievements/icons/833.jpg\",\nid: \"833\",\nhash: \"c3bfe22bbf3c83ed\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 378,\ntitle: \"Двойная порция\",\ndescription: \"Расен Сюрикен Шести Путей\",\nicon: js_preres_url + \"/uploads/achievements/icons/834.jpg\",\nid: \"834\",\nhash: \"8466e34e33a84185\"\n});\r\nthis_anime_achievements.push({\ncategory: \"quotes\",\ntime_start: 1026,\ntitle: \"Снова и снова\",\ndescription: \"Потому что я твой друг\",\nicon: js_preres_url + \"/uploads/achievements/icons/835.jpg\",\nid: \"835\",\nhash: \"ab1e9f8801e73093\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1261,\ntitle: \"Решающий удар\",\ndescription: \"Битва за судьбу мира завершена\",\nicon: js_preres_url + \"/uploads/achievements/icons/836.jpg\",\nid: \"836\",\nhash: \"4c6d4066e3ca1f4c\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/833.jpg\", js_preres_url + \"/uploads/achievements/icons/834.jpg\", js_preres_url + \"/uploads/achievements/icons/835.jpg\", js_preres_url + \"/uploads/achievements/icons/836.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 384,
+        "title": "Стрела Индры",
+        "description": "Сильнейшая атака Саске",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/833.jpg",
+        "id": "833",
+        "hash": "c3bfe22bbf3c83ed"
+      },
+      {
+        "category": "techniques",
+        "time_start": 378,
+        "title": "Двойная порция",
+        "description": "Расен Сюрикен Шести Путей",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/834.jpg",
+        "id": "834",
+        "hash": "8466e34e33a84185"
+      },
+      {
+        "category": "quotes",
+        "time_start": 1026,
+        "title": "Снова и снова",
+        "description": "Потому что я твой друг",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/835.jpg",
+        "id": "835",
+        "hash": "ab1e9f8801e73093"
+      },
+      {
+        "category": "events",
+        "time_start": 1261,
+        "title": "Решающий удар",
+        "description": "Битва за судьбу мира завершена",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/836.jpg",
+        "id": "836",
+        "hash": "4c6d4066e3ca1f4c"
+      }
+    ]
+  }
+}

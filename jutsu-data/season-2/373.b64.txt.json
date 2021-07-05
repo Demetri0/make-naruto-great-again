@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "373",
+  "video_intro_start": 66,
+  "video_intro_end": 156,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1536453723?i=1536453786&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 66,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1537252430?i=1537252431&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDExNzEsCnRpdGxlOiAi0J3QvtCy0LDRjyDRgdC40LvQsCIsCmRlc2NyaXB0aW9uOiAi0J7RhtC10L3QuNGC0LUsINC60LDQuiDQv9GA0L7QtNCy0LjQvdGD0LvQuNGB0Ywg0LTRgNGD0LfRjNGPIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzQyLmpwZyIsCmlkOiAiNzQyIiwKaGFzaDogImNhMmQ1ZGU5NjI4YmZkMTgiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogMTI2MywKdGl0bGU6ICLQotGA0L7QudC90L7QuSDQv9GA0LjQt9GL0LIiLApkZXNjcmlwdGlvbjogItCa0L7QvNCw0L3QtNCwIDcg0LjQtNGR0YIg0LIg0LHQvtC5IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzQzLmpwZyIsCmlkOiAiNzQzIiwKaGFzaDogIjdjOTUzZDBkOWJhNmRhZTQiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzc0Mi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83NDMuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1171,\ntitle: \"Новая сила\",\ndescription: \"Оцените, как продвинулись друзья\",\nicon: js_preres_url + \"/uploads/achievements/icons/742.jpg\",\nid: \"742\",\nhash: \"ca2d5de9628bfd18\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1263,\ntitle: \"Тройной призыв\",\ndescription: \"Команда 7 идёт в бой\",\nicon: js_preres_url + \"/uploads/achievements/icons/743.jpg\",\nid: \"743\",\nhash: \"7c953d0d9ba6dae4\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/742.jpg\", js_preres_url + \"/uploads/achievements/icons/743.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 1171,
+        "title": "Новая сила",
+        "description": "Оцените, как продвинулись друзья",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/742.jpg",
+        "id": "742",
+        "hash": "ca2d5de9628bfd18"
+      },
+      {
+        "category": "events",
+        "time_start": 1263,
+        "title": "Тройной призыв",
+        "description": "Команда 7 идёт в бой",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/743.jpg",
+        "id": "743",
+        "hash": "7c953d0d9ba6dae4"
+      }
+    ]
+  }
+}

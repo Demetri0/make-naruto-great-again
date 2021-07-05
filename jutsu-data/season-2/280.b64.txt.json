@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "280",
+  "video_intro_start": 92,
+  "video_intro_end": 182,
+  "video_music_intro": null,
+  "video_outro_start": 92,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535815464?i=1535815468&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEyMDYsCnRpdGxlOiAi0J/RgtC40YbQsCDQsiDQutC70LXRgtC60LUiLApkZXNjcmlwdGlvbjogItCU0LXQudC00LDRgNCwINCy0YvRgNCy0LDQu9GB0Y8g0Lgg0YHQvdC+0LLQsCDQv9C+0L/QsNC70YHRjyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzYxNy5qcGciLAppZDogIjYxNyIsCmhhc2g6ICJkYTM0OTQzZGZkYjFkYmU4Igp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82MTcuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1206,\ntitle: \"Птица в клетке\",\ndescription: \"Дейдара вырвался и снова попался\",\nicon: js_preres_url + \"/uploads/achievements/icons/617.jpg\",\nid: \"617\",\nhash: \"da34943dfdb1dbe8\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/617.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 1206,
+        "title": "Птица в клетке",
+        "description": "Дейдара вырвался и снова попался",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/617.jpg",
+        "id": "617",
+        "hash": "da34943dfdb1dbe8"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "419",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1538129345?i=1538129647&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536491292?i=1536491296&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDExMDYsCnRpdGxlOiAi0JLQtdGH0L3Ri9C1INGB0L7Qv9C10YDQvdC40LrQuCIsCmRlc2NyaXB0aW9uOiAi0KPQt9C90LDQudGC0LUg0L4g0L/RgNC+0YjQu9C+0Lwg0JPQsNGPIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzgyLmpwZyIsCmlkOiAiNzgyIiwKaGFzaDogIjBhMjAxNjkzZmZiZjQ3MjAiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAidGVjaG5pcXVlcyIsCnRpbWVfc3RhcnQ6IDEyMDMsCnRpdGxlOiAi0JLRgNCw0YLQsCDQodC80LXRgNGC0LgiLApkZXNjcmlwdGlvbjogItCY0YHQv9Cw0YDRj9GO0YnQsNGP0YHRjyDQutGA0L7QstGMIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzgzLmpwZyIsCmlkOiAiNzgzIiwKaGFzaDogIjY3YzBlNDIzYzM1MGY5YTMiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzc4Mi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83ODMuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1106,\ntitle: \"Вечные соперники\",\ndescription: \"Узнайте о прошлом Гая\",\nicon: js_preres_url + \"/uploads/achievements/icons/782.jpg\",\nid: \"782\",\nhash: \"0a201693ffbf4720\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 1203,\ntitle: \"Врата Смерти\",\ndescription: \"Испаряющаяся кровь\",\nicon: js_preres_url + \"/uploads/achievements/icons/783.jpg\",\nid: \"783\",\nhash: \"67c0e423c350f9a3\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/782.jpg\", js_preres_url + \"/uploads/achievements/icons/783.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 1106,
+        "title": "Вечные соперники",
+        "description": "Узнайте о прошлом Гая",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/782.jpg",
+        "id": "782",
+        "hash": "0a201693ffbf4720"
+      },
+      {
+        "category": "techniques",
+        "time_start": 1203,
+        "title": "Врата Смерти",
+        "description": "Испаряющаяся кровь",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/783.jpg",
+        "id": "783",
+        "hash": "67c0e423c350f9a3"
+      }
+    ]
+  }
+}

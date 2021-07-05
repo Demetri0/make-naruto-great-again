@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "196",
+  "video_intro_start": 185,
+  "video_intro_end": 275,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/673586556?i=673586565&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 185,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1028930741?i=1028930747&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImh1bW9yIiwKdGltZV9zdGFydDogNTExLAp0aXRsZTogItCU0LDQvNGB0LrQuNC5INGD0LPQvtC00L3QuNC6IiwKZGVzY3JpcHRpb246ICLQn9GA0LXQstGA0LDRidC10L3QuNC1INGC0LLQvtGA0LjRgiDRh9GD0LTQtdGB0LAiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80OTcuanBnIiwKaWQ6ICI0OTciLApoYXNoOiAiZDc2ZjVhY2M1OGI3Yjg4YiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJhcmNzIiwKdGltZV9zdGFydDogMTI2MSwKdGl0bGU6ICLQktC+0YHRgdGC0LDQvdCw0LLQu9C40LLQsNGPINC00LXRgNC10LLQvdGOIiwKZGVzY3JpcHRpb246ICLQl9Cw0LLQtdGA0YjQuNGC0LUg0LDRgNC60YMg0LLQvtGB0L/QvtC80LjQvdCw0L3QuNC5INCb0LjRgdGC0LAiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80OTguanBnIiwKaWQ6ICI0OTgiLApoYXNoOiAiZjA5ZGI0ODVmZDE1NTkxZSIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDk3LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ5OC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 511,\ntitle: \"Дамский угодник\",\ndescription: \"Превращение творит чудеса\",\nicon: js_preres_url + \"/uploads/achievements/icons/497.jpg\",\nid: \"497\",\nhash: \"d76f5acc58b7b88b\"\n});\r\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 1261,\ntitle: \"Восстанавливая деревню\",\ndescription: \"Завершите арку воспоминаний Листа\",\nicon: js_preres_url + \"/uploads/achievements/icons/498.jpg\",\nid: \"498\",\nhash: \"f09db485fd15591e\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/497.jpg\", js_preres_url + \"/uploads/achievements/icons/498.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "humor",
+        "time_start": 511,
+        "title": "Дамский угодник",
+        "description": "Превращение творит чудеса",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/497.jpg",
+        "id": "497",
+        "hash": "d76f5acc58b7b88b"
+      },
+      {
+        "category": "arcs",
+        "time_start": 1261,
+        "title": "Восстанавливая деревню",
+        "description": "Завершите арку воспоминаний Листа",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/498.jpg",
+        "id": "498",
+        "hash": "f09db485fd15591e"
+      }
+    ]
+  }
+}

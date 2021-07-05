@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "283",
+  "video_intro_start": 164,
+  "video_intro_end": 254,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1409861532?i=1409861550&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 164,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535529109?i=1535529112&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInF1b3RlcyIsCnRpbWVfc3RhcnQ6IDI4NiwKdGl0bGU6ICLQodGC0LDQstC60LAg0L3QsCDQndCw0YDRg9GC0L4iLApkZXNjcmlwdGlvbjogItCS0YvRgdC70YPRiNCw0LnRgtC1INGA0LXRh9GMINCm0YPQvdCw0LTQtSDQuiDQrdGOIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjIxLmpwZyIsCmlkOiAiNjIxIiwKaGFzaDogImViMWM1Y2UzZWFjNDA0NDYiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogMTEwMywKdGl0bGU6ICLQmtCw0Log0JzQuNC90LDRgtC+IiwKZGVzY3JpcHRpb246ICLQndCw0YDRg9GC0L4g0YPQstC+0YDQsNGH0LjQstCw0LXRgtGB0Y8g0L7RgiDQoNCw0LnQutCw0LPQtSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzYyMi5qcGciLAppZDogIjYyMiIsCmhhc2g6ICIxZWUwODQ2N2Q5MGZmNTE3Igp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82MjEuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjIyLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"quotes\",\ntime_start: 286,\ntitle: \"Ставка на Наруто\",\ndescription: \"Выслушайте речь Цунаде к Эю\",\nicon: js_preres_url + \"/uploads/achievements/icons/621.jpg\",\nid: \"621\",\nhash: \"eb1c5ce3eac40446\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1103,\ntitle: \"Как Минато\",\ndescription: \"Наруто уворачивается от Райкаге\",\nicon: js_preres_url + \"/uploads/achievements/icons/622.jpg\",\nid: \"622\",\nhash: \"1ee08467d90ff517\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/621.jpg\", js_preres_url + \"/uploads/achievements/icons/622.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "quotes",
+        "time_start": 286,
+        "title": "Ставка на Наруто",
+        "description": "Выслушайте речь Цунаде к Эю",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/621.jpg",
+        "id": "621",
+        "hash": "eb1c5ce3eac40446"
+      },
+      {
+        "category": "events",
+        "time_start": 1103,
+        "title": "Как Минато",
+        "description": "Наруто уворачивается от Райкаге",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/622.jpg",
+        "id": "622",
+        "hash": "1ee08467d90ff517"
+      }
+    ]
+  }
+}

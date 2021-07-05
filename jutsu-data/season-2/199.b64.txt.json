@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "199",
+  "video_intro_start": 346,
+  "video_intro_end": 436,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/673586556?i=673586565&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 346,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1028930741?i=1028930747&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDIzNywKdGl0bGU6ICLQodC60YDQvtC80L3Ri9C5INC80LXRh9C90LjQuiIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQp9C+0LTQttGD0YDQviIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUwNi5qcGciLAppZDogIjUwNiIsCmhhc2g6ICI5ODljYzZkODNiNzM5YWUxIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDI4NywKdGl0bGU6ICLQk9C70LDQtyDQotGD0LzQsNC90LAiLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0JDQviIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUwNy5qcGciLAppZDogIjUwNyIsCmhhc2g6ICJlZDA4MWU3NTY1MjFlZGQ3Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInBsYWNlcyIsCnRpbWVfc3RhcnQ6IDEwNjcsCnRpdGxlOiAi0KHRgtGA0LDQvdCwINCc0LXRgtCw0LvQu9CwIiwKZGVzY3JpcHRpb246ICLQlNC+0LHRgNC+INC/0L7QttCw0LvQvtCy0LDRgtGMINCyINC30LDRgdC90LXQttC10L3QvdGL0LUg0LfQtdC80LvQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUwOC5qcGciLAppZDogIjUwOCIsCmhhc2g6ICI2YjBlMTIyZDUyMmZkZTUzIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MDYuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTA3LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUwOC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 237,\ntitle: \"Скромный мечник\",\ndescription: \"Вы познакомились с Чоджуро\",\nicon: js_preres_url + \"/uploads/achievements/icons/506.jpg\",\nid: \"506\",\nhash: \"989cc6d83b739ae1\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 287,\ntitle: \"Глаз Тумана\",\ndescription: \"Вы познакомились с Ао\",\nicon: js_preres_url + \"/uploads/achievements/icons/507.jpg\",\nid: \"507\",\nhash: \"ed081e756521edd7\"\n});\r\nthis_anime_achievements.push({\ncategory: \"places\",\ntime_start: 1067,\ntitle: \"Страна Металла\",\ndescription: \"Добро пожаловать в заснеженные земли\",\nicon: js_preres_url + \"/uploads/achievements/icons/508.jpg\",\nid: \"508\",\nhash: \"6b0e122d522fde53\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/506.jpg\", js_preres_url + \"/uploads/achievements/icons/507.jpg\", js_preres_url + \"/uploads/achievements/icons/508.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 237,
+        "title": "Скромный мечник",
+        "description": "Вы познакомились с Чоджуро",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/506.jpg",
+        "id": "506",
+        "hash": "989cc6d83b739ae1"
+      },
+      {
+        "category": "heroes",
+        "time_start": 287,
+        "title": "Глаз Тумана",
+        "description": "Вы познакомились с Ао",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/507.jpg",
+        "id": "507",
+        "hash": "ed081e756521edd7"
+      },
+      {
+        "category": "places",
+        "time_start": 1067,
+        "title": "Страна Металла",
+        "description": "Добро пожаловать в заснеженные земли",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/508.jpg",
+        "id": "508",
+        "hash": "6b0e122d522fde53"
+      }
+    ]
+  }
+}

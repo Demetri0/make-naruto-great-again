@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "24",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://www.shazam.com/track/40834897",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1539173661?i=1539173662&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1401,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDEzOSwKdGl0bGU6ICLQodGD0YDQvtCy0YvQuSDRjdC60LfQsNC80LXQvdCw0YLQvtGAIiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCY0LHQuNC60Lgg0JzQvtGA0LjQvdC+IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjEuanBnIiwKaWQ6ICI2MSIsCmhhc2g6ICJmODc0YWZkYWEwZDU5M2FjIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDM4NiwKdGl0bGU6ICLQn9C10YDQstGL0Lkg0Y3RgtCw0L8iLApkZXNjcmlwdGlvbjogItCf0LjRgdGM0LzQtdC90L3Ri9C5INGN0LrQt9Cw0LzQtdC9IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjIuanBnIiwKaWQ6ICI2MiIsCmhhc2g6ICIxOGIzNDViZjYzZWZiNWZhIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82MS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82Mi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 139,\ntitle: \"Суровый экзаменатор\",\ndescription: \"Вы познакомились с Ибики Морино\",\nicon: js_preres_url + \"/uploads/achievements/icons/61.jpg\",\nid: \"61\",\nhash: \"f874afdaa0d593ac\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 386,\ntitle: \"Первый этап\",\ndescription: \"Письменный экзамен\",\nicon: js_preres_url + \"/uploads/achievements/icons/62.jpg\",\nid: \"62\",\nhash: \"18b345bf63efb5fa\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/61.jpg\", js_preres_url + \"/uploads/achievements/icons/62.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 139,
+        "title": "Суровый экзаменатор",
+        "description": "Вы познакомились с Ибики Морино",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/61.jpg",
+        "id": "61",
+        "hash": "f874afdaa0d593ac"
+      },
+      {
+        "category": "events",
+        "time_start": 386,
+        "title": "Первый этап",
+        "description": "Письменный экзамен",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/62.jpg",
+        "id": "62",
+        "hash": "18b345bf63efb5fa"
+      }
+    ]
+  }
+}

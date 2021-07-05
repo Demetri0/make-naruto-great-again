@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "99",
+  "video_intro_start": 134,
+  "video_intro_end": 224,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1536372804?i=1536372808&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 134,
+  "video_music_outro": "https://www.shazam.com/track/98774494",
+  "this_video_duration": 1390,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImh1bW9yIiwKdGltZV9zdGFydDogMTI5LAp0aXRsZTogItCQINGPINCi0L7QsdC4LiDQktC+0YIg0YLQsNC6ISIsCmRlc2NyaXB0aW9uOiAi0JrQsNC6INC00L7RgdGC0LDRgtGMINGB0LXQvNC/0LDRjyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM5MC5qcGciLAppZDogIjM5MCIsCmhhc2g6ICI2MmJjMzkwY2ExMTBjZTA4Igp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zOTAuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 129,\ntitle: \"А я Тоби. Вот так!\",\ndescription: \"Как достать семпая\",\nicon: js_preres_url + \"/uploads/achievements/icons/390.jpg\",\nid: \"390\",\nhash: \"62bc390ca110ce08\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/390.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "humor",
+        "time_start": 129,
+        "title": "А я Тоби. Вот так!",
+        "description": "Как достать семпая",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/390.jpg",
+        "id": "390",
+        "hash": "62bc390ca110ce08"
+      }
+    ]
+  }
+}

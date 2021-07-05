@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "261",
+  "video_intro_start": 129,
+  "video_intro_end": 219,
+  "video_music_intro": null,
+  "video_outro_start": 129,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/520999153?i=520999157&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInF1b3RlcyIsCnRpbWVfc3RhcnQ6IDExNjQsCnRpdGxlOiAi0KDQsNC00Lgg0LTRgNGD0LfQtdC5IiwKZGVzY3JpcHRpb246ICLQktGL0YHQu9GD0YjQsNC50YLQtSDRgNC10YfRjCDQk9Cw0LDRgNGLINC6INCQ0LvRjNGP0L3RgdGDIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTg0LmpwZyIsCmlkOiAiNTg0IiwKaGFzaDogImVhMGEyN2RkM2RmYjJiZjkiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU4NC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"quotes\",\ntime_start: 1164,\ntitle: \"Ради друзей\",\ndescription: \"Выслушайте речь Гаары к Альянсу\",\nicon: js_preres_url + \"/uploads/achievements/icons/584.jpg\",\nid: \"584\",\nhash: \"ea0a27dd3dfb2bf9\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/584.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "quotes",
+        "time_start": 1164,
+        "title": "Ради друзей",
+        "description": "Выслушайте речь Гаары к Альянсу",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/584.jpg",
+        "id": "584",
+        "hash": "ea0a27dd3dfb2bf9"
+      }
+    ]
+  }
+}

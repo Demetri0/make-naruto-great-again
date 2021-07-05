@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "198",
+  "video_intro_start": 224,
+  "video_intro_end": 314,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/673586556?i=673586565&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 224,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1028930741?i=1028930747&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDYxNCwKdGl0bGU6ICLQktGA0LXQvNC10L3QvdGL0Lkg0KXQvtC60LDQs9C1IiwKZGVzY3JpcHRpb246ICLQlNCw0L3Qt9C+INCy0L7Qt9Cz0LvQsNCy0LvRj9C10YIg0JvQuNGB0YIiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MDMuanBnIiwKaWQ6ICI1MDMiLApoYXNoOiAiY2UzY2MyYzhiYTRkNzE4MiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiA2NzAsCnRpdGxlOiAi0JrQvtGA0LXQvdGMINCv0LzQsNC90LDQutCwIiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCk0YMiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MDQuanBnIiwKaWQ6ICI1MDQiLApoYXNoOiAiMTc1ZmEwYTdhNjMzYmM2YSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiA2ODYsCnRpdGxlOiAi0JrQvtGA0LXQvdGMINCQ0LHRg9GA0LDQvNC1IiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCi0L7RgNGD0L3QtSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUwNS5qcGciLAppZDogIjUwNSIsCmhhc2g6ICIxMjNiZjg3ZGJlNzVkYjFlIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MDMuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTA0LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUwNS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 614,\ntitle: \"Временный Хокаге\",\ndescription: \"Данзо возглавляет Лист\",\nicon: js_preres_url + \"/uploads/achievements/icons/503.jpg\",\nid: \"503\",\nhash: \"ce3cc2c8ba4d7182\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 670,\ntitle: \"Корень Яманака\",\ndescription: \"Вы познакомились с Фу\",\nicon: js_preres_url + \"/uploads/achievements/icons/504.jpg\",\nid: \"504\",\nhash: \"175fa0a7a633bc6a\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 686,\ntitle: \"Корень Абураме\",\ndescription: \"Вы познакомились с Торуне\",\nicon: js_preres_url + \"/uploads/achievements/icons/505.jpg\",\nid: \"505\",\nhash: \"123bf87dbe75db1e\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/503.jpg\", js_preres_url + \"/uploads/achievements/icons/504.jpg\", js_preres_url + \"/uploads/achievements/icons/505.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 614,
+        "title": "Временный Хокаге",
+        "description": "Данзо возглавляет Лист",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/503.jpg",
+        "id": "503",
+        "hash": "ce3cc2c8ba4d7182"
+      },
+      {
+        "category": "heroes",
+        "time_start": 670,
+        "title": "Корень Яманака",
+        "description": "Вы познакомились с Фу",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/504.jpg",
+        "id": "504",
+        "hash": "175fa0a7a633bc6a"
+      },
+      {
+        "category": "heroes",
+        "time_start": 686,
+        "title": "Корень Абураме",
+        "description": "Вы познакомились с Торуне",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/505.jpg",
+        "id": "505",
+        "hash": "123bf87dbe75db1e"
+      }
+    ]
+  }
+}

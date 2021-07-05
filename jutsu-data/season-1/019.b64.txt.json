@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "19",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://www.shazam.com/track/40834897",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1539173661?i=1539173662&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1400,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInF1b3RlcyIsCnRpbWVfc3RhcnQ6IDQyNSwKdGl0bGU6ICLQltC40LLQvtC1INC+0YDRg9C00LjQtSIsCmRlc2NyaXB0aW9uOiAi0JLRi9GB0LvRg9GI0LDQudGC0LUg0LTQuNCw0LvQvtCzINCd0LDRgNGD0YLQviDQuCDQl9Cw0LHRg9C30YsiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80Ni5qcGciLAppZDogIjQ2IiwKaGFzaDogIjFkMjcxOTYxOTY1MTY5MDEiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogMTAzMSwKdGl0bGU6ICLQmNGB0YfQtdC30LDRjyDQsiDRgdC90LXQs9GDIiwKZGVzY3JpcHRpb246ICLQodC80LXRgNGC0Ywg0JfQsNCx0YPQt9GLIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDcuanBnIiwKaWQ6ICI0NyIsCmhhc2g6ICI2ZDgwMTE0ZTVlNTcxNTQwIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImFyY3MiLAp0aW1lX3N0YXJ0OiAxMjcxLAp0aXRsZTogItCd0LAg0LzQvtGB0YLRgyDQndCw0YDRg9GC0L4iLApkZXNjcmlwdGlvbjogItCX0LDQstC10YDRiNC40YLQtSDQsNGA0LrRgyDQodGC0YDQsNC90Ysg0JLQvtC70L0iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80OC5qcGciLAppZDogIjQ4IiwKaGFzaDogIjY2NTE0ZWI3Njg3ZGM0ZDEiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ2LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ3LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ4LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"quotes\",\ntime_start: 425,\ntitle: \"Живое орудие\",\ndescription: \"Выслушайте диалог Наруто и Забузы\",\nicon: js_preres_url + \"/uploads/achievements/icons/46.jpg\",\nid: \"46\",\nhash: \"1d27196196516901\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1031,\ntitle: \"Исчезая в снегу\",\ndescription: \"Смерть Забузы\",\nicon: js_preres_url + \"/uploads/achievements/icons/47.jpg\",\nid: \"47\",\nhash: \"6d80114e5e571540\"\n});\r\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 1271,\ntitle: \"На мосту Наруто\",\ndescription: \"Завершите арку Страны Волн\",\nicon: js_preres_url + \"/uploads/achievements/icons/48.jpg\",\nid: \"48\",\nhash: \"66514eb7687dc4d1\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/46.jpg\", js_preres_url + \"/uploads/achievements/icons/47.jpg\", js_preres_url + \"/uploads/achievements/icons/48.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "quotes",
+        "time_start": 425,
+        "title": "Живое орудие",
+        "description": "Выслушайте диалог Наруто и Забузы",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/46.jpg",
+        "id": "46",
+        "hash": "1d27196196516901"
+      },
+      {
+        "category": "events",
+        "time_start": 1031,
+        "title": "Исчезая в снегу",
+        "description": "Смерть Забузы",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/47.jpg",
+        "id": "47",
+        "hash": "6d80114e5e571540"
+      },
+      {
+        "category": "arcs",
+        "time_start": 1271,
+        "title": "На мосту Наруто",
+        "description": "Завершите арку Страны Волн",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/48.jpg",
+        "id": "48",
+        "hash": "66514eb7687dc4d1"
+      }
+    ]
+  }
+}

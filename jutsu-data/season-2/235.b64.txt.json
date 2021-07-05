@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "235",
+  "video_intro_start": 124,
+  "video_intro_end": 214,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1537248449?i=1537248451&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 124,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/482395955?i=482395958&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDk3LAp0aXRsZTogItCd0LXQstC10YHRgtCwIiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCo0LjQt9GD0LrQvtC5IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTUyLmpwZyIsCmlkOiAiNTUyIiwKaGFzaDogIjNjODlkY2FlZTY4YTBiN2QiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAicXVvdGVzIiwKdGltZV9zdGFydDogMTA4NiwKdGl0bGU6ICLQm9GO0LHQvtCy0Ywg0Lgg0YHRg9C00YzQsdCwIiwKZGVzY3JpcHRpb246ICLQo9C30L3QsNC50YLQtSDQvNC90LXQvdC40LUg0J3QsNGA0YPRgtC+INC+INC70Y7QsdCy0LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81NTMuanBnIiwKaWQ6ICI1NTMiLApoYXNoOiAiNTE3NjQ2MmM1ZDQ3NTQ2OCIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTUyLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU1My5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 97,\ntitle: \"Невеста\",\ndescription: \"Вы познакомились с Шизукой\",\nicon: js_preres_url + \"/uploads/achievements/icons/552.jpg\",\nid: \"552\",\nhash: \"3c89dcaee68a0b7d\"\n});\r\nthis_anime_achievements.push({\ncategory: \"quotes\",\ntime_start: 1086,\ntitle: \"Любовь и судьба\",\ndescription: \"Узнайте мнение Наруто о любви\",\nicon: js_preres_url + \"/uploads/achievements/icons/553.jpg\",\nid: \"553\",\nhash: \"5176462c5d475468\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/552.jpg\", js_preres_url + \"/uploads/achievements/icons/553.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 97,
+        "title": "Невеста",
+        "description": "Вы познакомились с Шизукой",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/552.jpg",
+        "id": "552",
+        "hash": "3c89dcaee68a0b7d"
+      },
+      {
+        "category": "quotes",
+        "time_start": 1086,
+        "title": "Любовь и судьба",
+        "description": "Узнайте мнение Наруто о любви",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/553.jpg",
+        "id": "553",
+        "hash": "5176462c5d475468"
+      }
+    ]
+  }
+}

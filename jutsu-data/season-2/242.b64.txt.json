@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "242",
+  "video_intro_start": 272,
+  "video_intro_end": 362,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1537248449?i=1537248451&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 272,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/482395955?i=482395958&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImFyY3MiLAp0aW1lX3N0YXJ0OiAxMjYwLAp0aXRsZTogItCX0LXQvNC70Y8g0L/QviDQutGD0YDRgdGDIiwKZGVzY3JpcHRpb246ICLQl9Cw0LLQtdGA0YjQuNGC0LUg0LDRgNC60YMg0LzQvtGA0YHQutC+0LPQviDQv9GD0YLQtdGI0LXRgdGC0LLQuNGPIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTU4LmpwZyIsCmlkOiAiNTU4IiwKaGFzaDogImU5NmYwYmQ1YTY2ZDQzMjgiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU1OC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 1260,\ntitle: \"Земля по курсу\",\ndescription: \"Завершите арку морского путешествия\",\nicon: js_preres_url + \"/uploads/achievements/icons/558.jpg\",\nid: \"558\",\nhash: \"e96f0bd5a66d4328\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/558.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "arcs",
+        "time_start": 1260,
+        "title": "Земля по курсу",
+        "description": "Завершите арку морского путешествия",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/558.jpg",
+        "id": "558",
+        "hash": "e96f0bd5a66d4328"
+      }
+    ]
+  }
+}

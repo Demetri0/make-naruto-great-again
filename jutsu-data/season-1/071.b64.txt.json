@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "71",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1536963811?i=1536963815&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535485837?i=1535485838&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1395,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiA1NzcsCnRpdGxlOiAi0KHRgtC40YXQuNGPINCU0LXRgNC10LLQsCIsCmRlc2NyaXB0aW9uOiAi0KHQuNC70LAg0J/QtdGA0LLQvtCz0L4sINGB0L7Qt9C00LDRjtGJ0LDRjyDQttC40LfQvdGMIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTM5LmpwZyIsCmlkOiAiMTM5IiwKaGFzaDogIjdlMjFjMTY4ODc5OTk3OWUiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogMzQ0LAp0aXRsZTogItCR0L7QuSDQpdC+0LrQsNCz0LUiLApkZXNjcmlwdGlvbjogItCi0YDQvtC1INC90LAg0L7QtNC90L7QuSDQutGA0YvRiNC1IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTQwLmpwZyIsCmlkOiAiMTQwIiwKaGFzaDogIjI0Nzk1ZjNlMDMwZTQ2OTciCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzEzOS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xNDAuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 577,\ntitle: \"Стихия Дерева\",\ndescription: \"Сила Первого, создающая жизнь\",\nicon: js_preres_url + \"/uploads/achievements/icons/139.jpg\",\nid: \"139\",\nhash: \"7e21c1688799979e\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 344,\ntitle: \"Бой Хокаге\",\ndescription: \"Трое на одной крыше\",\nicon: js_preres_url + \"/uploads/achievements/icons/140.jpg\",\nid: \"140\",\nhash: \"24795f3e030e4697\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/139.jpg\", js_preres_url + \"/uploads/achievements/icons/140.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 577,
+        "title": "Стихия Дерева",
+        "description": "Сила Первого, создающая жизнь",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/139.jpg",
+        "id": "139",
+        "hash": "7e21c1688799979e"
+      },
+      {
+        "category": "events",
+        "time_start": 344,
+        "title": "Бой Хокаге",
+        "description": "Трое на одной крыше",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/140.jpg",
+        "id": "140",
+        "hash": "24795f3e030e4697"
+      }
+    ]
+  }
+}

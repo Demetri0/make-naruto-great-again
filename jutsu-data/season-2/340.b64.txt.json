@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "340",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1339552447?i=1339552642&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535817677?i=1535817678&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDk4NSwKdGl0bGU6ICLQrdGC0L4g0LLQsNC8INC90LUg0YjRg9GC0LrQuCIsCmRlc2NyaXB0aW9uOiAi0JzQsNC00LDRgNCwINC/0YDQvtGC0LjQstC40YLRgdGPINC+0YLQvNC10L3QtSDQstC+0YHQutGA0LXRiNC10L3QuNGPIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzA2LmpwZyIsCmlkOiAiNzA2IiwKaGFzaDogImRhYjhjM2RlYjA2NDc1NTYiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogODk4LAp0aXRsZTogItCW0LXQvdC40YUiLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0JTQsNC90L7QvCDQmtCw0YLQviIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzcwNy5qcGciLAppZDogIjcwNyIsCmhhc2g6ICI2ZmU3OWZhNGIzYWQ1ZmI3Igp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83MDYuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzA3LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 985,\ntitle: \"Это вам не шутки\",\ndescription: \"Мадара противится отмене воскрешения\",\nicon: js_preres_url + \"/uploads/achievements/icons/706.jpg\",\nid: \"706\",\nhash: \"dab8c3deb0647556\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 898,\ntitle: \"Жених\",\ndescription: \"Вы познакомились с Даном Като\",\nicon: js_preres_url + \"/uploads/achievements/icons/707.jpg\",\nid: \"707\",\nhash: \"6fe79fa4b3ad5fb7\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/706.jpg\", js_preres_url + \"/uploads/achievements/icons/707.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 985,
+        "title": "Это вам не шутки",
+        "description": "Мадара противится отмене воскрешения",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/706.jpg",
+        "id": "706",
+        "hash": "dab8c3deb0647556"
+      },
+      {
+        "category": "heroes",
+        "time_start": 898,
+        "title": "Жених",
+        "description": "Вы познакомились с Даном Като",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/707.jpg",
+        "id": "707",
+        "hash": "6fe79fa4b3ad5fb7"
+      }
+    ]
+  }
+}

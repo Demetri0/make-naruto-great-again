@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "282",
+  "video_intro_start": 53,
+  "video_intro_end": 143,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1409861532?i=1409861550&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 53,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535529109?i=1535529112&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImNyZWRpdHMiLAp0aW1lX3N0YXJ0OiAxMjIsCnRpdGxlOiAiTW9zaGltbyIsCmRlc2NyaXB0aW9uOiAi0J/RgNC+0YHQu9GD0YjQsNC50YLQtSAxMiDQvtC/0LXQvdC40L3QsyAyINGB0LXQt9C+0L3QsCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzYxOC5qcGciLAppZDogIjYxOCIsCmhhc2g6ICJiOGI1NzU4ODViYWQ5MjVhIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDE2MSwKdGl0bGU6ICLQoSDQtNC+0YDQvtCz0LgiLApkZXNjcmlwdGlvbjogItCU0LbQuNC90YfRg9GA0LjQutC4INGB0YLQsNC70LrQuNCy0LDRjtGC0YHRjyDRgSDQmtCw0LPQtSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzYxOS5qcGciLAppZDogIjYxOSIsCmhhc2g6ICI2NGE1ZmNlOTM1ZmJkNjVmIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEyNjEsCnRpdGxlOiAi0JPRgNC+0LzQvtCy0L7QuSDQtNGD0Y3RgiIsCmRlc2NyaXB0aW9uOiAi0KPQt9C90LDQudGC0LUg0L4g0L/RgNC+0YjQu9C+0Lwg0K3RjyDQuCDQkdC4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjIwLmpwZyIsCmlkOiAiNjIwIiwKaGFzaDogIjNlZTg1MWM1OGE3ODYxYmEiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzYxOC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82MTkuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjIwLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"credits\",\ntime_start: 122,\ntitle: \"Moshimo\",\ndescription: \"Прослушайте 12 опенинг 2 сезона\",\nicon: js_preres_url + \"/uploads/achievements/icons/618.jpg\",\nid: \"618\",\nhash: \"b8b575885bad925a\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 161,\ntitle: \"С дороги\",\ndescription: \"Джинчурики сталкиваются с Каге\",\nicon: js_preres_url + \"/uploads/achievements/icons/619.jpg\",\nid: \"619\",\nhash: \"64a5fce935fbd65f\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1261,\ntitle: \"Громовой дуэт\",\ndescription: \"Узнайте о прошлом Эя и Би\",\nicon: js_preres_url + \"/uploads/achievements/icons/620.jpg\",\nid: \"620\",\nhash: \"3ee851c58a7861ba\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/618.jpg\", js_preres_url + \"/uploads/achievements/icons/619.jpg\", js_preres_url + \"/uploads/achievements/icons/620.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "credits",
+        "time_start": 122,
+        "title": "Moshimo",
+        "description": "Прослушайте 12 опенинг 2 сезона",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/618.jpg",
+        "id": "618",
+        "hash": "b8b575885bad925a"
+      },
+      {
+        "category": "events",
+        "time_start": 161,
+        "title": "С дороги",
+        "description": "Джинчурики сталкиваются с Каге",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/619.jpg",
+        "id": "619",
+        "hash": "64a5fce935fbd65f"
+      },
+      {
+        "category": "events",
+        "time_start": 1261,
+        "title": "Громовой дуэт",
+        "description": "Узнайте о прошлом Эя и Би",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/620.jpg",
+        "id": "620",
+        "hash": "3ee851c58a7861ba"
+      }
+    ]
+  }
+}

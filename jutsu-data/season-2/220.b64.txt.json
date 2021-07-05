@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "220",
+  "video_intro_start": 271,
+  "video_intro_end": 361,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/550296634?i=550296638&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 271,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/673554732?i=673554737&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDExMDUsCnRpdGxlOiAi0J/RgNC+0YDQvtGH0LXRgdGC0LLQviDQtNC70Y8g0J3QsNGA0YPRgtC+IiwKZGVzY3JpcHRpb246ICLQltCw0LHQuNC5INC80YPQtNGA0LXRhiDQtNC10LvQsNC10YIg0L3QvtCy0L7QtSDQv9GA0LXQtNGB0LrQsNC30LDQvdC40LUiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81NDQuanBnIiwKaWQ6ICI1NDQiLApoYXNoOiAiZTljN2YzMTVhOWIyMmViOSIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTQ0LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1105,\ntitle: \"Пророчество для Наруто\",\ndescription: \"Жабий мудрец делает новое предсказание\",\nicon: js_preres_url + \"/uploads/achievements/icons/544.jpg\",\nid: \"544\",\nhash: \"e9c7f315a9b22eb9\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/544.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 1105,
+        "title": "Пророчество для Наруто",
+        "description": "Жабий мудрец делает новое предсказание",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/544.jpg",
+        "id": "544",
+        "hash": "e9c7f315a9b22eb9"
+      }
+    ]
+  }
+}

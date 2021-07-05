@@ -1,0 +1,74 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "33",
+  "video_intro_start": 199,
+  "video_intro_end": 289,
+  "video_music_intro": "https://www.shazam.com/track/477851517",
+  "video_outro_start": 199,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536963848?i=1536963849&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImh1bW9yIiwKdGltZV9zdGFydDogMTk2LAp0aXRsZTogItCf0L7RgdC70LXQtNC90LjQuSDRgNGL0LLQvtC6IiwKZGVzY3JpcHRpb246ICLQn9C+0LHQtdGA0LXQs9C40YLQtSDQmtCw0LrQsNGI0LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zMjAuanBnIiwKaWQ6ICIzMjAiLApoYXNoOiAiOWM0Zjg3NjU0OTRmOTA0MSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJodW1vciIsCnRpbWVfc3RhcnQ6IDMzNCwKdGl0bGU6ICLQktGLINC90LjRh9C10LPQviDQvdC1INCy0LjQtNC10LvQuCIsCmRlc2NyaXB0aW9uOiAi0J3QtSDQv9GL0YLQsNC50YHRjywg0J3QsNGA0YPRgtC+IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzIxLmpwZyIsCmlkOiAiMzIxIiwKaGFzaDogImE0ZTA0ZjE0NzdiYTY2NTYiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAidGVjaG5pcXVlcyIsCnRpbWVfc3RhcnQ6IDEyMDQsCnRpdGxlOiAi0JHRg9C80LDQs9CwINC4INGH0LXRgNC90LjQu9CwIiwKZGVzY3JpcHRpb246ICLQp9C10YDQvdC40LvRjNC90YvQtSDRgtC10YXQvdC40LrQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMyMi5qcGciLAppZDogIjMyMiIsCmhhc2g6ICJmNzZmOTE0NTBjOTA4NGJmIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDcxOSwKdGl0bGU6ICLQn9Cw0YDQtdC90Ywg0LIg0LrQsNC/0Y7RiNC+0L3QtSIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQstGB0YLRgNC10YLQuNC70Lgg0L/QvtCy0LfRgNC+0YHQu9C10LLRiNC10LPQviDQqNC40L3QviIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMyMy5qcGciLAppZDogIjMyMyIsCmhhc2g6ICI3NTA3NzhmZmNlZmQ5YWMzIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDczNiwKdGl0bGU6ICLQktC10YDRhdC+0Lwg0L3QsCDQv9GB0LUiLApkZXNjcmlwdGlvbjogItCS0Ysg0LLRgdGC0YDQtdGC0LjQu9C4INC/0L7QstC30YDQvtGB0LvQtdCy0YjQtdCz0L4g0JrQuNCx0YMiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zMjQuanBnIiwKaWQ6ICIzMjQiLApoYXNoOiAiNWZjMmM0NTE5MGZhYTg5YSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiA4NjEsCnRpdGxlOiAi0J7QsdC80L7RgNC+0Log0YHQvNGD0YnQtdC90LjRjyIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQstGB0YLRgNC10YLQuNC70Lgg0L/QvtCy0LfRgNC+0YHQu9C10LLRiNGD0Y4g0KXQuNC90LDRgtGDIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzI1LmpwZyIsCmlkOiAiMzI1IiwKaGFzaDogImE5YzY3MTE1ZGI0Njg3NGEiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMyMC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zMjEuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzIyLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMyMy5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zMjQuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzI1LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 196,\ntitle: \"Последний рывок\",\ndescription: \"Поберегите Какаши\",\nicon: js_preres_url + \"/uploads/achievements/icons/320.jpg\",\nid: \"320\",\nhash: \"9c4f8765494f9041\"\n});\r\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 334,\ntitle: \"Вы ничего не видели\",\ndescription: \"Не пытайся, Наруто\",\nicon: js_preres_url + \"/uploads/achievements/icons/321.jpg\",\nid: \"321\",\nhash: \"a4e04f1477ba6656\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 1204,\ntitle: \"Бумага и чернила\",\ndescription: \"Чернильные техники\",\nicon: js_preres_url + \"/uploads/achievements/icons/322.jpg\",\nid: \"322\",\nhash: \"f76f91450c9084bf\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 719,\ntitle: \"Парень в капюшоне\",\ndescription: \"Вы встретили повзрослевшего Шино\",\nicon: js_preres_url + \"/uploads/achievements/icons/323.jpg\",\nid: \"323\",\nhash: \"750778ffcefd9ac3\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 736,\ntitle: \"Верхом на псе\",\ndescription: \"Вы встретили повзрослевшего Кибу\",\nicon: js_preres_url + \"/uploads/achievements/icons/324.jpg\",\nid: \"324\",\nhash: \"5fc2c45190faa89a\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 861,\ntitle: \"Обморок смущения\",\ndescription: \"Вы встретили повзрослевшую Хинату\",\nicon: js_preres_url + \"/uploads/achievements/icons/325.jpg\",\nid: \"325\",\nhash: \"a9c67115db46874a\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/320.jpg\", js_preres_url + \"/uploads/achievements/icons/321.jpg\", js_preres_url + \"/uploads/achievements/icons/322.jpg\", js_preres_url + \"/uploads/achievements/icons/323.jpg\", js_preres_url + \"/uploads/achievements/icons/324.jpg\", js_preres_url + \"/uploads/achievements/icons/325.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "humor",
+        "time_start": 196,
+        "title": "Последний рывок",
+        "description": "Поберегите Какаши",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/320.jpg",
+        "id": "320",
+        "hash": "9c4f8765494f9041"
+      },
+      {
+        "category": "humor",
+        "time_start": 334,
+        "title": "Вы ничего не видели",
+        "description": "Не пытайся, Наруто",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/321.jpg",
+        "id": "321",
+        "hash": "a4e04f1477ba6656"
+      },
+      {
+        "category": "techniques",
+        "time_start": 1204,
+        "title": "Бумага и чернила",
+        "description": "Чернильные техники",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/322.jpg",
+        "id": "322",
+        "hash": "f76f91450c9084bf"
+      },
+      {
+        "category": "heroes",
+        "time_start": 719,
+        "title": "Парень в капюшоне",
+        "description": "Вы встретили повзрослевшего Шино",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/323.jpg",
+        "id": "323",
+        "hash": "750778ffcefd9ac3"
+      },
+      {
+        "category": "heroes",
+        "time_start": 736,
+        "title": "Верхом на псе",
+        "description": "Вы встретили повзрослевшего Кибу",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/324.jpg",
+        "id": "324",
+        "hash": "5fc2c45190faa89a"
+      },
+      {
+        "category": "heroes",
+        "time_start": 861,
+        "title": "Обморок смущения",
+        "description": "Вы встретили повзрослевшую Хинату",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/325.jpg",
+        "id": "325",
+        "hash": "a9c67115db46874a"
+      }
+    ]
+  }
+}

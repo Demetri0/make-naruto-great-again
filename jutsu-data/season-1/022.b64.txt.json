@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "22",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://www.shazam.com/track/40834897",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1539173661?i=1539173662&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1400,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDU2MiwKdGl0bGU6ICLQodC40LvQsCDQrtC90L7RgdGC0LgiLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0KDQvtC60L7QvCDQm9C4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTUuanBnIiwKaWQ6ICI1NSIsCmhhc2g6ICI4MTVhODhmNmI1YmRlMDhhIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDg3MSwKdGl0bGU6ICLQpdC+0YDQvtGI0LjQuSDQv9Cw0YDQtdC90YwiLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0JzQsNC50YLQviDQk9Cw0LXQvCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU2LmpwZyIsCmlkOiAiNTYiLApoYXNoOiAiMzEzYTYwNjUwZmFiZjJhMiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJodW1vciIsCnRpbWVfc3RhcnQ6IDkzNSwKdGl0bGU6ICLQndCwINGE0L7QvdC1INC30LDQutCw0YLQsCIsCmRlc2NyaXB0aW9uOiAi0JLQvtGCINC+0L3QsCDigJMg0Y7QvdC+0YHRgtGMIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTcuanBnIiwKaWQ6ICI1NyIsCmhhc2g6ICJlYWE0N2ZkOGQ0ZmZlOWFkIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81NS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81Ni5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81Ny5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 562,\ntitle: \"Сила Юности\",\ndescription: \"Вы познакомились с Роком Ли\",\nicon: js_preres_url + \"/uploads/achievements/icons/55.jpg\",\nid: \"55\",\nhash: \"815a88f6b5bde08a\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 871,\ntitle: \"Хороший парень\",\ndescription: \"Вы познакомились с Майто Гаем\",\nicon: js_preres_url + \"/uploads/achievements/icons/56.jpg\",\nid: \"56\",\nhash: \"313a60650fabf2a2\"\n});\r\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 935,\ntitle: \"На фоне заката\",\ndescription: \"Вот она – юность\",\nicon: js_preres_url + \"/uploads/achievements/icons/57.jpg\",\nid: \"57\",\nhash: \"eaa47fd8d4ffe9ad\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/55.jpg\", js_preres_url + \"/uploads/achievements/icons/56.jpg\", js_preres_url + \"/uploads/achievements/icons/57.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 562,
+        "title": "Сила Юности",
+        "description": "Вы познакомились с Роком Ли",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/55.jpg",
+        "id": "55",
+        "hash": "815a88f6b5bde08a"
+      },
+      {
+        "category": "heroes",
+        "time_start": 871,
+        "title": "Хороший парень",
+        "description": "Вы познакомились с Майто Гаем",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/56.jpg",
+        "id": "56",
+        "hash": "313a60650fabf2a2"
+      },
+      {
+        "category": "humor",
+        "time_start": 935,
+        "title": "На фоне заката",
+        "description": "Вот она – юность",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/57.jpg",
+        "id": "57",
+        "hash": "eaa47fd8d4ffe9ad"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "142",
+  "video_intro_start": 121,
+  "video_intro_end": 211,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1402641185?i=1402641459&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 121,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535808426?i=1535808432&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInBsYWNlcyIsCnRpbWVfc3RhcnQ6IDgwNiwKdGl0bGU6ICLQlNC10YDQtdCy0L3RjyDQntCx0LvQsNC60LAiLApkZXNjcmlwdGlvbjogItCU0L7QsdGA0L4g0L/QvtC20LDQu9C+0LLQsNGC0Ywg0LIg0JTQtdGA0LXQstC90Y4g0J7QsdC70LDQutCwIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDUwLmpwZyIsCmlkOiAiNDUwIiwKaGFzaDogImY2MmU4YTczYjgwOWQ0ODIiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogOTU1LAp0aXRsZTogItCS0L7RgdGM0LzQuNGF0LLQvtGB0YLRi9C5INGA0Y3Qv9C10YAiLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0JrQuNC70LvQtdGA0L7QvCDQkdC4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDUxLmpwZyIsCmlkOiAiNDUxIiwKaGFzaDogImEwZWJmMjNmYjAzY2ZhNzMiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAicGxhY2VzIiwKdGltZV9zdGFydDogODU5LAp0aXRsZTogItCT0YDQvtC30L7QstC+0LUg0YPRidC10LvRjNC1IiwKZGVzY3JpcHRpb246ICLQnNC10YHRgtC+INGC0YDQtdC90LjRgNC+0LLQvtC6IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDUyLmpwZyIsCmlkOiAiNDUyIiwKaGFzaDogIjNlMjEzNGE1Mjc0MDc5NzYiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogNzYwLAp0aXRsZTogItCh0L7RjtC30L3QuNC6INGC0YzQvNGLIiwKZGVzY3JpcHRpb246ICLQktGB0YLRgNC10YfQsNC50YLQtSDQodCw0YHQutC1INCyINC/0LvQsNGJ0LUg0JDQutCw0YbRg9C60LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80NTMuanBnIiwKaWQ6ICI0NTMiLApoYXNoOiAiN2Y4NDRhZmYwZDY2NzcyYSIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDUwLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ1MS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80NTIuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDUzLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"places\",\ntime_start: 806,\ntitle: \"Деревня Облака\",\ndescription: \"Добро пожаловать в Деревню Облака\",\nicon: js_preres_url + \"/uploads/achievements/icons/450.jpg\",\nid: \"450\",\nhash: \"f62e8a73b809d482\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 955,\ntitle: \"Восьмихвостый рэпер\",\ndescription: \"Вы познакомились с Киллером Би\",\nicon: js_preres_url + \"/uploads/achievements/icons/451.jpg\",\nid: \"451\",\nhash: \"a0ebf23fb03cfa73\"\n});\r\nthis_anime_achievements.push({\ncategory: \"places\",\ntime_start: 859,\ntitle: \"Грозовое ущелье\",\ndescription: \"Место тренировок\",\nicon: js_preres_url + \"/uploads/achievements/icons/452.jpg\",\nid: \"452\",\nhash: \"3e2134a527407976\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 760,\ntitle: \"Союзник тьмы\",\ndescription: \"Встречайте Саске в плаще Акацуки\",\nicon: js_preres_url + \"/uploads/achievements/icons/453.jpg\",\nid: \"453\",\nhash: \"7f844aff0d66772a\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/450.jpg\", js_preres_url + \"/uploads/achievements/icons/451.jpg\", js_preres_url + \"/uploads/achievements/icons/452.jpg\", js_preres_url + \"/uploads/achievements/icons/453.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "places",
+        "time_start": 806,
+        "title": "Деревня Облака",
+        "description": "Добро пожаловать в Деревню Облака",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/450.jpg",
+        "id": "450",
+        "hash": "f62e8a73b809d482"
+      },
+      {
+        "category": "heroes",
+        "time_start": 955,
+        "title": "Восьмихвостый рэпер",
+        "description": "Вы познакомились с Киллером Би",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/451.jpg",
+        "id": "451",
+        "hash": "a0ebf23fb03cfa73"
+      },
+      {
+        "category": "places",
+        "time_start": 859,
+        "title": "Грозовое ущелье",
+        "description": "Место тренировок",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/452.jpg",
+        "id": "452",
+        "hash": "3e2134a527407976"
+      },
+      {
+        "category": "heroes",
+        "time_start": 760,
+        "title": "Союзник тьмы",
+        "description": "Встречайте Саске в плаще Акацуки",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/453.jpg",
+        "id": "453",
+        "hash": "7f844aff0d66772a"
+      }
+    ]
+  }
+}

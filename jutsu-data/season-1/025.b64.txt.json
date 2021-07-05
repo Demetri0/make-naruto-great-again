@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "25",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://www.shazam.com/track/40834897",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1539173661?i=1539173662&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1400,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDExMjMsCnRpdGxlOiAi0KHQtNCw0LshIiwKZGVzY3JpcHRpb246ICLQndCw0YDRg9GC0L4g0L/RgNC+0YXQvtC00LjRgiDQsiDRgdC70LXQtNGD0Y7RidC40Lkg0Y3RgtCw0L8iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82My5qcGciLAppZDogIjYzIiwKaGFzaDogIjg4ZGFiYjgxNzU2YmJiMzYiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogMTE1NywKdGl0bGU6ICLQmtGA0LDRgdC+0YLQutCwLdC40L3RgdGC0YDRg9C60YLQvtGAIiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCQ0L3QutC+INCc0LjRgtCw0YDQsNGI0LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82NC5qcGciLAppZDogIjY0IiwKaGFzaDogIjUwMDY3YTgxZmYzMjk0M2QiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzYzLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY0LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1123,\ntitle: \"Сдал!\",\ndescription: \"Наруто проходит в следующий этап\",\nicon: js_preres_url + \"/uploads/achievements/icons/63.jpg\",\nid: \"63\",\nhash: \"88dabb81756bbb36\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1157,\ntitle: \"Красотка-инструктор\",\ndescription: \"Вы познакомились с Анко Митараши\",\nicon: js_preres_url + \"/uploads/achievements/icons/64.jpg\",\nid: \"64\",\nhash: \"50067a81ff32943d\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/63.jpg\", js_preres_url + \"/uploads/achievements/icons/64.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 1123,
+        "title": "Сдал!",
+        "description": "Наруто проходит в следующий этап",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/63.jpg",
+        "id": "63",
+        "hash": "88dabb81756bbb36"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1157,
+        "title": "Красотка-инструктор",
+        "description": "Вы познакомились с Анко Митараши",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/64.jpg",
+        "id": "64",
+        "hash": "50067a81ff32943d"
+      }
+    ]
+  }
+}

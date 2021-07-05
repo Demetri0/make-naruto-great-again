@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "81",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1402636708?i=1402636832&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://www.shazam.com/track/40849581",
+  "this_video_duration": 1387,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDg5NCwKdGl0bGU6ICLQodGC0LDRgNGI0LjQuSDQsdGA0LDRgiIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQmNGC0LDRh9C4INCj0YfQuNGF0L7QuSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzE1NS5qcGciLAppZDogIjE1NSIsCmhhc2g6ICJmMzlmOWFhZjRkMzk2Zjc3Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDEwNjYsCnRpdGxlOiAi0JDQutGD0LvQsCIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQmtC40YHQsNC80LUg0KXQvtGI0LjQs9Cw0LrQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzE1Ni5qcGciLAppZDogIjE1NiIsCmhhc2g6ICJiNmVkMzdmNmZjZTJhYTI3Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDc2MiwKdGl0bGU6ICLQmtCw0YHRgtC10YIg0Lgg0YHQuNCz0LDRgNC10YLQsCIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQkNGB0YPQvNC+0Lkg0KHQsNGA0YPRgtC+0LHQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzE1Ny5qcGciLAppZDogIjE1NyIsCmhhc2g6ICI4ZDY5M2E5MzYwMjc2NTM4Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDc3MCwKdGl0bGU6ICLQlNGA0LXQstC10YHQvdGL0Lkg0LzQuNGA0LDQtiIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQmtGD0YDQtdC90LDQuSDQrtGF0LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xNTguanBnIiwKaWQ6ICIxNTgiLApoYXNoOiAiNTEwMjQ3MmI1ZGMyMmZjYyIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTU1LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzE1Ni5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xNTcuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTU4LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 894,\ntitle: \"Старший брат\",\ndescription: \"Вы познакомились с Итачи Учихой\",\nicon: js_preres_url + \"/uploads/achievements/icons/155.jpg\",\nid: \"155\",\nhash: \"f39f9aaf4d396f77\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1066,\ntitle: \"Акула\",\ndescription: \"Вы познакомились с Кисаме Хошигаки\",\nicon: js_preres_url + \"/uploads/achievements/icons/156.jpg\",\nid: \"156\",\nhash: \"b6ed37f6fce2aa27\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 762,\ntitle: \"Кастет и сигарета\",\ndescription: \"Вы познакомились с Асумой Сарутоби\",\nicon: js_preres_url + \"/uploads/achievements/icons/157.jpg\",\nid: \"157\",\nhash: \"8d693a9360276538\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 770,\ntitle: \"Древесный мираж\",\ndescription: \"Вы познакомились с Куренай Юхи\",\nicon: js_preres_url + \"/uploads/achievements/icons/158.jpg\",\nid: \"158\",\nhash: \"5102472b5dc22fcc\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/155.jpg\", js_preres_url + \"/uploads/achievements/icons/156.jpg\", js_preres_url + \"/uploads/achievements/icons/157.jpg\", js_preres_url + \"/uploads/achievements/icons/158.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 894,
+        "title": "Старший брат",
+        "description": "Вы познакомились с Итачи Учихой",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/155.jpg",
+        "id": "155",
+        "hash": "f39f9aaf4d396f77"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1066,
+        "title": "Акула",
+        "description": "Вы познакомились с Кисаме Хошигаки",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/156.jpg",
+        "id": "156",
+        "hash": "b6ed37f6fce2aa27"
+      },
+      {
+        "category": "heroes",
+        "time_start": 762,
+        "title": "Кастет и сигарета",
+        "description": "Вы познакомились с Асумой Сарутоби",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/157.jpg",
+        "id": "157",
+        "hash": "8d693a9360276538"
+      },
+      {
+        "category": "heroes",
+        "time_start": 770,
+        "title": "Древесный мираж",
+        "description": "Вы познакомились с Куренай Юхи",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/158.jpg",
+        "id": "158",
+        "hash": "5102472b5dc22fcc"
+      }
+    ]
+  }
+}

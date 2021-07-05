@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "191",
+  "video_intro_start": 25,
+  "video_intro_end": 115,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/673586556?i=673586565&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 25,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536392596?i=1536392605&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDUxNywKdGl0bGU6ICLQk9C+0YHRgtGM0Y8g0LjQtyDQmtC70Y7Rh9CwIiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCl0LDQvdCw0YDQtSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ5NC5qcGciLAppZDogIjQ5NCIsCmhhc2g6ICJjNjhhNzJkNmVlNmMwZWYyIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImh1bW9yIiwKdGltZV9zdGFydDogODM0LAp0aXRsZTogItCR0YvQu9C+INCx0LvQuNC30LrQviIsCmRlc2NyaXB0aW9uOiAi0KfQtdGA0LXQtyDQvNCw0YHQutGDINGB0YfQuNGC0LDQtdGC0YHRjz8iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80OTUuanBnIiwKaWQ6ICI0OTUiLApoYXNoOiAiYWU4ZDhiODM4MWMwOGNiZiIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDk0LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ5NS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 517,\ntitle: \"Гостья из Ключа\",\ndescription: \"Вы познакомились с Ханаре\",\nicon: js_preres_url + \"/uploads/achievements/icons/494.jpg\",\nid: \"494\",\nhash: \"c68a72d6ee6c0ef2\"\n});\r\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 834,\ntitle: \"Было близко\",\ndescription: \"Через маску считается?\",\nicon: js_preres_url + \"/uploads/achievements/icons/495.jpg\",\nid: \"495\",\nhash: \"ae8d8b8381c08cbf\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/494.jpg\", js_preres_url + \"/uploads/achievements/icons/495.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 517,
+        "title": "Гостья из Ключа",
+        "description": "Вы познакомились с Ханаре",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/494.jpg",
+        "id": "494",
+        "hash": "c68a72d6ee6c0ef2"
+      },
+      {
+        "category": "humor",
+        "time_start": 834,
+        "title": "Было близко",
+        "description": "Через маску считается?",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/495.jpg",
+        "id": "495",
+        "hash": "ae8d8b8381c08cbf"
+      }
+    ]
+  }
+}

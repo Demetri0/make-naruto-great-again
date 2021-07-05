@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "35",
+  "video_intro_start": 244,
+  "video_intro_end": 334,
+  "video_music_intro": "https://www.shazam.com/track/477851517",
+  "video_outro_start": 244,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536963848?i=1536963849&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1388,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDU2LAp0aXRsZTogItCb0Y7QsdC+0L/Ri9GC0L3Ri9C5INGF0YPQtNC+0LbQvdC40LoiLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0KHQsNC10LwiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zMjcuanBnIiwKaWQ6ICIzMjciLApoYXNoOiAiYTY5OWMyYmYxNDc1YmJmYyIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiA4OSwKdGl0bGU6ICLQodGC0YDQsNGI0L3QvtC1INC70LjRhtC+IiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCv0LzQsNGC0L4iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zMjguanBnIiwKaWQ6ICIzMjgiLApoYXNoOiAiYzc0ZGFlZjhlOGRkN2QyMSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJ0ZWFtcyIsCnRpbWVfc3RhcnQ6IDExOTEsCnRpdGxlOiAi0J7QsdC90L7QstC70ZHQvdC90LDRjyDQmtC+0LzQsNC90LTQsCA3IiwKZGVzY3JpcHRpb246ICLQotC10L/QtdGA0Ywg0YEg0K/QvNCw0YLQviDQuCDQodCw0LXQvCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMyOS5qcGciLAppZDogIjMyOSIsCmhhc2g6ICJkOTdjY2UyN2M5NjliNjIwIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zMjcuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzI4LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMyOS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 56,\ntitle: \"Любопытный художник\",\ndescription: \"Вы познакомились с Саем\",\nicon: js_preres_url + \"/uploads/achievements/icons/327.jpg\",\nid: \"327\",\nhash: \"a699c2bf1475bbfc\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 89,\ntitle: \"Страшное лицо\",\ndescription: \"Вы познакомились с Ямато\",\nicon: js_preres_url + \"/uploads/achievements/icons/328.jpg\",\nid: \"328\",\nhash: \"c74daef8e8dd7d21\"\n});\r\nthis_anime_achievements.push({\ncategory: \"teams\",\ntime_start: 1191,\ntitle: \"Обновлённая Команда 7\",\ndescription: \"Теперь с Ямато и Саем\",\nicon: js_preres_url + \"/uploads/achievements/icons/329.jpg\",\nid: \"329\",\nhash: \"d97cce27c969b620\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/327.jpg\", js_preres_url + \"/uploads/achievements/icons/328.jpg\", js_preres_url + \"/uploads/achievements/icons/329.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 56,
+        "title": "Любопытный художник",
+        "description": "Вы познакомились с Саем",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/327.jpg",
+        "id": "327",
+        "hash": "a699c2bf1475bbfc"
+      },
+      {
+        "category": "heroes",
+        "time_start": 89,
+        "title": "Страшное лицо",
+        "description": "Вы познакомились с Ямато",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/328.jpg",
+        "id": "328",
+        "hash": "c74daef8e8dd7d21"
+      },
+      {
+        "category": "teams",
+        "time_start": 1191,
+        "title": "Обновлённая Команда 7",
+        "description": "Теперь с Ямато и Саем",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/329.jpg",
+        "id": "329",
+        "hash": "d97cce27c969b620"
+      }
+    ]
+  }
+}

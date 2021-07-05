@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "29",
+  "video_intro_start": 299,
+  "video_intro_end": 389,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1535496914?i=1535496920&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 299,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1537203600?i=1537203881&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1388,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiA1NDYsCnRpdGxlOiAi0JrQsNC80YPQuCIsCmRlc2NyaXB0aW9uOiAi0JIg0LjQvdC+0LUg0LjQt9C80LXRgNC10L3QuNC1IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzA3LmpwZyIsCmlkOiAiMzA3IiwKaGFzaDogImRlYmU0MGY3YzI5MDY5YmUiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogMTEyNywKdGl0bGU6ICLQltC10YHRgtC+0LrQvtGB0YLRjCDQt9Cy0LXRgNGPIiwKZGVzY3JpcHRpb246ICLQndCw0YDRg9GC0L4g0YDQsNGB0L/RgNCw0LLQu9GP0LXRgtGB0Y8g0YEg0JTQtdC50LTQsNGA0L7QuSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMwOC5qcGciLAppZDogIjMwOCIsCmhhc2g6ICI2ZDQ3YjlkMmEzOTdhMjkzIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zMDcuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzA4LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 546,\ntitle: \"Камуи\",\ndescription: \"В иное измерение\",\nicon: js_preres_url + \"/uploads/achievements/icons/307.jpg\",\nid: \"307\",\nhash: \"debe40f7c29069be\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1127,\ntitle: \"Жестокость зверя\",\ndescription: \"Наруто расправляется с Дейдарой\",\nicon: js_preres_url + \"/uploads/achievements/icons/308.jpg\",\nid: \"308\",\nhash: \"6d47b9d2a397a293\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/307.jpg\", js_preres_url + \"/uploads/achievements/icons/308.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 546,
+        "title": "Камуи",
+        "description": "В иное измерение",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/307.jpg",
+        "id": "307",
+        "hash": "debe40f7c29069be"
+      },
+      {
+        "category": "events",
+        "time_start": 1127,
+        "title": "Жестокость зверя",
+        "description": "Наруто расправляется с Дейдарой",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/308.jpg",
+        "id": "308",
+        "hash": "6d47b9d2a397a293"
+      }
+    ]
+  }
+}

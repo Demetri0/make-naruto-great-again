@@ -1,0 +1,74 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "265",
+  "video_intro_start": 173,
+  "video_intro_end": 263,
+  "video_music_intro": null,
+  "video_outro_start": 173,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/520999153?i=520999157&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDI4MCwKdGl0bGU6ICLQktC+0LfRgNC+0LbQtNGR0L3QvdGL0Lkg0LzQtdGH0L3QuNC6IiwKZGVzY3JpcHRpb246ICLQktGLINCy0YHRgtGA0LXRgtC40LvQuCDQstC+0YHQutGA0LXRiNGR0L3QvdC+0LPQviDQl9Cw0LHRg9C30YMiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81ODkuanBnIiwKaWQ6ICI1ODkiLApoYXNoOiAiYTY0MWViNmFiYjE4N2IzMiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiA0NDksCnRpdGxlOiAi0J/QtdGA0LLRi9C5INC/0YDQvtGC0LjQstC90LjQuiIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQstGB0YLRgNC10YLQuNC70Lgg0LLQvtGB0LrRgNC10YjRkdC90L3QvtCz0L4g0KXQsNC60YMiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81OTAuanBnIiwKaWQ6ICI1OTAiLApoYXNoOiAiNTM1YWRhMTVjYTBlODY5ZSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiAxMDQ2LAp0aXRsZTogItCc0LDRgdGC0LXRgCDQstC30YDRi9Cy0LAiLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0JPQsNGA0LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81OTEuanBnIiwKaWQ6ICI1OTEiLApoYXNoOiAiMzU5ZTQwZDFkNjlmYzhjNCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiAxMDUzLAp0aXRsZTogItCY0YHRgdGD0YjQsNGO0YnQsNGPIiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCf0LDQutGD0YDQvtC5IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTkyLmpwZyIsCmlkOiAiNTkyIiwKaGFzaDogImY2OWMxNWNiNjczNDg3ZDciCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAidGVjaG5pcXVlcyIsCnRpbWVfc3RhcnQ6IDExNzAsCnRpdGxlOiAi0KHRgtC40YXQuNGPINCW0LDRgNCwIiwKZGVzY3JpcHRpb246ICLQmNGB0YHRg9GI0LDRjtGJ0LjQtSDRgtC10YXQvdC40LrQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU5My5qcGciLAppZDogIjU5MyIsCmhhc2g6ICIwNTg4NTAwMjUyYjJjNjhmIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEyNjAsCnRpdGxlOiAi0JzQtdGA0YLQstC10YbRiyDRgSDQvNC10YfQsNC80LgiLApkZXNjcmlwdGlvbjogItCc0LXRh9C90LjQutC4INCi0YPQvNCw0L3QsCDQstC10YDQvdGD0LvQuNGB0Ywg0Log0LbQuNC30L3QuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU5NC5qcGciLAppZDogIjU5NCIsCmhhc2g6ICIxYWQ5MjhjYzZmY2NjZjc2Igp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81ODkuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTkwLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU5MS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81OTIuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTkzLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU5NC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 280,\ntitle: \"Возрождённый мечник\",\ndescription: \"Вы встретили воскрешённого Забузу\",\nicon: js_preres_url + \"/uploads/achievements/icons/589.jpg\",\nid: \"589\",\nhash: \"a641eb6abb187b32\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 449,\ntitle: \"Первый противник\",\ndescription: \"Вы встретили воскрешённого Хаку\",\nicon: js_preres_url + \"/uploads/achievements/icons/590.jpg\",\nid: \"590\",\nhash: \"535ada15ca0e869e\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1046,\ntitle: \"Мастер взрыва\",\ndescription: \"Вы познакомились с Гари\",\nicon: js_preres_url + \"/uploads/achievements/icons/591.jpg\",\nid: \"591\",\nhash: \"359e40d1d69fc8c4\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1053,\ntitle: \"Иссушающая\",\ndescription: \"Вы познакомились с Пакурой\",\nicon: js_preres_url + \"/uploads/achievements/icons/592.jpg\",\nid: \"592\",\nhash: \"f69c15cb673487d7\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 1170,\ntitle: \"Стихия Жара\",\ndescription: \"Иссушающие техники\",\nicon: js_preres_url + \"/uploads/achievements/icons/593.jpg\",\nid: \"593\",\nhash: \"0588500252b2c68f\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1260,\ntitle: \"Мертвецы с мечами\",\ndescription: \"Мечники Тумана вернулись к жизни\",\nicon: js_preres_url + \"/uploads/achievements/icons/594.jpg\",\nid: \"594\",\nhash: \"1ad928cc6fcccf76\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/589.jpg\", js_preres_url + \"/uploads/achievements/icons/590.jpg\", js_preres_url + \"/uploads/achievements/icons/591.jpg\", js_preres_url + \"/uploads/achievements/icons/592.jpg\", js_preres_url + \"/uploads/achievements/icons/593.jpg\", js_preres_url + \"/uploads/achievements/icons/594.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 280,
+        "title": "Возрождённый мечник",
+        "description": "Вы встретили воскрешённого Забузу",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/589.jpg",
+        "id": "589",
+        "hash": "a641eb6abb187b32"
+      },
+      {
+        "category": "heroes",
+        "time_start": 449,
+        "title": "Первый противник",
+        "description": "Вы встретили воскрешённого Хаку",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/590.jpg",
+        "id": "590",
+        "hash": "535ada15ca0e869e"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1046,
+        "title": "Мастер взрыва",
+        "description": "Вы познакомились с Гари",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/591.jpg",
+        "id": "591",
+        "hash": "359e40d1d69fc8c4"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1053,
+        "title": "Иссушающая",
+        "description": "Вы познакомились с Пакурой",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/592.jpg",
+        "id": "592",
+        "hash": "f69c15cb673487d7"
+      },
+      {
+        "category": "techniques",
+        "time_start": 1170,
+        "title": "Стихия Жара",
+        "description": "Иссушающие техники",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/593.jpg",
+        "id": "593",
+        "hash": "0588500252b2c68f"
+      },
+      {
+        "category": "events",
+        "time_start": 1260,
+        "title": "Мертвецы с мечами",
+        "description": "Мечники Тумана вернулись к жизни",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/594.jpg",
+        "id": "594",
+        "hash": "1ad928cc6fcccf76"
+      }
+    ]
+  }
+}

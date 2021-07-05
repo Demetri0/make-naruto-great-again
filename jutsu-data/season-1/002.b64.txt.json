@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "2",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://www.shazam.com/track/40834897",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1539173661?i=1539173662&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1401,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImNyZWRpdHMiLAp0aW1lX3N0YXJ0OiA4MCwKdGl0bGU6ICJDT01FIE9OISIsCmRlc2NyaXB0aW9uOiAi0J/RgNC+0YHQu9GD0YjQsNC50YLQtSAxINC+0L/QtdC90LjQvdCzIDEg0YHQtdC30L7QvdCwIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNS5qcGciLAppZDogIjUiLApoYXNoOiAiOTM2MWYyMmFjMWE0MTM4MiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJ0ZWNobmlxdWVzIiwKdGltZV9zdGFydDogMTEwMywKdGl0bGU6ICLQkiDQvNCw0LvQuNC90LUiLApkZXNjcmlwdGlvbjogItCn0YLQviDQvNC+0LbQtdGCINCx0YvRgtGMINC70YPRh9GI0LUg0YHQvtCx0YHRgtCy0LXQvdC90L7Qs9C+INCz0LDRgNC10LzQsCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzYuanBnIiwKaWQ6ICI2IiwKaGFzaDogIjYwZTE4NjBhZDE1Y2NmNGIiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogMTE5NiwKdGl0bGU6ICLQktC90YPQuiDQpdC+0LrQsNCz0LUiLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0JrQvtC90L7RhdCw0LzQsNGA0YMg0KHQsNGA0YPRgtC+0LHQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzcuanBnIiwKaWQ6ICI3IiwKaGFzaDogIjgwMDZlOGU0ZTJmOTQwZWIiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"credits\",\ntime_start: 80,\ntitle: \"COME ON!\",\ndescription: \"Прослушайте 1 опенинг 1 сезона\",\nicon: js_preres_url + \"/uploads/achievements/icons/5.jpg\",\nid: \"5\",\nhash: \"9361f22ac1a41382\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 1103,\ntitle: \"В малине\",\ndescription: \"Что может быть лучше собственного гарема\",\nicon: js_preres_url + \"/uploads/achievements/icons/6.jpg\",\nid: \"6\",\nhash: \"60e1860ad15ccf4b\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1196,\ntitle: \"Внук Хокаге\",\ndescription: \"Вы познакомились с Конохамару Сарутоби\",\nicon: js_preres_url + \"/uploads/achievements/icons/7.jpg\",\nid: \"7\",\nhash: \"8006e8e4e2f940eb\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/5.jpg\", js_preres_url + \"/uploads/achievements/icons/6.jpg\", js_preres_url + \"/uploads/achievements/icons/7.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "credits",
+        "time_start": 80,
+        "title": "COME ON!",
+        "description": "Прослушайте 1 опенинг 1 сезона",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/5.jpg",
+        "id": "5",
+        "hash": "9361f22ac1a41382"
+      },
+      {
+        "category": "techniques",
+        "time_start": 1103,
+        "title": "В малине",
+        "description": "Что может быть лучше собственного гарема",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/6.jpg",
+        "id": "6",
+        "hash": "60e1860ad15ccf4b"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1196,
+        "title": "Внук Хокаге",
+        "description": "Вы познакомились с Конохамару Сарутоби",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/7.jpg",
+        "id": "7",
+        "hash": "8006e8e4e2f940eb"
+      }
+    ]
+  }
+}

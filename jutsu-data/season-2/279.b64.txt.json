@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "279",
+  "video_intro_start": 181,
+  "video_intro_end": 271,
+  "video_music_intro": null,
+  "video_outro_start": 181,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535815464?i=1535815468&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImh1bW9yIiwKdGltZV9zdGFydDogNjkxLAp0aXRsZTogItCa0LDQvNC10L3RjC3QvdC+0LbQvdC40YbRiy3QsdGD0LzQsNCz0LAiLApkZXNjcmlwdGlvbjogItCf0L7RgdGA0LXQtNC4INCy0L7QudC90YsiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82MTYuanBnIiwKaWQ6ICI2MTYiLApoYXNoOiAiZDBjMjMzZWYxNGY0YTljYiIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjE2LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 691,\ntitle: \"Камень-ножницы-бумага\",\ndescription: \"Посреди войны\",\nicon: js_preres_url + \"/uploads/achievements/icons/616.jpg\",\nid: \"616\",\nhash: \"d0c233ef14f4a9cb\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/616.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "humor",
+        "time_start": 691,
+        "title": "Камень-ножницы-бумага",
+        "description": "Посреди войны",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/616.jpg",
+        "id": "616",
+        "hash": "d0c233ef14f4a9cb"
+      }
+    ]
+  }
+}

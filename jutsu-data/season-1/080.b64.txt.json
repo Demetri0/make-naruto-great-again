@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "80",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1402636708?i=1402636832&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://www.shazam.com/track/40849581",
+  "this_video_duration": 1387,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDYwNSwKdGl0bGU6ICLQodCw0LzQvtCy0LvRjtCx0LvRkdC90L3Ri9C5INC00LXQvNC+0L0iLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0JPQsNCw0YDQvtC5IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTUxLmpwZyIsCmlkOiAiMTUxIiwKaGFzaDogImExMmRmM2RjZTY4MTk3M2MiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogMTE4NSwKdGl0bGU6ICLQn9GA0L7RidCw0LksINCi0YDQtdGC0LjQuSIsCmRlc2NyaXB0aW9uOiAi0J/RgNC+0LLQvtC00LjRgtC1INCl0LjRgNGD0LfQtdC90LAg0LIg0L/QvtGB0LvQtdC00L3QuNC5INC/0YPRgtGMIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTUyLmpwZyIsCmlkOiAiMTUyIiwKaGFzaDogIjg4OTdhN2RhMmY0ZjhlYmEiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAidGVhbXMiLAp0aW1lX3N0YXJ0OiAxMjU5LAp0aXRsZTogItCQ0LrQsNGG0YPQutC4IiwKZGVzY3JpcHRpb246ICLQm9GD0YfRiNC40LUg0LjQtyDRhdGD0LTRiNC40YUiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xNTMuanBnIiwKaWQ6ICIxNTMiLApoYXNoOiAiNWU5ZmRlY2JlYzQ4YThlYSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJhcmNzIiwKdGltZV9zdGFydDogMTIyNiwKdGl0bGU6ICLQktGC0L7RgNC20LXQvdC40LUg0L7QutC+0L3Rh9C10L3QviIsCmRlc2NyaXB0aW9uOiAi0JfQsNCy0LXRgNGI0LjRgtC1INCw0YDQutGDINCy0YLQvtGA0LbQtdC90LjRjyDQsiDQm9C40YHRgiIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzE1NC5qcGciLAppZDogIjE1NCIsCmhhc2g6ICJiMGRmMmQ0MzdmYjIzZDVjIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xNTEuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTUyLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzE1My5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xNTQuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 605,\ntitle: \"Самовлюблённый демон\",\ndescription: \"Вы познакомились с Гаарой\",\nicon: js_preres_url + \"/uploads/achievements/icons/151.jpg\",\nid: \"151\",\nhash: \"a12df3dce681973c\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1185,\ntitle: \"Прощай, Третий\",\ndescription: \"Проводите Хирузена в последний путь\",\nicon: js_preres_url + \"/uploads/achievements/icons/152.jpg\",\nid: \"152\",\nhash: \"8897a7da2f4f8eba\"\n});\r\nthis_anime_achievements.push({\ncategory: \"teams\",\ntime_start: 1259,\ntitle: \"Акацуки\",\ndescription: \"Лучшие из худших\",\nicon: js_preres_url + \"/uploads/achievements/icons/153.jpg\",\nid: \"153\",\nhash: \"5e9fdecbec48a8ea\"\n});\r\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 1226,\ntitle: \"Вторжение окончено\",\ndescription: \"Завершите арку вторжения в Лист\",\nicon: js_preres_url + \"/uploads/achievements/icons/154.jpg\",\nid: \"154\",\nhash: \"b0df2d437fb23d5c\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/151.jpg\", js_preres_url + \"/uploads/achievements/icons/152.jpg\", js_preres_url + \"/uploads/achievements/icons/153.jpg\", js_preres_url + \"/uploads/achievements/icons/154.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 605,
+        "title": "Самовлюблённый демон",
+        "description": "Вы познакомились с Гаарой",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/151.jpg",
+        "id": "151",
+        "hash": "a12df3dce681973c"
+      },
+      {
+        "category": "events",
+        "time_start": 1185,
+        "title": "Прощай, Третий",
+        "description": "Проводите Хирузена в последний путь",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/152.jpg",
+        "id": "152",
+        "hash": "8897a7da2f4f8eba"
+      },
+      {
+        "category": "teams",
+        "time_start": 1259,
+        "title": "Акацуки",
+        "description": "Лучшие из худших",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/153.jpg",
+        "id": "153",
+        "hash": "5e9fdecbec48a8ea"
+      },
+      {
+        "category": "arcs",
+        "time_start": 1226,
+        "title": "Вторжение окончено",
+        "description": "Завершите арку вторжения в Лист",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/154.jpg",
+        "id": "154",
+        "hash": "b0df2d437fb23d5c"
+      }
+    ]
+  }
+}

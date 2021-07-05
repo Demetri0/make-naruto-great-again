@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "299",
+  "video_intro_start": 151,
+  "video_intro_end": 241,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1409861532?i=1409861550&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 151,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1286599059?i=1286599215&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDU2NCwKdGl0bGU6ICLQotGA0L7QudC90LDRjyDQsNGC0LDQutCwIiwKZGVzY3JpcHRpb246ICLQodC+0Y7Qt9C90LjQutC4INGD0L3QuNGH0YLQvtC20LDRjtGCINGB0L/Rg9GC0L3QuNC6INCd0LDQs9Cw0YLQviIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY0Ny5qcGciLAppZDogIjY0NyIsCmhhc2g6ICJmYWQ0NmI4OTk5NTA5YjQyIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDc5MCwKdGl0bGU6ICLQn9C+0LrQvtC50YHRjyDRgSDQvNC40YDQvtC8IiwKZGVzY3JpcHRpb246ICLQndCw0LPQsNGC0L4g0LfQsNC/0LXRh9Cw0YLQsNC9IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjQ4LmpwZyIsCmlkOiAiNjQ4IiwKaGFzaDogIjE4OGVlZjIwOTc2MjM2ZDgiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY0Ny5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82NDguanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 564,\ntitle: \"Тройная атака\",\ndescription: \"Союзники уничтожают спутник Нагато\",\nicon: js_preres_url + \"/uploads/achievements/icons/647.jpg\",\nid: \"647\",\nhash: \"fad46b8999509b42\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 790,\ntitle: \"Покойся с миром\",\ndescription: \"Нагато запечатан\",\nicon: js_preres_url + \"/uploads/achievements/icons/648.jpg\",\nid: \"648\",\nhash: \"188eef20976236d8\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/647.jpg\", js_preres_url + \"/uploads/achievements/icons/648.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 564,
+        "title": "Тройная атака",
+        "description": "Союзники уничтожают спутник Нагато",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/647.jpg",
+        "id": "647",
+        "hash": "fad46b8999509b42"
+      },
+      {
+        "category": "events",
+        "time_start": 790,
+        "title": "Покойся с миром",
+        "description": "Нагато запечатан",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/648.jpg",
+        "id": "648",
+        "hash": "188eef20976236d8"
+      }
+    ]
+  }
+}

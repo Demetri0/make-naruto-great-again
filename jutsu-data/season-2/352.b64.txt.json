@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "352",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1339552447?i=1339552642&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1538145467?i=1538145479&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDY3MiwKdGl0bGU6ICLQmtC40L3QvtC1IiwKZGVzY3JpcHRpb246ICLQktGLINCy0YHRgtGA0LXRgtC40LvQuCDQvNC+0LvQvtC00L7Qs9C+INCv0LzQsNGC0L4iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83MTcuanBnIiwKaWQ6ICI3MTciLApoYXNoOiAiMzVkN2U2NzRiNDQ3MTQ1YiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiA2NjYsCnRpdGxlOiAi0JrQu9Cw0L0g0LTRi9C80LAiLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0JPQvtGC0YLQvtC5INCY0LHRg9GA0LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83MTguanBnIiwKaWQ6ICI3MTgiLApoYXNoOiAiMmY3ZjZmOGE4YjQ2ZThiZiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiA2ODEsCnRpdGxlOiAi0J/QvtGC0LXRgNGP0LLRiNCw0Y8g0KLQtdC90LfQviIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQrtC60LjQvNC4INCY0LHRg9GA0LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83MTkuanBnIiwKaWQ6ICI3MTkiLApoYXNoOiAiODIxNmEyNTQwOWRjZjg0MiIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzE3LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzcxOC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83MTkuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 672,\ntitle: \"Киное\",\ndescription: \"Вы встретили молодого Ямато\",\nicon: js_preres_url + \"/uploads/achievements/icons/717.jpg\",\nid: \"717\",\nhash: \"35d7e674b447145b\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 666,\ntitle: \"Клан дыма\",\ndescription: \"Вы познакомились с Готтой Ибури\",\nicon: js_preres_url + \"/uploads/achievements/icons/718.jpg\",\nid: \"718\",\nhash: \"2f7f6f8a8b46e8bf\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 681,\ntitle: \"Потерявшая Тензо\",\ndescription: \"Вы познакомились с Юкими Ибури\",\nicon: js_preres_url + \"/uploads/achievements/icons/719.jpg\",\nid: \"719\",\nhash: \"8216a25409dcf842\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/717.jpg\", js_preres_url + \"/uploads/achievements/icons/718.jpg\", js_preres_url + \"/uploads/achievements/icons/719.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 672,
+        "title": "Киное",
+        "description": "Вы встретили молодого Ямато",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/717.jpg",
+        "id": "717",
+        "hash": "35d7e674b447145b"
+      },
+      {
+        "category": "heroes",
+        "time_start": 666,
+        "title": "Клан дыма",
+        "description": "Вы познакомились с Готтой Ибури",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/718.jpg",
+        "id": "718",
+        "hash": "2f7f6f8a8b46e8bf"
+      },
+      {
+        "category": "heroes",
+        "time_start": 681,
+        "title": "Потерявшая Тензо",
+        "description": "Вы познакомились с Юкими Ибури",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/719.jpg",
+        "id": "719",
+        "hash": "8216a25409dcf842"
+      }
+    ]
+  }
+}

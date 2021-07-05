@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "488",
+  "video_intro_start": 0,
+  "video_intro_end": 93,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1189707930?i=1189708057&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1173501808?i=1173501978&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1393,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiAyMjUsCnRpdGxlOiAi0JrQtdGG0YPRgNGM0Y7Qs9Cw0L0iLApkZXNjcmlwdGlvbjogItCa0YDQvtCy0LDQstGL0LUg0LPQu9Cw0LfQsCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzg1NS5qcGciLAppZDogIjg1NSIsCmhhc2g6ICI4N2ViODZkZTI4ZTA3OTZlIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImFyY3MiLAp0aW1lX3N0YXJ0OiAxMjY1LAp0aXRsZTogItCd0L7QstGL0Lkg0YDQsNGB0YHQstC10YIiLApkZXNjcmlwdGlvbjogItCX0LDQstC10YDRiNC40YLQtSDQsNGA0LrRgyDQv9GD0YLQtdGI0LXRgdGC0LLQuNGPINCh0LDRgdC60LUiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84NTYuanBnIiwKaWQ6ICI4NTYiLApoYXNoOiAiM2U1ODAwN2JlNjg4MTVjOSIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODU1LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzg1Ni5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 225,\ntitle: \"Кецурьюган\",\ndescription: \"Кровавые глаза\",\nicon: js_preres_url + \"/uploads/achievements/icons/855.jpg\",\nid: \"855\",\nhash: \"87eb86de28e0796e\"\n});\r\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 1265,\ntitle: \"Новый рассвет\",\ndescription: \"Завершите арку путешествия Саске\",\nicon: js_preres_url + \"/uploads/achievements/icons/856.jpg\",\nid: \"856\",\nhash: \"3e58007be68815c9\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/855.jpg\", js_preres_url + \"/uploads/achievements/icons/856.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 225,
+        "title": "Кецурьюган",
+        "description": "Кровавые глаза",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/855.jpg",
+        "id": "855",
+        "hash": "87eb86de28e0796e"
+      },
+      {
+        "category": "arcs",
+        "time_start": 1265,
+        "title": "Новый рассвет",
+        "description": "Завершите арку путешествия Саске",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/856.jpg",
+        "id": "856",
+        "hash": "3e58007be68815c9"
+      }
+    ]
+  }
+}

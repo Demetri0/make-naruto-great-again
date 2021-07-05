@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "30",
+  "video_intro_start": 205,
+  "video_intro_end": 295,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1535496914?i=1535496920&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 205,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1537203600?i=1537203881&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1390,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDczMiwKdGl0bGU6ICLQnNC40LzQvtC70ZHRgtC90L7QtSDQuNGB0LrRg9GB0YHRgtCy0L4iLApkZXNjcmlwdGlvbjogItCU0LXQudC00LDRgNCwINGB0LDQvNC+0YPQvdC40YfRgtC+0LbQsNC10YLRgdGPIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzA5LmpwZyIsCmlkOiAiMzA5IiwKaGFzaDogImI1MGUwMGNlMGZkMDE0YjUiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAicXVvdGVzIiwKdGltZV9zdGFydDogMTEyNiwKdGl0bGU6ICLQl9Cw0YLQutC90LjRgdGMISIsCmRlc2NyaXB0aW9uOiAi0JLRi9GB0LvRg9GI0LDQudGC0LUg0YDQtdGH0Ywg0J3QsNGA0YPRgtC+INCyINC30LDRidC40YLRgyDQk9Cw0LDRgNGLIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzEwLmpwZyIsCmlkOiAiMzEwIiwKaGFzaDogIjZkZTcwMjM0NThmMzUzODAiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMwOS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zMTAuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 732,\ntitle: \"Мимолётное искусство\",\ndescription: \"Дейдара самоуничтожается\",\nicon: js_preres_url + \"/uploads/achievements/icons/309.jpg\",\nid: \"309\",\nhash: \"b50e00ce0fd014b5\"\n});\r\nthis_anime_achievements.push({\ncategory: \"quotes\",\ntime_start: 1126,\ntitle: \"Заткнись!\",\ndescription: \"Выслушайте речь Наруто в защиту Гаары\",\nicon: js_preres_url + \"/uploads/achievements/icons/310.jpg\",\nid: \"310\",\nhash: \"6de7023458f35380\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/309.jpg\", js_preres_url + \"/uploads/achievements/icons/310.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 732,
+        "title": "Мимолётное искусство",
+        "description": "Дейдара самоуничтожается",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/309.jpg",
+        "id": "309",
+        "hash": "b50e00ce0fd014b5"
+      },
+      {
+        "category": "quotes",
+        "time_start": 1126,
+        "title": "Заткнись!",
+        "description": "Выслушайте речь Наруто в защиту Гаары",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/310.jpg",
+        "id": "310",
+        "hash": "6de7023458f35380"
+      }
+    ]
+  }
+}

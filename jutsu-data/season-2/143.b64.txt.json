@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "143",
+  "video_intro_start": 159,
+  "video_intro_end": 249,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1402641185?i=1402641459&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 159,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535808426?i=1535808432&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiA4MjgsCnRpdGxlOiAi0J/QvtC70L3QsNGPINGE0L7RgNC80LAiLApkZXNjcmlwdGlvbjogItCR0YPQudGB0YLQstC+INCl0LLQvtGB0YLQsNGC0L7Qs9C+IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDU0LmpwZyIsCmlkOiAiNDU0IiwKaGFzaDogIjA4MGM0ZTJlNGM4MDEwZmIiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogMTA1MSwKdGl0bGU6ICLQndCw0YHQu9C10LTQuNC1INC60LvQsNC90LAiLApkZXNjcmlwdGlvbjogItCh0LDRgdC60LUg0LDQutGC0LjQstC40YDRg9C10YIg0JzQsNC90LPQtdC60ZEiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80NTUuanBnIiwKaWQ6ICI0NTUiLApoYXNoOiAiOTEzYWZlODQ4OTVmNzdlMyIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJhcmNzIiwKdGltZV9zdGFydDogMTI2MywKdGl0bGU6ICLQktC+0LfQvNC10LfQtNC40LUiLApkZXNjcmlwdGlvbjogItCX0LDQstC10YDRiNC40YLQtSDQsNGA0LrRgyDQodCw0YHQutC1IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDU2LmpwZyIsCmlkOiAiNDU2IiwKaGFzaDogIjkxZmUzZWVhZWY0NTk0MmIiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ1NC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80NTUuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDU2LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 828,\ntitle: \"Полная форма\",\ndescription: \"Буйство Хвостатого\",\nicon: js_preres_url + \"/uploads/achievements/icons/454.jpg\",\nid: \"454\",\nhash: \"080c4e2e4c8010fb\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1051,\ntitle: \"Наследие клана\",\ndescription: \"Саске активирует Мангекё\",\nicon: js_preres_url + \"/uploads/achievements/icons/455.jpg\",\nid: \"455\",\nhash: \"913afe84895f77e3\"\n});\r\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 1263,\ntitle: \"Возмездие\",\ndescription: \"Завершите арку Саске\",\nicon: js_preres_url + \"/uploads/achievements/icons/456.jpg\",\nid: \"456\",\nhash: \"91fe3eeaef45942b\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/454.jpg\", js_preres_url + \"/uploads/achievements/icons/455.jpg\", js_preres_url + \"/uploads/achievements/icons/456.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 828,
+        "title": "Полная форма",
+        "description": "Буйство Хвостатого",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/454.jpg",
+        "id": "454",
+        "hash": "080c4e2e4c8010fb"
+      },
+      {
+        "category": "events",
+        "time_start": 1051,
+        "title": "Наследие клана",
+        "description": "Саске активирует Мангекё",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/455.jpg",
+        "id": "455",
+        "hash": "913afe84895f77e3"
+      },
+      {
+        "category": "arcs",
+        "time_start": 1263,
+        "title": "Возмездие",
+        "description": "Завершите арку Саске",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/456.jpg",
+        "id": "456",
+        "hash": "91fe3eeaef45942b"
+      }
+    ]
+  }
+}

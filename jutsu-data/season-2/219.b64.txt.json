@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "219",
+  "video_intro_start": 132,
+  "video_intro_end": 222,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/550296634?i=550296638&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 132,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/673554732?i=673554737&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImh1bW9yIiwKdGltZV9zdGFydDogODg5LAp0aXRsZTogItCT0L7QvdC60LAg0L/QviDQtNC10YDQtdCy0L3QtSIsCmRlc2NyaXB0aW9uOiAi0J7Rh9C10YDQtdC00L3QvtC1INGB0L7RgNC10LLQvdC+0LLQsNC90LjQtSDQmtCw0LrQsNGI0Lgg0Lgg0JPQsNGPIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTQzLmpwZyIsCmlkOiAiNTQzIiwKaGFzaDogImE3YjFkYzM2MzMwZjcyNTgiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU0My5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 889,\ntitle: \"Гонка по деревне\",\ndescription: \"Очередное соревнование Какаши и Гая\",\nicon: js_preres_url + \"/uploads/achievements/icons/543.jpg\",\nid: \"543\",\nhash: \"a7b1dc36330f7258\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/543.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "humor",
+        "time_start": 889,
+        "title": "Гонка по деревне",
+        "description": "Очередное соревнование Какаши и Гая",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/543.jpg",
+        "id": "543",
+        "hash": "a7b1dc36330f7258"
+      }
+    ]
+  }
+}

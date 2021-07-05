@@ -1,0 +1,65 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "82",
+  "video_intro_start": 36,
+  "video_intro_end": 126,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1536372804?i=1536372808&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 36,
+  "video_music_outro": "https://www.shazam.com/track/153770694",
+  "this_video_duration": 1384,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDE3MSwKdGl0bGU6ICLQp9GR0YDQvdGL0Lkg0LTQtdC90YwiLApkZXNjcmlwdGlvbjogItCf0YDQvtGB0YLQuNGC0LXRgdGMINGBINCQ0YHRg9C80L7QuSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM2OC5qcGciLAppZDogIjM2OCIsCmhhc2g6ICIyZDAxNjA0ODI0ODkyYjQyIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDg5NCwKdGl0bGU6ICLQkdC+0LvRjNGI0LUsINGH0LXQvCDRgtC+0LvRgdGC0Y/QuiIsCmRlc2NyaXB0aW9uOiAi0JLRiyDRg9C30L3QsNC70Lgg0L/QvtCy0LfRgNC+0YHQu9C10LLRiNC10LPQviDQp9C+0LTQttC4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzY5LmpwZyIsCmlkOiAiMzY5IiwKaGFzaDogImFiYWYwZjBkMGU3ZTVmNDEiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogOTE4LAp0aXRsZTogItCR0L7Qu9GM0YjQtSwg0YfQtdC8INC60YDQsNGB0L7RgtC60LAiLApkZXNjcmlwdGlvbjogItCS0Ysg0YPQt9C90LDQu9C4INC/0L7QstC30YDQvtGB0LvQtdCy0YjRg9GOINCY0L3QviIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM3MC5qcGciLAppZDogIjM3MCIsCmhhc2g6ICI2ZTFjOWIzYWE1N2M2ZmQ3Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDEwNTIsCnRpdGxlOiAi0JHQvtC70YzRiNC1LCDRh9C10Lwg0LPQtdC90LjQuSIsCmRlc2NyaXB0aW9uOiAi0JLRiyDRg9C30L3QsNC70Lgg0L/QvtCy0LfRgNC+0YHQu9C10LLRiNC10LPQviDQqNC40LrQsNC80LDRgNGDIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzcxLmpwZyIsCmlkOiAiMzcxIiwKaGFzaDogIjY1OGQ1MmI5MzI1NmRmZDciCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAidGVhbXMiLAp0aW1lX3N0YXJ0OiAxMjU1LAp0aXRsZTogItCe0YLRgNGP0LQg0JrQsNC60LDRiNC4IiwKZGVzY3JpcHRpb246ICLQktGA0LXQvNC10L3QvdGL0Lkg0LrQsNC/0LjRgtCw0L0g0JrQvtC80LDQvdC00YsgMTAiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zNzIuanBnIiwKaWQ6ICIzNzIiLApoYXNoOiAiMmQ2M2NlZmY4ZGRjNDlkNyIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzY4LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM2OS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zNzAuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzcxLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM3Mi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 171,\ntitle: \"Чёрный день\",\ndescription: \"Проститесь с Асумой\",\nicon: js_preres_url + \"/uploads/achievements/icons/368.jpg\",\nid: \"368\",\nhash: \"2d01604824892b42\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 894,\ntitle: \"Больше, чем толстяк\",\ndescription: \"Вы узнали повзрослевшего Чоджи\",\nicon: js_preres_url + \"/uploads/achievements/icons/369.jpg\",\nid: \"369\",\nhash: \"abaf0f0d0e7e5f41\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 918,\ntitle: \"Больше, чем красотка\",\ndescription: \"Вы узнали повзрослевшую Ино\",\nicon: js_preres_url + \"/uploads/achievements/icons/370.jpg\",\nid: \"370\",\nhash: \"6e1c9b3aa57c6fd7\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1052,\ntitle: \"Больше, чем гений\",\ndescription: \"Вы узнали повзрослевшего Шикамару\",\nicon: js_preres_url + \"/uploads/achievements/icons/371.jpg\",\nid: \"371\",\nhash: \"658d52b93256dfd7\"\n});\r\nthis_anime_achievements.push({\ncategory: \"teams\",\ntime_start: 1255,\ntitle: \"Отряд Какаши\",\ndescription: \"Временный капитан Команды 10\",\nicon: js_preres_url + \"/uploads/achievements/icons/372.jpg\",\nid: \"372\",\nhash: \"2d63ceff8ddc49d7\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/368.jpg\", js_preres_url + \"/uploads/achievements/icons/369.jpg\", js_preres_url + \"/uploads/achievements/icons/370.jpg\", js_preres_url + \"/uploads/achievements/icons/371.jpg\", js_preres_url + \"/uploads/achievements/icons/372.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 171,
+        "title": "Чёрный день",
+        "description": "Проститесь с Асумой",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/368.jpg",
+        "id": "368",
+        "hash": "2d01604824892b42"
+      },
+      {
+        "category": "heroes",
+        "time_start": 894,
+        "title": "Больше, чем толстяк",
+        "description": "Вы узнали повзрослевшего Чоджи",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/369.jpg",
+        "id": "369",
+        "hash": "abaf0f0d0e7e5f41"
+      },
+      {
+        "category": "heroes",
+        "time_start": 918,
+        "title": "Больше, чем красотка",
+        "description": "Вы узнали повзрослевшую Ино",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/370.jpg",
+        "id": "370",
+        "hash": "6e1c9b3aa57c6fd7"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1052,
+        "title": "Больше, чем гений",
+        "description": "Вы узнали повзрослевшего Шикамару",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/371.jpg",
+        "id": "371",
+        "hash": "658d52b93256dfd7"
+      },
+      {
+        "category": "teams",
+        "time_start": 1255,
+        "title": "Отряд Какаши",
+        "description": "Временный капитан Команды 10",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/372.jpg",
+        "id": "372",
+        "hash": "2d63ceff8ddc49d7"
+      }
+    ]
+  }
+}

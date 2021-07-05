@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "23",
+  "video_intro_start": 374,
+  "video_intro_end": 464,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1535496914?i=1535496920&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 374,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1537203600?i=1537203881&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1387,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiAzNzEsCnRpdGxlOiAi0KHRgtC40YXQuNGPINCc0LDQs9C90LXRgtC40LfQvNCwIiwKZGVzY3JpcHRpb246ICLQotC10YXQvdC40LrQuCDQttC10LvQtdC30L3QvtCz0L4g0L/QtdGB0LrQsCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzI5Ni5qcGciLAppZDogIjI5NiIsCmhhc2g6ICJmMGY4NDVlNGFlZjliNjI3Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDk0MiwKdGl0bGU6ICLQmtGD0LrQvtC70YzQvdGL0Lkg0YLQtdCw0YLRgCIsCmRlc2NyaXB0aW9uOiAi0KPQt9C90LDQudGC0LUg0L4g0L/RgNC+0YjQu9C+0Lwg0KHQsNGB0L7RgNC4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjk3LmpwZyIsCmlkOiAiMjk3IiwKaGFzaDogImI3ZTRmMzBhNTAyMGIyZjciCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzI5Ni5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yOTcuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 371,\ntitle: \"Стихия Магнетизма\",\ndescription: \"Техники железного песка\",\nicon: js_preres_url + \"/uploads/achievements/icons/296.jpg\",\nid: \"296\",\nhash: \"f0f845e4aef9b627\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 942,\ntitle: \"Кукольный театр\",\ndescription: \"Узнайте о прошлом Сасори\",\nicon: js_preres_url + \"/uploads/achievements/icons/297.jpg\",\nid: \"297\",\nhash: \"b7e4f30a5020b2f7\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/296.jpg\", js_preres_url + \"/uploads/achievements/icons/297.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 371,
+        "title": "Стихия Магнетизма",
+        "description": "Техники железного песка",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/296.jpg",
+        "id": "296",
+        "hash": "f0f845e4aef9b627"
+      },
+      {
+        "category": "events",
+        "time_start": 942,
+        "title": "Кукольный театр",
+        "description": "Узнайте о прошлом Сасори",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/297.jpg",
+        "id": "297",
+        "hash": "b7e4f30a5020b2f7"
+      }
+    ]
+  }
+}

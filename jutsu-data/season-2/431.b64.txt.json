@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "431",
+  "video_intro_start": 58,
+  "video_intro_end": 148,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1538129345?i=1538129647&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 58,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536491292?i=1536491296&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEyNDYsCnRpdGxlOiAi0JHRi9GC0Ywg0YEg0L3QuNC8IiwKZGVzY3JpcHRpb246ICLQo9C30L3QsNC50YLQtSwg0YfRgtC+INGB0L3QuNGC0YHRjyDQmtCw0YDQuNC9IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzk3LmpwZyIsCmlkOiAiNzk3IiwKaGFzaDogImI4MDAwMDg4YzEwZmMwZjkiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiYXJjcyIsCnRpbWVfc3RhcnQ6IDEyNjMsCnRpdGxlOiAi0JrQvtC90LXRhiDRgdCy0LXRgtCwIiwKZGVzY3JpcHRpb246ICLQl9Cw0LLQtdGA0YjQuNGC0LUg0YfQtdGC0LLRkdGA0YLRg9GOINGH0LDRgdGC0Ywg0JLQtdC70LjQutC+0Lkg0LLQvtC50L3RiyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzc5OC5qcGciLAppZDogIjc5OCIsCmhhc2g6ICIwOGVhNWIxZjU3MTU0ODE4Igp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83OTcuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzk4LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1246,\ntitle: \"Быть с ним\",\ndescription: \"Узнайте, что снится Карин\",\nicon: js_preres_url + \"/uploads/achievements/icons/797.jpg\",\nid: \"797\",\nhash: \"b8000088c10fc0f9\"\n});\r\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 1263,\ntitle: \"Конец света\",\ndescription: \"Завершите четвёртую часть Великой войны\",\nicon: js_preres_url + \"/uploads/achievements/icons/798.jpg\",\nid: \"798\",\nhash: \"08ea5b1f57154818\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/797.jpg\", js_preres_url + \"/uploads/achievements/icons/798.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 1246,
+        "title": "Быть с ним",
+        "description": "Узнайте, что снится Карин",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/797.jpg",
+        "id": "797",
+        "hash": "b8000088c10fc0f9"
+      },
+      {
+        "category": "arcs",
+        "time_start": 1263,
+        "title": "Конец света",
+        "description": "Завершите четвёртую часть Великой войны",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/798.jpg",
+        "id": "798",
+        "hash": "08ea5b1f57154818"
+      }
+    ]
+  }
+}

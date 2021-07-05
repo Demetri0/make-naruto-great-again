@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "39",
+  "video_intro_start": 337,
+  "video_intro_end": 427,
+  "video_music_intro": "https://www.shazam.com/track/477851517",
+  "video_outro_start": 337,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536963848?i=1536963849&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1388,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInBsYWNlcyIsCnRpbWVfc3RhcnQ6IDQzMiwKdGl0bGU6ICLQnNC+0YHRgiDQndC10LHQtdGBINC4INCX0LXQvNC70LgiLApkZXNjcmlwdGlvbjogItCc0LXRgdGC0L4g0LLRgdGC0YDQtdGH0Lgg0YHQviDRiNC/0LjQvtC90L7QvCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMzNC5qcGciLAppZDogIjMzNCIsCmhhc2g6ICIwNjI5OTNiMGQ3MWEyNDIyIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDU5NywKdGl0bGU6ICLQqNC/0LjQvtC9IiwKZGVzY3JpcHRpb246ICLQmNC8INC+0LrQsNC30LDQu9GB0Y8g0JrQsNCx0YPRgtC+IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzM1LmpwZyIsCmlkOiAiMzM1IiwKaGFzaDogIjZlYmU1MTFhN2IyZTVlNDQiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzMzNC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zMzUuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"places\",\ntime_start: 432,\ntitle: \"Мост Небес и Земли\",\ndescription: \"Место встречи со шпионом\",\nicon: js_preres_url + \"/uploads/achievements/icons/334.jpg\",\nid: \"334\",\nhash: \"062993b0d71a2422\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 597,\ntitle: \"Шпион\",\ndescription: \"Им оказался Кабуто\",\nicon: js_preres_url + \"/uploads/achievements/icons/335.jpg\",\nid: \"335\",\nhash: \"6ebe511a7b2e5e44\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/334.jpg\", js_preres_url + \"/uploads/achievements/icons/335.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "places",
+        "time_start": 432,
+        "title": "Мост Небес и Земли",
+        "description": "Место встречи со шпионом",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/334.jpg",
+        "id": "334",
+        "hash": "062993b0d71a2422"
+      },
+      {
+        "category": "events",
+        "time_start": 597,
+        "title": "Шпион",
+        "description": "Им оказался Кабуто",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/335.jpg",
+        "id": "335",
+        "hash": "6ebe511a7b2e5e44"
+      }
+    ]
+  }
+}

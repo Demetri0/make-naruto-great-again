@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "71",
+  "video_intro_start": 39,
+  "video_intro_end": 129,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/674923705?i=674923759&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 39,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/673488678?i=673488712&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1369,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDk1OSwKdGl0bGU6ICLQnNC+0Lkg0L3QvtCy0YvQuSDQtNGA0YPQsyIsCmRlc2NyaXB0aW9uOiAi0J3QsNGA0YPRgtC+INGB0L/QsNGB0LDQtdGCINCh0L7RgNGDIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzU3LmpwZyIsCmlkOiAiMzU3IiwKaGFzaDogIjIyZDlkODRhOTczMWZjZjgiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogMTIzNSwKdGl0bGU6ICLQlNC20LjQvdGH0YPRgNC40LrQuCDQlNCy0YPRhdCy0L7RgdGC0L7Qs9C+IiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCd0LjQuCDQrtCz0LjRgtC+IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzU4LmpwZyIsCmlkOiAiMzU4IiwKaGFzaDogImU1NjBhOTQyYjhlN2FmMjciCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiYXJjcyIsCnRpbWVfc3RhcnQ6IDEwODEsCnRpdGxlOiAi0J/RgdC10LLQtNC+LdCU0LbQuNC90YfRg9GA0LjQutC4IiwKZGVzY3JpcHRpb246ICLQl9Cw0LLQtdGA0YjQuNGC0LUg0LDRgNC60YMg0KHRgtGA0LDQttC10Lkg0J3QuNC90LTQt9GPIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzU5LmpwZyIsCmlkOiAiMzU5IiwKaGFzaDogIjAwOWI0MTE0N2U3ZjhhOTMiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM1Ny5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zNTguanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzU5LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 959,\ntitle: \"Мой новый друг\",\ndescription: \"Наруто спасает Сору\",\nicon: js_preres_url + \"/uploads/achievements/icons/357.jpg\",\nid: \"357\",\nhash: \"22d9d84a9731fcf8\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1235,\ntitle: \"Джинчурики Двухвостого\",\ndescription: \"Вы познакомились с Нии Югито\",\nicon: js_preres_url + \"/uploads/achievements/icons/358.jpg\",\nid: \"358\",\nhash: \"e560a942b8e7af27\"\n});\r\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 1081,\ntitle: \"Псевдо-Джинчурики\",\ndescription: \"Завершите арку Стражей Ниндзя\",\nicon: js_preres_url + \"/uploads/achievements/icons/359.jpg\",\nid: \"359\",\nhash: \"009b41147e7f8a93\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/357.jpg\", js_preres_url + \"/uploads/achievements/icons/358.jpg\", js_preres_url + \"/uploads/achievements/icons/359.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 959,
+        "title": "Мой новый друг",
+        "description": "Наруто спасает Сору",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/357.jpg",
+        "id": "357",
+        "hash": "22d9d84a9731fcf8"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1235,
+        "title": "Джинчурики Двухвостого",
+        "description": "Вы познакомились с Нии Югито",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/358.jpg",
+        "id": "358",
+        "hash": "e560a942b8e7af27"
+      },
+      {
+        "category": "arcs",
+        "time_start": 1081,
+        "title": "Псевдо-Джинчурики",
+        "description": "Завершите арку Стражей Ниндзя",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/359.jpg",
+        "id": "359",
+        "hash": "009b41147e7f8a93"
+      }
+    ]
+  }
+}

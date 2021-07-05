@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "21",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://www.shazam.com/track/40834897",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1539173661?i=1539173662&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1400,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDQ1OSwKdGl0bGU6ICLQrdC60LfQsNC80LXQvSDQvdCwINCn0YPQvdC40L3QsCIsCmRlc2NyaXB0aW9uOiAi0J/QvtCy0YvRiNCw0LXQvCDRgNCw0L3QsyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUyLmpwZyIsCmlkOiAiNTIiLApoYXNoOiAiMzc0MGNkMDJlODMyMTgxMyIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJ0ZWNobmlxdWVzIiwKdGltZV9zdGFydDogMTEzNCwKdGl0bGU6ICLQntCx0LzQsNC9INC30YDQtdC90LjRjyIsCmRlc2NyaXB0aW9uOiAi0KLQsNC6INCyINC80LjRgNC1INC90LjQvdC00LfRjyDQtNC10LnRgdGC0LLRg9GO0YIg0LjQu9C70Y7Qt9C40LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81My5qcGciLAppZDogIjUzIiwKaGFzaDogImVlY2JlYzA1OTY5MGJkNTMiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogMTI1OSwKdGl0bGU6ICLQlNCy0LAg0LTRgNGD0LPQsCIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQmNC30YPQvNC+INC4INCa0L7RgtC10YbRgyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU0LmpwZyIsCmlkOiAiNTQiLApoYXNoOiAiYWI3ODYyNWM3NTI1NTY4NSIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTIuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTMuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTQuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 459,\ntitle: \"Экзамен на Чунина\",\ndescription: \"Повышаем ранг\",\nicon: js_preres_url + \"/uploads/achievements/icons/52.jpg\",\nid: \"52\",\nhash: \"3740cd02e8321813\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 1134,\ntitle: \"Обман зрения\",\ndescription: \"Так в мире ниндзя действуют иллюзии\",\nicon: js_preres_url + \"/uploads/achievements/icons/53.jpg\",\nid: \"53\",\nhash: \"eecbec059690bd53\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1259,\ntitle: \"Два друга\",\ndescription: \"Вы познакомились с Изумо и Котецу\",\nicon: js_preres_url + \"/uploads/achievements/icons/54.jpg\",\nid: \"54\",\nhash: \"ab78625c75255685\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/52.jpg\", js_preres_url + \"/uploads/achievements/icons/53.jpg\", js_preres_url + \"/uploads/achievements/icons/54.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 459,
+        "title": "Экзамен на Чунина",
+        "description": "Повышаем ранг",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/52.jpg",
+        "id": "52",
+        "hash": "3740cd02e8321813"
+      },
+      {
+        "category": "techniques",
+        "time_start": 1134,
+        "title": "Обман зрения",
+        "description": "Так в мире ниндзя действуют иллюзии",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/53.jpg",
+        "id": "53",
+        "hash": "eecbec059690bd53"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1259,
+        "title": "Два друга",
+        "description": "Вы познакомились с Изумо и Котецу",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/54.jpg",
+        "id": "54",
+        "hash": "ab78625c75255685"
+      }
+    ]
+  }
+}

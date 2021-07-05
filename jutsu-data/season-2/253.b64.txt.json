@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "253",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1537248449?i=1537248451&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/491247699?i=491247706&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDYyMSwKdGl0bGU6ICLQoNCw0LTRg9Cz0LAg0LzQuNGA0LAiLApkZXNjcmlwdGlvbjogItCa0L7QvdCw0L0g0L/QvtCz0LjQsdCw0LXRgiDQvtGCINGA0YPQuiDQotC+0LHQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU3Ni5qcGciLAppZDogIjU3NiIsCmhhc2g6ICIwYmRkMzQwNWRlY2VmNzFiIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDEyMjgsCnRpdGxlOiAi0KEg0LzQvtGJ0YzRjiDQoNC40L3QvdC10LPQsNC90LAiLApkZXNjcmlwdGlvbjogItCS0YHRgtGA0LXRh9Cw0LnRgtC1INCi0L7QsdC4INCyINCx0LXQu9C+0Lkg0LzQsNGB0LrQtSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU3Ny5qcGciLAppZDogIjU3NyIsCmhhc2g6ICIxNDJiMDI4YTc5YzgzMDIxIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81NzYuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTc3LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 621,\ntitle: \"Радуга мира\",\ndescription: \"Конан погибает от рук Тоби\",\nicon: js_preres_url + \"/uploads/achievements/icons/576.jpg\",\nid: \"576\",\nhash: \"0bdd3405decef71b\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1228,\ntitle: \"С мощью Риннегана\",\ndescription: \"Встречайте Тоби в белой маске\",\nicon: js_preres_url + \"/uploads/achievements/icons/577.jpg\",\nid: \"577\",\nhash: \"142b028a79c83021\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/576.jpg\", js_preres_url + \"/uploads/achievements/icons/577.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 621,
+        "title": "Радуга мира",
+        "description": "Конан погибает от рук Тоби",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/576.jpg",
+        "id": "576",
+        "hash": "0bdd3405decef71b"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1228,
+        "title": "С мощью Риннегана",
+        "description": "Встречайте Тоби в белой маске",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/577.jpg",
+        "id": "577",
+        "hash": "142b028a79c83021"
+      }
+    ]
+  }
+}

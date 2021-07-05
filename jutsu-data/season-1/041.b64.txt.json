@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "41",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/963662940?i=963662941&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535488943?i=1535488948&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1387,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEyNTAsCnRpdGxlOiAi0JfQsNC60LvRj9GC0YvQtSDQv9C+0LTRgNGD0LPQuCIsCmRlc2NyaXB0aW9uOiAi0KHQsNC60YPRgNCwINC/0YDQvtGC0LjQsiDQmNC90L4iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy85NC5qcGciLAppZDogIjk0IiwKaGFzaDogIjJiNTA3NmNkMDY2NjU0NjAiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogMjAwLAp0aXRsZTogItCg0LDRgdC60YDQsNGI0LXQvdC90YvQuSDQutGD0LrQu9C+0LLQvtC0IiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCa0LDQvdC60YPRgNC+IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvOTUuanBnIiwKaWQ6ICI5NSIsCmhhc2g6ICI0MDRkODQ0NDQ4ODM0MTkwIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiAyNjIsCnRpdGxlOiAi0JzQsNGA0LjQvtC90LXRgtC60LAiLApkZXNjcmlwdGlvbjogItCSINCx0L7RjiDQvdC40L3QtNC30Y8g0LzQvtCz0YPRgiDQuNGB0L/QvtC70YzQt9C+0LLQsNGC0Ywg0LrRg9C60LvRiyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzk2LmpwZyIsCmlkOiAiOTYiLApoYXNoOiAiZTA2NDNhZjNiNjZjODgwOCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiAxMjEyLAp0aXRsZTogItCT0LvQsNCy0L3QsNGPINC60YDQsNGB0L7RgtC60LAiLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0JjQvdC+INCv0LzQsNC90LDQutC+0LkiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy85Ny5qcGciLAppZDogIjk3IiwKaGFzaDogImY3ZTcwMTM3MzM5ZWIzNWEiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzk0LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzk1LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzk2LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzk3LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1250,\ntitle: \"Заклятые подруги\",\ndescription: \"Сакура против Ино\",\nicon: js_preres_url + \"/uploads/achievements/icons/94.jpg\",\nid: \"94\",\nhash: \"2b5076cd06665460\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 200,\ntitle: \"Раскрашенный кукловод\",\ndescription: \"Вы познакомились с Канкуро\",\nicon: js_preres_url + \"/uploads/achievements/icons/95.jpg\",\nid: \"95\",\nhash: \"404d844448834190\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 262,\ntitle: \"Марионетка\",\ndescription: \"В бою ниндзя могут использовать куклы\",\nicon: js_preres_url + \"/uploads/achievements/icons/96.jpg\",\nid: \"96\",\nhash: \"e0643af3b66c8808\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1212,\ntitle: \"Главная красотка\",\ndescription: \"Вы познакомились с Ино Яманакой\",\nicon: js_preres_url + \"/uploads/achievements/icons/97.jpg\",\nid: \"97\",\nhash: \"f7e70137339eb35a\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/94.jpg\", js_preres_url + \"/uploads/achievements/icons/95.jpg\", js_preres_url + \"/uploads/achievements/icons/96.jpg\", js_preres_url + \"/uploads/achievements/icons/97.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 1250,
+        "title": "Заклятые подруги",
+        "description": "Сакура против Ино",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/94.jpg",
+        "id": "94",
+        "hash": "2b5076cd06665460"
+      },
+      {
+        "category": "heroes",
+        "time_start": 200,
+        "title": "Раскрашенный кукловод",
+        "description": "Вы познакомились с Канкуро",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/95.jpg",
+        "id": "95",
+        "hash": "404d844448834190"
+      },
+      {
+        "category": "techniques",
+        "time_start": 262,
+        "title": "Марионетка",
+        "description": "В бою ниндзя могут использовать куклы",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/96.jpg",
+        "id": "96",
+        "hash": "e0643af3b66c8808"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1212,
+        "title": "Главная красотка",
+        "description": "Вы познакомились с Ино Яманакой",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/97.jpg",
+        "id": "97",
+        "hash": "f7e70137339eb35a"
+      }
+    ]
+  }
+}

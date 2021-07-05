@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "23",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://www.shazam.com/track/40834897",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1539173661?i=1539173662&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1400,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDU1NCwKdGl0bGU6ICLQpdC40YLRgNGL0Lkg0LrQsNGA0YLRkdC20L3QuNC6IiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCa0LDQsdGD0YLQviDQr9C60YPRiNC4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTguanBnIiwKaWQ6ICI1OCIsCmhhc2g6ICIyNjM3YjY0MGJiNTMzZTRlIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlYW1zIiwKdGltZV9zdGFydDogMTAyNCwKdGl0bGU6ICLQmtC+0LzQsNC90LTQsCDQk9Cw0Y8iLApkZXNjcmlwdGlvbjogItCS0YHRgtGA0LXRh9Cw0LnRgtC1INGD0YfQtdC90LjQutC+0LIg0JPQsNGPIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTkuanBnIiwKaWQ6ICI1OSIsCmhhc2g6ICIwMDRiMjgxN2M2OWNmODkyIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlYW1zIiwKdGltZV9zdGFydDogMTA0MSwKdGl0bGU6ICLQmtC+0LzQsNC90LTQsCDQl9Cy0YPQutCwIiwKZGVzY3JpcHRpb246ICLQktGB0YLRgNC10YfQsNC50YLQtSDQs9C+0YHRgtC10Lkg0LjQtyDQl9Cy0YPQutCwIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjAuanBnIiwKaWQ6ICI2MCIsCmhhc2g6ICJiMGRjYjU1OGZiZjdkOWFjIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81OC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81OS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82MC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 554,\ntitle: \"Хитрый картёжник\",\ndescription: \"Вы познакомились с Кабуто Якуши\",\nicon: js_preres_url + \"/uploads/achievements/icons/58.jpg\",\nid: \"58\",\nhash: \"2637b640bb533e4e\"\n});\r\nthis_anime_achievements.push({\ncategory: \"teams\",\ntime_start: 1024,\ntitle: \"Команда Гая\",\ndescription: \"Встречайте учеников Гая\",\nicon: js_preres_url + \"/uploads/achievements/icons/59.jpg\",\nid: \"59\",\nhash: \"004b2817c69cf892\"\n});\r\nthis_anime_achievements.push({\ncategory: \"teams\",\ntime_start: 1041,\ntitle: \"Команда Звука\",\ndescription: \"Встречайте гостей из Звука\",\nicon: js_preres_url + \"/uploads/achievements/icons/60.jpg\",\nid: \"60\",\nhash: \"b0dcb558fbf7d9ac\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/58.jpg\", js_preres_url + \"/uploads/achievements/icons/59.jpg\", js_preres_url + \"/uploads/achievements/icons/60.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 554,
+        "title": "Хитрый картёжник",
+        "description": "Вы познакомились с Кабуто Якуши",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/58.jpg",
+        "id": "58",
+        "hash": "2637b640bb533e4e"
+      },
+      {
+        "category": "teams",
+        "time_start": 1024,
+        "title": "Команда Гая",
+        "description": "Встречайте учеников Гая",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/59.jpg",
+        "id": "59",
+        "hash": "004b2817c69cf892"
+      },
+      {
+        "category": "teams",
+        "time_start": 1041,
+        "title": "Команда Звука",
+        "description": "Встречайте гостей из Звука",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/60.jpg",
+        "id": "60",
+        "hash": "b0dcb558fbf7d9ac"
+      }
+    ]
+  }
+}

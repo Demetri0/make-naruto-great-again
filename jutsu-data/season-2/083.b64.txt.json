@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "83",
+  "video_intro_start": 104,
+  "video_intro_end": 194,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1536372804?i=1536372808&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 104,
+  "video_music_outro": "https://www.shazam.com/track/153770694",
+  "this_video_duration": 1384,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInF1b3RlcyIsCnRpbWVfc3RhcnQ6IDU1OSwKdGl0bGU6ICLQnNC40LvRi9C1INCx0YDQsNC90Y/RgtGB0Y8iLApkZXNjcmlwdGlvbjogItCh0L/QvtGA0Ysg0LIg0LTRg9GN0YLQtSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM3My5qcGciLAppZDogIjM3MyIsCmhhc2g6ICI3MzlhZDI0ODYxNDc1YmJhIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDc1MiwKdGl0bGU6ICLQptC10LvRjCDQt9Cw0YXQstCw0YfQtdC90LAiLApkZXNjcmlwdGlvbjogItCd0L7QstCw0Y8g0LHQuNGC0LLQsCDRgSDQkNC60LDRhtGD0LrQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM3NC5qcGciLAppZDogIjM3NCIsCmhhc2g6ICIzMjRhNTM0OTEyYjIxMmQzIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zNzMuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzc0LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"quotes\",\ntime_start: 559,\ntitle: \"Милые бранятся\",\ndescription: \"Споры в дуэте\",\nicon: js_preres_url + \"/uploads/achievements/icons/373.jpg\",\nid: \"373\",\nhash: \"739ad24861475bba\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 752,\ntitle: \"Цель захвачена\",\ndescription: \"Новая битва с Акацуки\",\nicon: js_preres_url + \"/uploads/achievements/icons/374.jpg\",\nid: \"374\",\nhash: \"324a534912b212d3\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/373.jpg\", js_preres_url + \"/uploads/achievements/icons/374.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "quotes",
+        "time_start": 559,
+        "title": "Милые бранятся",
+        "description": "Споры в дуэте",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/373.jpg",
+        "id": "373",
+        "hash": "739ad24861475bba"
+      },
+      {
+        "category": "events",
+        "time_start": 752,
+        "title": "Цель захвачена",
+        "description": "Новая битва с Акацуки",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/374.jpg",
+        "id": "374",
+        "hash": "324a534912b212d3"
+      }
+    ]
+  }
+}

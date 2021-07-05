@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "162",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1489995044?i=1489995045&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536228466?i=1536228471&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1388,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInBsYWNlcyIsCnRpbWVfc3RhcnQ6IDY5MywKdGl0bGU6ICLQodGC0YDQsNC90LAg0J/RgtC40YYiLApkZXNjcmlwdGlvbjogItCU0L7QsdGA0L4g0L/QvtC20LDQu9C+0LLQsNGC0Ywg0LIg0KHRgtGA0LDQvdGDINCf0YLQuNGGIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjQxLmpwZyIsCmlkOiAiMjQxIiwKaGFzaDogIjYwZmM1ODk1MTBkNDA0MGQiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogNjQ2LAp0aXRsZTogItChINGO0L3QvtGB0YLRjNGOIiwKZGVzY3JpcHRpb246ICLQodC+0LLQvNC10YHRgtC90LDRjyDQvNC40YHRgdC40Y8g0YEg0LrQvtC80LDQvdC00L7QuSDQk9Cw0Y8iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yNDIuanBnIiwKaWQ6ICIyNDIiLApoYXNoOiAiYjY1ZTQyM2VhYTBhN2E3OSIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjQxLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzI0Mi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"places\",\ntime_start: 693,\ntitle: \"Страна Птиц\",\ndescription: \"Добро пожаловать в Страну Птиц\",\nicon: js_preres_url + \"/uploads/achievements/icons/241.jpg\",\nid: \"241\",\nhash: \"60fc589510d4040d\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 646,\ntitle: \"С юностью\",\ndescription: \"Совместная миссия с командой Гая\",\nicon: js_preres_url + \"/uploads/achievements/icons/242.jpg\",\nid: \"242\",\nhash: \"b65e423eaa0a7a79\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/241.jpg\", js_preres_url + \"/uploads/achievements/icons/242.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "places",
+        "time_start": 693,
+        "title": "Страна Птиц",
+        "description": "Добро пожаловать в Страну Птиц",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/241.jpg",
+        "id": "241",
+        "hash": "60fc589510d4040d"
+      },
+      {
+        "category": "events",
+        "time_start": 646,
+        "title": "С юностью",
+        "description": "Совместная миссия с командой Гая",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/242.jpg",
+        "id": "242",
+        "hash": "b65e423eaa0a7a79"
+      }
+    ]
+  }
+}

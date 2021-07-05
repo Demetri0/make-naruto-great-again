@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "52",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://www.shazam.com/track/477851517",
+  "video_outro_start": 0,
+  "video_music_outro": null,
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDQ5NCwKdGl0bGU6ICLQodC70LjRiNC60L7QvCDQsdC70LjQt9C60L4iLApkZXNjcmlwdGlvbjogItCS0YHRgtGA0LXRh9CwINC30LDQutC70Y/RgtGL0YUg0LTRgNGD0LfQtdC5IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzQzLmpwZyIsCmlkOiAiMzQzIiwKaGFzaDogImU2Y2NjMjZmODQ4ZGUzMjUiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAicXVvdGVzIiwKdGltZV9zdGFydDogNTUyLAp0aXRsZTogItCl0L7QutCw0LPQtSDQuCDQtNGA0YPQt9GM0Y8iLApkZXNjcmlwdGlvbjogItCj0LfQvdCw0LnRgtC1INC80L3QtdC90LjQtSDQndCw0YDRg9GC0L4iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zNDQuanBnIiwKaWQ6ICIzNDQiLApoYXNoOiAiMjcwYWI3ZDNjYjAzNzE5ZCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiA5OTEsCnRpdGxlOiAi0KLRiyDRgtC+0LbQtSDQtdCz0L4g0LLQuNC00LjRiNGMPyIsCmRlc2NyaXB0aW9uOiAi0KHQsNGB0LrQtSDQstGB0YLRgNC10YfQsNC10YIg0JTQtdCy0Y/RgtC40YXQstC+0YHRgtC+0LPQviIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM0NS5qcGciLAppZDogIjM0NSIsCmhhc2g6ICJmYTAwMDc5NDc3Y2I2YTZiIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zNDMuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzQ0LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM0NS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 494,\ntitle: \"Слишком близко\",\ndescription: \"Встреча заклятых друзей\",\nicon: js_preres_url + \"/uploads/achievements/icons/343.jpg\",\nid: \"343\",\nhash: \"e6ccc26f848de325\"\n});\r\nthis_anime_achievements.push({\ncategory: \"quotes\",\ntime_start: 552,\ntitle: \"Хокаге и друзья\",\ndescription: \"Узнайте мнение Наруто\",\nicon: js_preres_url + \"/uploads/achievements/icons/344.jpg\",\nid: \"344\",\nhash: \"270ab7d3cb03719d\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 991,\ntitle: \"Ты тоже его видишь?\",\ndescription: \"Саске встречает Девятихвостого\",\nicon: js_preres_url + \"/uploads/achievements/icons/345.jpg\",\nid: \"345\",\nhash: \"fa00079477cb6a6b\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/343.jpg\", js_preres_url + \"/uploads/achievements/icons/344.jpg\", js_preres_url + \"/uploads/achievements/icons/345.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 494,
+        "title": "Слишком близко",
+        "description": "Встреча заклятых друзей",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/343.jpg",
+        "id": "343",
+        "hash": "e6ccc26f848de325"
+      },
+      {
+        "category": "quotes",
+        "time_start": 552,
+        "title": "Хокаге и друзья",
+        "description": "Узнайте мнение Наруто",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/344.jpg",
+        "id": "344",
+        "hash": "270ab7d3cb03719d"
+      },
+      {
+        "category": "events",
+        "time_start": 991,
+        "title": "Ты тоже его видишь?",
+        "description": "Саске встречает Девятихвостого",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/345.jpg",
+        "id": "345",
+        "hash": "fa00079477cb6a6b"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "218",
+  "video_intro_start": 77,
+  "video_intro_end": 167,
+  "video_music_intro": "https://www.shazam.com/track/154665773",
+  "video_outro_start": 77,
+  "video_music_outro": "https://www.shazam.com/track/155237325",
+  "this_video_duration": 1388,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "",
+  "custom_achiv_str": "",
+  "custom_achivements": {
+    "this_anime_achievements": null
+  }
+}

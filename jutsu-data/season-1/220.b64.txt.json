@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "220",
+  "video_intro_start": 75,
+  "video_intro_end": 165,
+  "video_music_intro": "https://www.shazam.com/track/154665773",
+  "video_outro_start": 75,
+  "video_music_outro": "https://www.shazam.com/track/155237325",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDYyMSwKdGl0bGU6ICLQodC+0LLQtdGA0YjQtdC90L3QvtC1INC+0YDRg9C20LjQtSIsCmRlc2NyaXB0aW9uOiAi0KHQtdC50LzQtdC5INC/0L7QsdC10LbQtNGR0L0iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yNjUuanBnIiwKaWQ6ICIyNjUiLApoYXNoOiAiZGM0Y2U0YjAyNmNlZTA0NCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJhcmNzIiwKdGltZV9zdGFydDogODc2LAp0aXRsZTogItCf0LXRgdC+0Log4oCTINC90LDRiCDRgdC+0Y7Qt9C90LjQuiIsCmRlc2NyaXB0aW9uOiAi0JfQsNCy0LXRgNGI0LjRgtC1INCw0YDQutGDINCo0LjRgtC10L3RiNC+0L3QuNC9IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjY2LmpwZyIsCmlkOiAiMjY2IiwKaGFzaDogImU3OWFmMzI3ZDJjZGQ0MjEiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiYXJjcyIsCnRpbWVfc3RhcnQ6IDEyNjAsCnRpdGxlOiAi0JLRgdGRINGC0L7Qu9GM0LrQviDQvdCw0YfQuNC90LDQtdGC0YHRjyIsCmRlc2NyaXB0aW9uOiAi0JfQsNCy0LXRgNGI0LjRgtC1IDEg0YHQtdC30L7QvSDQndCw0YDRg9GC0L4iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yNjcuanBnIiwKaWQ6ICIyNjciLApoYXNoOiAiODdiM2E4MmZhNDE3YTZjMSIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjY1LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzI2Ni5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yNjcuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 621,\ntitle: \"Совершенное оружие\",\ndescription: \"Сеймей побеждён\",\nicon: js_preres_url + \"/uploads/achievements/icons/265.jpg\",\nid: \"265\",\nhash: \"dc4ce4b026cee044\"\n});\r\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 876,\ntitle: \"Песок – наш союзник\",\ndescription: \"Завершите арку Шитеншонин\",\nicon: js_preres_url + \"/uploads/achievements/icons/266.jpg\",\nid: \"266\",\nhash: \"e79af327d2cdd421\"\n});\r\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 1260,\ntitle: \"Всё только начинается\",\ndescription: \"Завершите 1 сезон Наруто\",\nicon: js_preres_url + \"/uploads/achievements/icons/267.jpg\",\nid: \"267\",\nhash: \"87b3a82fa417a6c1\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/265.jpg\", js_preres_url + \"/uploads/achievements/icons/266.jpg\", js_preres_url + \"/uploads/achievements/icons/267.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 621,
+        "title": "Совершенное оружие",
+        "description": "Сеймей побеждён",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/265.jpg",
+        "id": "265",
+        "hash": "dc4ce4b026cee044"
+      },
+      {
+        "category": "arcs",
+        "time_start": 876,
+        "title": "Песок – наш союзник",
+        "description": "Завершите арку Шитеншонин",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/266.jpg",
+        "id": "266",
+        "hash": "e79af327d2cdd421"
+      },
+      {
+        "category": "arcs",
+        "time_start": 1260,
+        "title": "Всё только начинается",
+        "description": "Завершите 1 сезон Наруто",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/267.jpg",
+        "id": "267",
+        "hash": "87b3a82fa417a6c1"
+      }
+    ]
+  }
+}

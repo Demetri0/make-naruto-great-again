@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "26",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/963662940?i=963662941&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535488943?i=1535488948&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1568,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImNyZWRpdHMiLAp0aW1lX3N0YXJ0OiA4MCwKdGl0bGU6ICJIYXJ1a2EgS2FuYXRhIiwKZGVzY3JpcHRpb246ICLQn9GA0L7RgdC70YPRiNCw0LnRgtC1IDIg0L7Qv9C10L3QuNC90LMgMSDRgdC10LfQvtC90LAiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82NS5qcGciLAppZDogIjY1IiwKaGFzaDogIjlhY2ViYzdlNTgyNGU3ZDgiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogMTMwNiwKdGl0bGU6ICLQktGB0ZEg0L/RgNC+INCy0YHQtdGFIiwKZGVzY3JpcHRpb246ICLQn9C+0YHQvNC+0YLRgNC40YLQtSDRgNC10L/QvtGA0YLQsNC2INCa0L7QvdC+0YXQsNC80LDRgNGDIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjYuanBnIiwKaWQ6ICI2NiIsCmhhc2g6ICJlNzEwNTdjNWNmYTZiYTgwIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82NS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82Ni5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"credits\",\ntime_start: 80,\ntitle: \"Haruka Kanata\",\ndescription: \"Прослушайте 2 опенинг 1 сезона\",\nicon: js_preres_url + \"/uploads/achievements/icons/65.jpg\",\nid: \"65\",\nhash: \"9acebc7e5824e7d8\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1306,\ntitle: \"Всё про всех\",\ndescription: \"Посмотрите репортаж Конохамару\",\nicon: js_preres_url + \"/uploads/achievements/icons/66.jpg\",\nid: \"66\",\nhash: \"e71057c5cfa6ba80\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/65.jpg\", js_preres_url + \"/uploads/achievements/icons/66.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "credits",
+        "time_start": 80,
+        "title": "Haruka Kanata",
+        "description": "Прослушайте 2 опенинг 1 сезона",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/65.jpg",
+        "id": "65",
+        "hash": "9acebc7e5824e7d8"
+      },
+      {
+        "category": "events",
+        "time_start": 1306,
+        "title": "Всё про всех",
+        "description": "Посмотрите репортаж Конохамару",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/66.jpg",
+        "id": "66",
+        "hash": "e71057c5cfa6ba80"
+      }
+    ]
+  }
+}

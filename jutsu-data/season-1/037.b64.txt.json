@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "37",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/963662940?i=963662941&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535488943?i=1535488948&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1386,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDI1NiwKdGl0bGU6ICLQlNC+0LHRgNCw0LvQuNGB0YwiLApkZXNjcmlwdGlvbjogItCS0YLQvtGA0L7QuSDRjdGC0LDQvyDQt9Cw0LLQtdGA0YjRkdC9IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODYuanBnIiwKaWQ6ICI4NiIsCmhhc2g6ICI3MDA0MzAzZTkxMGI5YzVjIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDExOTgsCnRpdGxlOiAi0J/QvtC10LTQuNC90LrQuCIsCmRlc2NyaXB0aW9uOiAi0J3QsNGH0LDQu9GB0Y8g0L/RgNC+0LzQtdC20YPRgtC+0YfQvdGL0Lkg0Y3RgtCw0L8iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84Ny5qcGciLAppZDogIjg3IiwKaGFzaDogIjkzNjA1ZTU5ODUzYzc4NjAiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzg2LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzg3LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 256,\ntitle: \"Добрались\",\ndescription: \"Второй этап завершён\",\nicon: js_preres_url + \"/uploads/achievements/icons/86.jpg\",\nid: \"86\",\nhash: \"7004303e910b9c5c\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1198,\ntitle: \"Поединки\",\ndescription: \"Начался промежуточный этап\",\nicon: js_preres_url + \"/uploads/achievements/icons/87.jpg\",\nid: \"87\",\nhash: \"93605e59853c7860\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/86.jpg\", js_preres_url + \"/uploads/achievements/icons/87.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 256,
+        "title": "Добрались",
+        "description": "Второй этап завершён",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/86.jpg",
+        "id": "86",
+        "hash": "7004303e910b9c5c"
+      },
+      {
+        "category": "events",
+        "time_start": 1198,
+        "title": "Поединки",
+        "description": "Начался промежуточный этап",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/87.jpg",
+        "id": "87",
+        "hash": "93605e59853c7860"
+      }
+    ]
+  }
+}

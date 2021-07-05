@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "483",
+  "video_intro_start": 0,
+  "video_intro_end": 93,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1189707930?i=1189708057&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1173501808?i=1173501978&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1393,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDYyNCwKdGl0bGU6ICLQlNC+INCh0LDQvdC90LjQvdC+0LIiLApkZXNjcmlwdGlvbjogItCj0LfQvdCw0LnRgtC1INCx0L7Qu9GM0YjQtSDQviDQtNC10YLRgdGC0LLQtSDQlNC20LjRgNCw0LnQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzg0Ni5qcGciLAppZDogIjg0NiIsCmhhc2g6ICJjMWM1MzllMWI5NmVhMGU5Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEyNTAsCnRpdGxlOiAi0KLQvtGB0LrQsCDQv9C+INC+0YLRhtGDIiwKZGVzY3JpcHRpb246ICLQo9C30L3QsNC50YLQtSDQsdC+0LvRjNGI0LUg0L4g0LTQtdGC0YHRgtCy0LUg0JrQsNC60LDRiNC4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODQ3LmpwZyIsCmlkOiAiODQ3IiwKaGFzaDogIjM3MjBjMmI1YzczOTcxMzUiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiYXJjcyIsCnRpbWVfc3RhcnQ6IDEyNjYsCnRpdGxlOiAi0JHRi9C70L7QtSIsCmRlc2NyaXB0aW9uOiAi0JfQsNCy0LXRgNGI0LjRgtC1INCw0YDQutGDINC00LXRgtGB0YLQstCwIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODQ4LmpwZyIsCmlkOiAiODQ4IiwKaGFzaDogIjU4N2E2ODliMTU4YzM2YjIiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzg0Ni5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84NDcuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODQ4LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 624,\ntitle: \"До Саннинов\",\ndescription: \"Узнайте больше о детстве Джирайи\",\nicon: js_preres_url + \"/uploads/achievements/icons/846.jpg\",\nid: \"846\",\nhash: \"c1c539e1b96ea0e9\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1250,\ntitle: \"Тоска по отцу\",\ndescription: \"Узнайте больше о детстве Какаши\",\nicon: js_preres_url + \"/uploads/achievements/icons/847.jpg\",\nid: \"847\",\nhash: \"3720c2b5c7397135\"\n});\r\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 1266,\ntitle: \"Былое\",\ndescription: \"Завершите арку детства\",\nicon: js_preres_url + \"/uploads/achievements/icons/848.jpg\",\nid: \"848\",\nhash: \"587a689b158c36b2\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/846.jpg\", js_preres_url + \"/uploads/achievements/icons/847.jpg\", js_preres_url + \"/uploads/achievements/icons/848.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 624,
+        "title": "До Саннинов",
+        "description": "Узнайте больше о детстве Джирайи",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/846.jpg",
+        "id": "846",
+        "hash": "c1c539e1b96ea0e9"
+      },
+      {
+        "category": "events",
+        "time_start": 1250,
+        "title": "Тоска по отцу",
+        "description": "Узнайте больше о детстве Какаши",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/847.jpg",
+        "id": "847",
+        "hash": "3720c2b5c7397135"
+      },
+      {
+        "category": "arcs",
+        "time_start": 1266,
+        "title": "Былое",
+        "description": "Завершите арку детства",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/848.jpg",
+        "id": "848",
+        "hash": "587a689b158c36b2"
+      }
+    ]
+  }
+}

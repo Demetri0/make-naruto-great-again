@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "205",
+  "video_intro_start": 369,
+  "video_intro_end": 459,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/673586556?i=673586565&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 369,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1028930741?i=1028930747&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDY5MCwKdGl0bGU6ICLQk9C70LDQtyDQm9GD0L3RiyIsCmRlc2NyaXB0aW9uOiAi0JLRi9GB0LvRg9GI0LDQudGC0LUg0LzQvtC90L7Qu9C+0LMg0L4g0L/Qu9Cw0L3QsNGFINCi0L7QsdC4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTI4LmpwZyIsCmlkOiAiNTI4IiwKaGFzaDogImM0NDRhNDEyODMwNjVkMzYiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogODA3LAp0aXRsZTogItCT0YDRj9C00ZHRgiDQstC+0LnQvdCwIiwKZGVzY3JpcHRpb246ICLQkNC60LDRhtGD0LrQuCDQvtCx0YrRj9Cy0LvRj9GO0YIg0LLQvtC50L3RgyDQktC10LvQuNC60LjQvCDRgdGC0YDQsNC90LDQvCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUyOS5qcGciLAppZDogIjUyOSIsCmhhc2g6ICJlYmQzNDA1ZTA0MTA1MTg0Igp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MjguanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTI5LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 690,\ntitle: \"Глаз Луны\",\ndescription: \"Выслушайте монолог о планах Тоби\",\nicon: js_preres_url + \"/uploads/achievements/icons/528.jpg\",\nid: \"528\",\nhash: \"c444a41283065d36\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 807,\ntitle: \"Грядёт война\",\ndescription: \"Акацуки объявляют войну Великим странам\",\nicon: js_preres_url + \"/uploads/achievements/icons/529.jpg\",\nid: \"529\",\nhash: \"ebd3405e04105184\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/528.jpg\", js_preres_url + \"/uploads/achievements/icons/529.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 690,
+        "title": "Глаз Луны",
+        "description": "Выслушайте монолог о планах Тоби",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/528.jpg",
+        "id": "528",
+        "hash": "c444a41283065d36"
+      },
+      {
+        "category": "events",
+        "time_start": 807,
+        "title": "Грядёт война",
+        "description": "Акацуки объявляют войну Великим странам",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/529.jpg",
+        "id": "529",
+        "hash": "ebd3405e04105184"
+      }
+    ]
+  }
+}

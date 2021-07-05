@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "166",
+  "video_intro_start": 80,
+  "video_intro_end": 170,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1445023799?i=1445023978&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 80,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1297477596?i=1297478116&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDU1MSwKdGl0bGU6ICLQmtGA0L7RgtC60LjQuSDQvdGA0LDQsiwg0YHQuNC70YzQvdCw0Y8g0LLQvtC70Y8iLApkZXNjcmlwdGlvbjogItCl0LjQvdCw0YLQsCDQstGL0YHRgtGD0L/QsNC10YIg0L/RgNC+0YLQuNCyINCf0LXQudC90LAiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80NzUuanBnIiwKaWQ6ICI0NzUiLApoYXNoOiAiMGI0ODFiNjM1Mzk3NGViYSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJ0ZWNobmlxdWVzIiwKdGltZV9zdGFydDogNzQ1LAp0aXRsZTogItCU0LLRg9Cz0LvQsNCy0YvQuSDQu9C10LIiLApkZXNjcmlwdGlvbjogItCl0LjQvdCw0YLQsCDRgdGC0LDQu9CwINGB0LjQu9GM0L3QtdC1IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDc2LmpwZyIsCmlkOiAiNDc2IiwKaGFzaDogIjZjNjM5NzMzNDczNjI3NDkiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogNjQ3LAp0aXRsZTogItCf0YDQuNC30L3QsNC90LjQtSIsCmRlc2NyaXB0aW9uOiAi0KXQuNC90LDRgtCwINC/0YDQuNC30L3QsNGR0YLRgdGPINCd0LDRgNGD0YLQviDQsiDQu9GO0LHQstC4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDc3LmpwZyIsCmlkOiAiNDc3IiwKaGFzaDogImEyZmE0MzNiNjlkMmVhYmUiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ3NS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80NzYuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDc3LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 551,\ntitle: \"Кроткий нрав, сильная воля\",\ndescription: \"Хината выступает против Пейна\",\nicon: js_preres_url + \"/uploads/achievements/icons/475.jpg\",\nid: \"475\",\nhash: \"0b481b6353974eba\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 745,\ntitle: \"Двуглавый лев\",\ndescription: \"Хината стала сильнее\",\nicon: js_preres_url + \"/uploads/achievements/icons/476.jpg\",\nid: \"476\",\nhash: \"6c63973347362749\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 647,\ntitle: \"Признание\",\ndescription: \"Хината признаётся Наруто в любви\",\nicon: js_preres_url + \"/uploads/achievements/icons/477.jpg\",\nid: \"477\",\nhash: \"a2fa433b69d2eabe\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/475.jpg\", js_preres_url + \"/uploads/achievements/icons/476.jpg\", js_preres_url + \"/uploads/achievements/icons/477.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 551,
+        "title": "Кроткий нрав, сильная воля",
+        "description": "Хината выступает против Пейна",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/475.jpg",
+        "id": "475",
+        "hash": "0b481b6353974eba"
+      },
+      {
+        "category": "techniques",
+        "time_start": 745,
+        "title": "Двуглавый лев",
+        "description": "Хината стала сильнее",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/476.jpg",
+        "id": "476",
+        "hash": "6c63973347362749"
+      },
+      {
+        "category": "events",
+        "time_start": 647,
+        "title": "Признание",
+        "description": "Хината признаётся Наруто в любви",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/477.jpg",
+        "id": "477",
+        "hash": "a2fa433b69d2eabe"
+      }
+    ]
+  }
+}

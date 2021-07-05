@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "67",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1536963811?i=1536963815&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535485837?i=1535485838&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1395,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiA0NjcsCnRpdGxlOiAi0KfQuNC00L7RgNC4IiwKZGVzY3JpcHRpb246ICLQl9C90LDQvNC10L3QuNGC0LDRjyDQvNC+0LvQvdC40LXQvdC+0YHQvdCw0Y8g0YLQtdGF0L3QuNC60LAiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xMzIuanBnIiwKaWQ6ICIxMzIiLApoYXNoOiAiMDA2ZGNiZTFiYzQ1YTc3YSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJhcmNzIiwKdGltZV9zdGFydDogMTI1OSwKdGl0bGU6ICLQn9GA0LXRgNCy0LDQvdC90YvQuSDRjdC60LfQsNC80LXQvSIsCmRlc2NyaXB0aW9uOiAi0JfQsNCy0LXRgNGI0LjRgtC1INCw0YDQutGDINGN0LrQt9Cw0LzQtdC90LAg0KfRg9C90LjQvdCwIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTMzLmpwZyIsCmlkOiAiMTMzIiwKaGFzaDogImQ1ODczMGZjMjU0NTk2NWIiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzEzMi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xMzMuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 467,\ntitle: \"Чидори\",\ndescription: \"Знаменитая молниеносная техника\",\nicon: js_preres_url + \"/uploads/achievements/icons/132.jpg\",\nid: \"132\",\nhash: \"006dcbe1bc45a77a\"\n});\r\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 1259,\ntitle: \"Прерванный экзамен\",\ndescription: \"Завершите арку экзамена Чунина\",\nicon: js_preres_url + \"/uploads/achievements/icons/133.jpg\",\nid: \"133\",\nhash: \"d58730fc2545965b\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/132.jpg\", js_preres_url + \"/uploads/achievements/icons/133.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 467,
+        "title": "Чидори",
+        "description": "Знаменитая молниеносная техника",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/132.jpg",
+        "id": "132",
+        "hash": "006dcbe1bc45a77a"
+      },
+      {
+        "category": "arcs",
+        "time_start": 1259,
+        "title": "Прерванный экзамен",
+        "description": "Завершите арку экзамена Чунина",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/133.jpg",
+        "id": "133",
+        "hash": "d58730fc2545965b"
+      }
+    ]
+  }
+}

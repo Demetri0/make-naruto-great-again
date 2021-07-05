@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "123",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1059149210?i=1059149467&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": null,
+  "this_video_duration": 1388,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDU0OCwKdGl0bGU6ICLQktGB0YLQsNCyINC90LAg0L3QvtCz0LgiLApkZXNjcmlwdGlvbjogItCb0Lgg0L/RgNC40YXQvtC00LjRgiDQvdCwINC/0L7QvNC+0YnRjCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzIwNi5qcGciLAppZDogIjIwNiIsCmhhc2g6ICI0MWYyOTUzN2Q5NDQyNjhjIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiAxMjAyLAp0aXRsZTogItCf0YzRj9C90YvQuSDQutGD0LvQsNC6IiwKZGVzY3JpcHRpb246ICLQodCw0LzRi9C5INC40L3RgtC10YDQtdGB0L3Ri9C5INGB0YLQuNC70Ywg0LHQvtGPIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjA3LmpwZyIsCmlkOiAiMjA3IiwKaGFzaDogImY2Y2VlNTU4ODhkNjYwNGQiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzIwNi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yMDcuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 548,\ntitle: \"Встав на ноги\",\ndescription: \"Ли приходит на помощь\",\nicon: js_preres_url + \"/uploads/achievements/icons/206.jpg\",\nid: \"206\",\nhash: \"41f29537d944268c\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 1202,\ntitle: \"Пьяный кулак\",\ndescription: \"Самый интересный стиль боя\",\nicon: js_preres_url + \"/uploads/achievements/icons/207.jpg\",\nid: \"207\",\nhash: \"f6cee55888d6604d\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/206.jpg\", js_preres_url + \"/uploads/achievements/icons/207.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 548,
+        "title": "Встав на ноги",
+        "description": "Ли приходит на помощь",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/206.jpg",
+        "id": "206",
+        "hash": "41f29537d944268c"
+      },
+      {
+        "category": "techniques",
+        "time_start": 1202,
+        "title": "Пьяный кулак",
+        "description": "Самый интересный стиль боя",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/207.jpg",
+        "id": "207",
+        "hash": "f6cee55888d6604d"
+      }
+    ]
+  }
+}

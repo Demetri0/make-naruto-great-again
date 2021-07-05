@@ -1,0 +1,65 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "138",
+  "video_intro_start": 207,
+  "video_intro_end": 297,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1402641185?i=1402641459&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 207,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/337521814?i=337521818&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1329,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiA0NTAsCnRpdGxlOiAi0JrQuNGA0LjQvSIsCmRlc2NyaXB0aW9uOiAi0JPQvdC10LIg0L3QtdCx0LXRgSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ0Mi5qcGciLAppZDogIjQ0MiIsCmhhc2g6ICIwZWEzN2Y3OGUxNmI4YTk3Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiA2NDMsCnRpdGxlOiAi0KHRg9GB0LDQvdC+0L4iLApkZXNjcmlwdGlvbjogItCU0L7RgdC/0LXRhSDQo9GH0LjRhdCwIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDQzLmpwZyIsCmlkOiAiNDQzIiwKaGFzaDogImM2MDZjMmRjYjM2Njg2NmQiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogNzgxLAp0aXRsZTogItCT0LjQtNGA0LAiLApkZXNjcmlwdGlvbjogItCe0YDQvtGH0LjQvNCw0YDRgyDQstC10YDQvdGD0LvRgdGPPyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ0NC5qcGciLAppZDogIjQ0NCIsCmhhc2g6ICI4MzA1NzlmNjJlZjc0Mzc5Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiA4MzMsCnRpdGxlOiAi0KLQvtGG0YPQutCwIiwKZGVzY3JpcHRpb246ICLQl9Cw0L/QtdGH0LDRgtGL0LLQsNGO0YnQuNC5INC60LvQuNC90L7QuiIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ0NS5qcGciLAppZDogIjQ0NSIsCmhhc2g6ICJhY2E3MWQyNDIwZjA4YmQ0Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDExMTMsCnRpdGxlOiAi0J/QvtGB0LvQtdC00L3QuNC5INGA0LDQtyIsCmRlc2NyaXB0aW9uOiAi0JjRgtCw0YfQuCDQv9C+0LPQuNCx0LDQtdGCIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDQ2LmpwZyIsCmlkOiAiNDQ2IiwKaGFzaDogIjMyMGUwNGE1YzAxZjM1NGUiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ0Mi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80NDMuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDQ0LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ0NS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80NDYuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 450,\ntitle: \"Кирин\",\ndescription: \"Гнев небес\",\nicon: js_preres_url + \"/uploads/achievements/icons/442.jpg\",\nid: \"442\",\nhash: \"0ea37f78e16b8a97\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 643,\ntitle: \"Сусаноо\",\ndescription: \"Доспех Учиха\",\nicon: js_preres_url + \"/uploads/achievements/icons/443.jpg\",\nid: \"443\",\nhash: \"c606c2dcb366866d\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 781,\ntitle: \"Гидра\",\ndescription: \"Орочимару вернулся?\",\nicon: js_preres_url + \"/uploads/achievements/icons/444.jpg\",\nid: \"444\",\nhash: \"830579f62ef74379\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 833,\ntitle: \"Тоцука\",\ndescription: \"Запечатывающий клинок\",\nicon: js_preres_url + \"/uploads/achievements/icons/445.jpg\",\nid: \"445\",\nhash: \"aca71d2420f08bd4\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1113,\ntitle: \"Последний раз\",\ndescription: \"Итачи погибает\",\nicon: js_preres_url + \"/uploads/achievements/icons/446.jpg\",\nid: \"446\",\nhash: \"320e04a5c01f354e\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/442.jpg\", js_preres_url + \"/uploads/achievements/icons/443.jpg\", js_preres_url + \"/uploads/achievements/icons/444.jpg\", js_preres_url + \"/uploads/achievements/icons/445.jpg\", js_preres_url + \"/uploads/achievements/icons/446.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 450,
+        "title": "Кирин",
+        "description": "Гнев небес",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/442.jpg",
+        "id": "442",
+        "hash": "0ea37f78e16b8a97"
+      },
+      {
+        "category": "techniques",
+        "time_start": 643,
+        "title": "Сусаноо",
+        "description": "Доспех Учиха",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/443.jpg",
+        "id": "443",
+        "hash": "c606c2dcb366866d"
+      },
+      {
+        "category": "events",
+        "time_start": 781,
+        "title": "Гидра",
+        "description": "Орочимару вернулся?",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/444.jpg",
+        "id": "444",
+        "hash": "830579f62ef74379"
+      },
+      {
+        "category": "techniques",
+        "time_start": 833,
+        "title": "Тоцука",
+        "description": "Запечатывающий клинок",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/445.jpg",
+        "id": "445",
+        "hash": "aca71d2420f08bd4"
+      },
+      {
+        "category": "events",
+        "time_start": 1113,
+        "title": "Последний раз",
+        "description": "Итачи погибает",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/446.jpg",
+        "id": "446",
+        "hash": "320e04a5c01f354e"
+      }
+    ]
+  }
+}

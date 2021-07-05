@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "13",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://www.shazam.com/track/40834897",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1539173661?i=1539173662&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1400,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiAxMDY0LAp0aXRsZTogItCh0YLQuNGF0LjRjyDQm9GM0LTQsCIsCmRlc2NyaXB0aW9uOiAi0JfQsNC80L7RgNCw0LbQuNCy0LDRjtGJ0LjQtSDRgtC10YXQvdC40LrQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM2LmpwZyIsCmlkOiAiMzYiLApoYXNoOiAiOWUwNTFkZmYxYTFkOTJiNiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJxdW90ZXMiLAp0aW1lX3N0YXJ0OiA5OTgsCnRpdGxlOiAi0JfQsNGB0YLRg9C/0L3QuNC6IiwKZGVzY3JpcHRpb246ICLQktGL0YHQu9GD0YjQsNC50YLQtSDRgNC10YfRjCDQndCw0YDRg9GC0L4g0LTQu9GPINCY0L3QsNGA0LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zNy5qcGciLAppZDogIjM3IiwKaGFzaDogIjAyOGJjNzc3NjU1ZjM3OWQiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM2LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM3LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 1064,\ntitle: \"Стихия Льда\",\ndescription: \"Замораживающие техники\",\nicon: js_preres_url + \"/uploads/achievements/icons/36.jpg\",\nid: \"36\",\nhash: \"9e051dff1a1d92b6\"\n});\r\nthis_anime_achievements.push({\ncategory: \"quotes\",\ntime_start: 998,\ntitle: \"Заступник\",\ndescription: \"Выслушайте речь Наруто для Инари\",\nicon: js_preres_url + \"/uploads/achievements/icons/37.jpg\",\nid: \"37\",\nhash: \"028bc777655f379d\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/36.jpg\", js_preres_url + \"/uploads/achievements/icons/37.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 1064,
+        "title": "Стихия Льда",
+        "description": "Замораживающие техники",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/36.jpg",
+        "id": "36",
+        "hash": "9e051dff1a1d92b6"
+      },
+      {
+        "category": "quotes",
+        "time_start": 998,
+        "title": "Заступник",
+        "description": "Выслушайте речь Наруто для Инари",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/37.jpg",
+        "id": "37",
+        "hash": "028bc777655f379d"
+      }
+    ]
+  }
+}

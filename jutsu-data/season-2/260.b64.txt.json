@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "260",
+  "video_intro_start": 216,
+  "video_intro_end": 306,
+  "video_music_intro": null,
+  "video_outro_start": 216,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/520999153?i=520999157&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImFyY3MiLAp0aW1lX3N0YXJ0OiAxMjYyLAp0aXRsZTogItCd0L7QstCw0Y8g0L/QtdGH0LDRgtGMIiwKZGVzY3JpcHRpb246ICLQl9Cw0LLQtdGA0YjQuNGC0LUg0LDRgNC60YMg0L/RgNC40YDRg9GH0LXQvdC40Y8g0JTQtdCy0Y/RgtC40YXQstC+0YHRgtC+0LPQviIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU4My5qcGciLAppZDogIjU4MyIsCmhhc2g6ICI0Y2MyNGJhNTdkMDEyMmFhIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81ODMuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 1262,\ntitle: \"Новая печать\",\ndescription: \"Завершите арку приручения Девятихвостого\",\nicon: js_preres_url + \"/uploads/achievements/icons/583.jpg\",\nid: \"583\",\nhash: \"4cc24ba57d0122aa\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/583.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "arcs",
+        "time_start": 1262,
+        "title": "Новая печать",
+        "description": "Завершите арку приручения Девятихвостого",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/583.jpg",
+        "id": "583",
+        "hash": "4cc24ba57d0122aa"
+      }
+    ]
+  }
+}

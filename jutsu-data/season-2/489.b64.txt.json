@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "489",
+  "video_intro_start": 0,
+  "video_intro_end": 93,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1189707930?i=1189708057&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1538113636?i=1538113637&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1393,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDg1NiwKdGl0bGU6ICLQodC/0LXRhtC40LDQu9GM0L3QvtC1INC30LDQtNCw0L3QuNC1IiwKZGVzY3JpcHRpb246ICLQmtCw0LrQsNGI0Lgg0L/QvtGA0YPRh9Cw0LXRgiDQqNC40LrQsNC80LDRgNGDINC90L7QstGD0Y4g0LzQuNGB0YHQuNGOIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODU3LmpwZyIsCmlkOiAiODU3IiwKaGFzaDogIjA3ZDJjNzI2MDBlMDA0ZDIiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogODk3LAp0aXRsZTogItCe0L/Ri9GC0L3Ri9C5INCy0L7QuNC9IiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCg0L4iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84NTguanBnIiwKaWQ6ICI4NTgiLApoYXNoOiAiN2RmMjA4MGUzZDJkMWQ5NiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiA5NjUsCnRpdGxlOiAi0JTQtdGA0LfQutCw0Y8g0LTQtdCy0YfQvtC90LrQsCIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQodC+0LrRgyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzg1OS5qcGciLAppZDogIjg1OSIsCmhhc2g6ICJmZjViMGQxMTlmZTgxMTY2Igp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84NTcuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODU4LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzg1OS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 856,\ntitle: \"Специальное задание\",\ndescription: \"Какаши поручает Шикамару новую миссию\",\nicon: js_preres_url + \"/uploads/achievements/icons/857.jpg\",\nid: \"857\",\nhash: \"07d2c72600e004d2\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 897,\ntitle: \"Опытный воин\",\ndescription: \"Вы познакомились с Ро\",\nicon: js_preres_url + \"/uploads/achievements/icons/858.jpg\",\nid: \"858\",\nhash: \"7df2080e3d2d1d96\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 965,\ntitle: \"Дерзкая девчонка\",\ndescription: \"Вы познакомились с Соку\",\nicon: js_preres_url + \"/uploads/achievements/icons/859.jpg\",\nid: \"859\",\nhash: \"ff5b0d119fe81166\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/857.jpg\", js_preres_url + \"/uploads/achievements/icons/858.jpg\", js_preres_url + \"/uploads/achievements/icons/859.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 856,
+        "title": "Специальное задание",
+        "description": "Какаши поручает Шикамару новую миссию",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/857.jpg",
+        "id": "857",
+        "hash": "07d2c72600e004d2"
+      },
+      {
+        "category": "heroes",
+        "time_start": 897,
+        "title": "Опытный воин",
+        "description": "Вы познакомились с Ро",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/858.jpg",
+        "id": "858",
+        "hash": "7df2080e3d2d1d96"
+      },
+      {
+        "category": "heroes",
+        "time_start": 965,
+        "title": "Дерзкая девчонка",
+        "description": "Вы познакомились с Соку",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/859.jpg",
+        "id": "859",
+        "hash": "ff5b0d119fe81166"
+      }
+    ]
+  }
+}

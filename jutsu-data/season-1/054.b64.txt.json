@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "54",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1536963811?i=1536963815&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1537386692?i=1537386697&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1387,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImNyZWRpdHMiLAp0aW1lX3N0YXJ0OiA4MCwKdGl0bGU6ICJNb2lra2FpLCBNb2lra2FpIiwKZGVzY3JpcHRpb246ICLQn9GA0L7RgdC70YPRiNCw0LnRgtC1IDMg0L7Qv9C10L3QuNC90LMgMSDRgdC10LfQvtC90LAiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xMTkuanBnIiwKaWQ6ICIxMTkiLApoYXNoOiAiMTQyZGI1NDA2OTY5NGNiZCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiA1NTMsCnRpdGxlOiAi0JfQstGD0Log0Lgg0J/QtdGB0L7QuiIsCmRlc2NyaXB0aW9uOiAi0KPQt9C90LDQudGC0LUg0L4g0LfQsNCz0L7QstC+0YDQtSDQtNCy0YPRhSDQtNC10YDQtdCy0LXQvdGMIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTIwLmpwZyIsCmlkOiAiMTIwIiwKaGFzaDogIjQxYzllN2E5ZDcwMmFhNzQiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogODc1LAp0aXRsZTogItCh0YLQsNC90L7QstGP0YHRjCDQu9GD0YfRiNC1IiwKZGVzY3JpcHRpb246ICLQndCw0YDRg9GC0L4g0L3QsNGH0LjQvdCw0LXRgiDRgtGA0LXQvdC40YDQvtCy0LDRgtGMINC/0YDQuNC30YvQsiIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzEyMS5qcGciLAppZDogIjEyMSIsCmhhc2g6ICIxYWQyM2QzZmI5ZWZiNTJhIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xMTkuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTIwLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzEyMS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"credits\",\ntime_start: 80,\ntitle: \"Moikkai, Moikkai\",\ndescription: \"Прослушайте 3 опенинг 1 сезона\",\nicon: js_preres_url + \"/uploads/achievements/icons/119.jpg\",\nid: \"119\",\nhash: \"142db54069694cbd\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 553,\ntitle: \"Звук и Песок\",\ndescription: \"Узнайте о заговоре двух деревень\",\nicon: js_preres_url + \"/uploads/achievements/icons/120.jpg\",\nid: \"120\",\nhash: \"41c9e7a9d702aa74\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 875,\ntitle: \"Становясь лучше\",\ndescription: \"Наруто начинает тренировать призыв\",\nicon: js_preres_url + \"/uploads/achievements/icons/121.jpg\",\nid: \"121\",\nhash: \"1ad23d3fb9efb52a\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/119.jpg\", js_preres_url + \"/uploads/achievements/icons/120.jpg\", js_preres_url + \"/uploads/achievements/icons/121.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "credits",
+        "time_start": 80,
+        "title": "Moikkai, Moikkai",
+        "description": "Прослушайте 3 опенинг 1 сезона",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/119.jpg",
+        "id": "119",
+        "hash": "142db54069694cbd"
+      },
+      {
+        "category": "events",
+        "time_start": 553,
+        "title": "Звук и Песок",
+        "description": "Узнайте о заговоре двух деревень",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/120.jpg",
+        "id": "120",
+        "hash": "41c9e7a9d702aa74"
+      },
+      {
+        "category": "events",
+        "time_start": 875,
+        "title": "Становясь лучше",
+        "description": "Наруто начинает тренировать призыв",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/121.jpg",
+        "id": "121",
+        "hash": "1ad23d3fb9efb52a"
+      }
+    ]
+  }
+}

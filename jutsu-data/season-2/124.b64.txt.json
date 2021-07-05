@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "124",
+  "video_intro_start": 148,
+  "video_intro_end": 238,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/675163738?i=675163992&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 148,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1501689372?i=1501689393&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInF1b3RlcyIsCnRpbWVfc3RhcnQ6IDEyMTcsCnRpdGxlOiAi0JjQsdC+INC80L7RkSDQuNGB0LrRg9GB0YHRgtCy0L4iLApkZXNjcmlwdGlvbjogItCS0YvRgdC70YPRiNCw0LnRgtC1INC80L7QvdC+0LvQvtCzINCU0LXQudC00LDRgNGLIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDE4LmpwZyIsCmlkOiAiNDE4IiwKaGFzaDogIjJjMzI2MjkzOTBiYzAzOGEiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAidGVjaG5pcXVlcyIsCnRpbWVfc3RhcnQ6IDEyMzksCnRpdGxlOiAi0K3QotCeINCS0JfQoNCr0JIiLApkZXNjcmlwdGlvbjogItCQ0LHRgdC+0LvRjtGC0L3QvtC1INC40YHQutGD0YHRgdGC0LLQviIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQxOS5qcGciLAppZDogIjQxOSIsCmhhc2g6ICIyMWMwOThiZDk1ZmVlYzJhIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEyNjEsCnRpdGxlOiAi0KHQvNC10YDRgtGMINGC0LLQvtGA0YbQsCIsCmRlc2NyaXB0aW9uOiAi0JTQtdC50LTQsNGA0LAg0L/QvtCz0LjQsdCw0LXRgiIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQyMC5qcGciLAppZDogIjQyMCIsCmhhc2g6ICIxYjcyMWEzMzQ3Njk0MmE1Igp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80MTguanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDE5LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQyMC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"quotes\",\ntime_start: 1217,\ntitle: \"Ибо моё искусство\",\ndescription: \"Выслушайте монолог Дейдары\",\nicon: js_preres_url + \"/uploads/achievements/icons/418.jpg\",\nid: \"418\",\nhash: \"2c32629390bc038a\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 1239,\ntitle: \"ЭТО ВЗРЫВ\",\ndescription: \"Абсолютное искусство\",\nicon: js_preres_url + \"/uploads/achievements/icons/419.jpg\",\nid: \"419\",\nhash: \"21c098bd95feec2a\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1261,\ntitle: \"Смерть творца\",\ndescription: \"Дейдара погибает\",\nicon: js_preres_url + \"/uploads/achievements/icons/420.jpg\",\nid: \"420\",\nhash: \"1b721a33476942a5\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/418.jpg\", js_preres_url + \"/uploads/achievements/icons/419.jpg\", js_preres_url + \"/uploads/achievements/icons/420.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "quotes",
+        "time_start": 1217,
+        "title": "Ибо моё искусство",
+        "description": "Выслушайте монолог Дейдары",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/418.jpg",
+        "id": "418",
+        "hash": "2c32629390bc038a"
+      },
+      {
+        "category": "techniques",
+        "time_start": 1239,
+        "title": "ЭТО ВЗРЫВ",
+        "description": "Абсолютное искусство",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/419.jpg",
+        "id": "419",
+        "hash": "21c098bd95feec2a"
+      },
+      {
+        "category": "events",
+        "time_start": 1261,
+        "title": "Смерть творца",
+        "description": "Дейдара погибает",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/420.jpg",
+        "id": "420",
+        "hash": "1b721a33476942a5"
+      }
+    ]
+  }
+}

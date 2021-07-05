@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "292",
+  "video_intro_start": 95,
+  "video_intro_end": 185,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1409861532?i=1409861550&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 95,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535529109?i=1535529112&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImh1bW9yIiwKdGltZV9zdGFydDogNDQ0LAp0aXRsZTogItCi0LLQvtGA0LXRhiDQuCDQsdC10YHRgdC80LXRgNGC0L3Ri9C5IiwKZGVzY3JpcHRpb246ICLQmNC8INC90LUg0L/QvtC70LDQtNC40YLRjCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzYzMy5qcGciLAppZDogIjYzMyIsCmhhc2g6ICIzOWYwYTQ3MTJlNTA2MDIzIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEyMDEsCnRpdGxlOiAi0JvQttC1LdCU0LXQstGP0YLQuNGF0LLQvtGB0YLRi9C5IiwKZGVzY3JpcHRpb246ICLQndCw0YDRg9GC0L4g0L/RgNC+0YLQuNCyINGC0LDQutC+0LPQviDQttC1LCDQutCw0Log0L7QvSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzYzNC5qcGciLAppZDogIjYzNCIsCmhhc2g6ICJjYjY3MTE4Y2ZmZjZiNTE4Igp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82MzMuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjM0LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 444,\ntitle: \"Творец и бессмертный\",\ndescription: \"Им не поладить\",\nicon: js_preres_url + \"/uploads/achievements/icons/633.jpg\",\nid: \"633\",\nhash: \"39f0a4712e506023\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1201,\ntitle: \"Лже-Девятихвостый\",\ndescription: \"Наруто против такого же, как он\",\nicon: js_preres_url + \"/uploads/achievements/icons/634.jpg\",\nid: \"634\",\nhash: \"cb67118cfff6b518\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/633.jpg\", js_preres_url + \"/uploads/achievements/icons/634.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "humor",
+        "time_start": 444,
+        "title": "Творец и бессмертный",
+        "description": "Им не поладить",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/633.jpg",
+        "id": "633",
+        "hash": "39f0a4712e506023"
+      },
+      {
+        "category": "events",
+        "time_start": 1201,
+        "title": "Лже-Девятихвостый",
+        "description": "Наруто против такого же, как он",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/634.jpg",
+        "id": "634",
+        "hash": "cb67118cfff6b518"
+      }
+    ]
+  }
+}

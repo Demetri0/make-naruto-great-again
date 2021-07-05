@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "109",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1059149210?i=1059149467&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://www.shazam.com/track/78050754",
+  "this_video_duration": 1388,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlYW1zIiwKdGltZV9zdGFydDogNjcyLAp0aXRsZTogItCn0LXRgtCy0ZHRgNC60LAg0JfQstGD0LrQsCIsCmRlc2NyaXB0aW9uOiAi0JvRg9GH0YjQuNC1INC/0L7QtNGH0LjQvdGR0L3QvdGL0LUg0J7RgNC+0YfQuNC80LDRgNGDIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTkxLmpwZyIsCmlkOiAiMTkxIiwKaGFzaDogImMwZDhjOGUwZDJkODAwYzciCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogMTI1OSwKdGl0bGU6ICLQn9GA0L7RidCw0L3QuNC1INC/0L7QtCDRiNGD0Lwg0LLQtdGC0YDQsCIsCmRlc2NyaXB0aW9uOiAi0KHQsNGB0LrQtSDQv9C+0LrQuNC00LDQtdGCINCb0LjRgdGCIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTkyLmpwZyIsCmlkOiAiMTkyIiwKaGFzaDogIjRhZGIxZjNlNjAwZWNhNzMiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzE5MS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xOTIuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"teams\",\ntime_start: 672,\ntitle: \"Четвёрка Звука\",\ndescription: \"Лучшие подчинённые Орочимару\",\nicon: js_preres_url + \"/uploads/achievements/icons/191.jpg\",\nid: \"191\",\nhash: \"c0d8c8e0d2d800c7\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1259,\ntitle: \"Прощание под шум ветра\",\ndescription: \"Саске покидает Лист\",\nicon: js_preres_url + \"/uploads/achievements/icons/192.jpg\",\nid: \"192\",\nhash: \"4adb1f3e600eca73\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/191.jpg\", js_preres_url + \"/uploads/achievements/icons/192.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "teams",
+        "time_start": 672,
+        "title": "Четвёрка Звука",
+        "description": "Лучшие подчинённые Орочимару",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/191.jpg",
+        "id": "191",
+        "hash": "c0d8c8e0d2d800c7"
+      },
+      {
+        "category": "events",
+        "time_start": 1259,
+        "title": "Прощание под шум ветра",
+        "description": "Саске покидает Лист",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/192.jpg",
+        "id": "192",
+        "hash": "4adb1f3e600eca73"
+      }
+    ]
+  }
+}

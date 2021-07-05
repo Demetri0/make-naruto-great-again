@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "202",
+  "video_intro_start": 275,
+  "video_intro_end": 365,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/673586556?i=673586565&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 275,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1028930741?i=1028930747&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDExNjgsCnRpdGxlOiAi0KHQtdC90YHQvtGAINCg0LDQudC60LDQs9C1IiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCo0LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MTUuanBnIiwKaWQ6ICI1MTUiLApoYXNoOiAiM2NjMmNkNDMyOWQ5NTk2NyIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiA1NTksCnRpdGxlOiAi0J/RgNCw0LLQsNGPINGA0YPQutCwINCg0LDQudC60LDQs9C1IiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCU0LDRgNGD0LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MTYuanBnIiwKaWQ6ICI1MTYiLApoYXNoOiAiMzFlOGE5NjMwOGFlYmJlOSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJodW1vciIsCnRpbWVfc3RhcnQ6IDEyNDEsCnRpdGxlOiAi0JrRgtC+INGB0LvQtdC00YPRjtGJ0LjQuT8iLApkZXNjcmlwdGlvbjogItCS0L/QtdGH0LDRgtCw0LXRgtGB0Y8g0LIg0YHRgtC10L3RgyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUxNy5qcGciLAppZDogIjUxNyIsCmhhc2g6ICJjMzBjNzRhMDNlNGM0Y2QwIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MTUuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTE2LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUxNy5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1168,\ntitle: \"Сенсор Райкаге\",\ndescription: \"Вы познакомились с Ши\",\nicon: js_preres_url + \"/uploads/achievements/icons/515.jpg\",\nid: \"515\",\nhash: \"3cc2cd4329d95967\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 559,\ntitle: \"Правая рука Райкаге\",\ndescription: \"Вы познакомились с Даруи\",\nicon: js_preres_url + \"/uploads/achievements/icons/516.jpg\",\nid: \"516\",\nhash: \"31e8a96308aebbe9\"\n});\r\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 1241,\ntitle: \"Кто следующий?\",\ndescription: \"Впечатается в стену\",\nicon: js_preres_url + \"/uploads/achievements/icons/517.jpg\",\nid: \"517\",\nhash: \"c30c74a03e4c4cd0\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/515.jpg\", js_preres_url + \"/uploads/achievements/icons/516.jpg\", js_preres_url + \"/uploads/achievements/icons/517.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 1168,
+        "title": "Сенсор Райкаге",
+        "description": "Вы познакомились с Ши",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/515.jpg",
+        "id": "515",
+        "hash": "3cc2cd4329d95967"
+      },
+      {
+        "category": "heroes",
+        "time_start": 559,
+        "title": "Правая рука Райкаге",
+        "description": "Вы познакомились с Даруи",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/516.jpg",
+        "id": "516",
+        "hash": "31e8a96308aebbe9"
+      },
+      {
+        "category": "humor",
+        "time_start": 1241,
+        "title": "Кто следующий?",
+        "description": "Впечатается в стену",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/517.jpg",
+        "id": "517",
+        "hash": "c30c74a03e4c4cd0"
+      }
+    ]
+  }
+}

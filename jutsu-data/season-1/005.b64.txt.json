@@ -1,0 +1,65 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "5",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://www.shazam.com/track/40834897",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1539173661?i=1539173662&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1400,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiAxMTU3LAp0aXRsZTogItCh0YLQuNGF0LjRjyDQnNC+0LvQvdC40LgiLApkZXNjcmlwdGlvbjogItCa0LDRgNCw0Y7RidC10LUg0Y3Qu9C10LrRgtGA0LjRh9C10YHRgtCy0L4iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xNS5qcGciLAppZDogIjE1IiwKaGFzaDogImNhNzhkNjJhZDA4OTIyOTkiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogOTg0LAp0aXRsZTogItCh0YLRgNC+0LPQuNC5INGD0YfQuNGC0LXQu9GMIiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCa0LDQutCw0YjQuCDQpdCw0YLQsNC60LUiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xNi5qcGciLAppZDogIjE2IiwKaGFzaDogIjllODBhZmZhOTEyNDRhZWUiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAicXVvdGVzIiwKdGltZV9zdGFydDogMTIzMCwKdGl0bGU6ICLQpdGD0LbQtSDQvNGD0YHQvtGA0LAiLApkZXNjcmlwdGlvbjogItCS0YvRgdC70YPRiNCw0LnRgtC1INC80L7QvdC+0LvQvtCzINCa0LDQutCw0YjQuCDQviDQvdC40L3QtNC30Y8iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xNy5qcGciLAppZDogIjE3IiwKaGFzaDogIjhjMjc3YmM1NTA2MTlmODAiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogMTIwMiwKdGl0bGU6ICLQktGLINC/0YDQvtGI0LvQuCIsCmRlc2NyaXB0aW9uOiAi0KLQtdC/0LXRgNGMINCa0L7QvNCw0L3QtNCwIDcg4oCTINC90LjQvdC00LfRjyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzE4LmpwZyIsCmlkOiAiMTgiLApoYXNoOiAiOTIzMGJhZGUxZmU5ODEwNSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJhcmNzIiwKdGltZV9zdGFydDogMTI3OCwKdGl0bGU6ICLQn9GA0L7Qu9C+0LMiLApkZXNjcmlwdGlvbjogItCX0LDQstC10YDRiNC40YLQtSDQstCy0LXQtNC10L3QuNC1IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTkuanBnIiwKaWQ6ICIxOSIsCmhhc2g6ICI2N2IzY2E2ZDAwMjE2Nzk1Igp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xNS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xNi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xNy5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xOC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xOS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 1157,\ntitle: \"Стихия Молнии\",\ndescription: \"Карающее электричество\",\nicon: js_preres_url + \"/uploads/achievements/icons/15.jpg\",\nid: \"15\",\nhash: \"ca78d62ad0892299\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 984,\ntitle: \"Строгий учитель\",\ndescription: \"Вы познакомились с Какаши Хатаке\",\nicon: js_preres_url + \"/uploads/achievements/icons/16.jpg\",\nid: \"16\",\nhash: \"9e80affa91244aee\"\n});\r\nthis_anime_achievements.push({\ncategory: \"quotes\",\ntime_start: 1230,\ntitle: \"Хуже мусора\",\ndescription: \"Выслушайте монолог Какаши о ниндзя\",\nicon: js_preres_url + \"/uploads/achievements/icons/17.jpg\",\nid: \"17\",\nhash: \"8c277bc550619f80\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1202,\ntitle: \"Вы прошли\",\ndescription: \"Теперь Команда 7 – ниндзя\",\nicon: js_preres_url + \"/uploads/achievements/icons/18.jpg\",\nid: \"18\",\nhash: \"9230bade1fe98105\"\n});\r\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 1278,\ntitle: \"Пролог\",\ndescription: \"Завершите введение\",\nicon: js_preres_url + \"/uploads/achievements/icons/19.jpg\",\nid: \"19\",\nhash: \"67b3ca6d00216795\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/15.jpg\", js_preres_url + \"/uploads/achievements/icons/16.jpg\", js_preres_url + \"/uploads/achievements/icons/17.jpg\", js_preres_url + \"/uploads/achievements/icons/18.jpg\", js_preres_url + \"/uploads/achievements/icons/19.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 1157,
+        "title": "Стихия Молнии",
+        "description": "Карающее электричество",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/15.jpg",
+        "id": "15",
+        "hash": "ca78d62ad0892299"
+      },
+      {
+        "category": "heroes",
+        "time_start": 984,
+        "title": "Строгий учитель",
+        "description": "Вы познакомились с Какаши Хатаке",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/16.jpg",
+        "id": "16",
+        "hash": "9e80affa91244aee"
+      },
+      {
+        "category": "quotes",
+        "time_start": 1230,
+        "title": "Хуже мусора",
+        "description": "Выслушайте монолог Какаши о ниндзя",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/17.jpg",
+        "id": "17",
+        "hash": "8c277bc550619f80"
+      },
+      {
+        "category": "events",
+        "time_start": 1202,
+        "title": "Вы прошли",
+        "description": "Теперь Команда 7 – ниндзя",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/18.jpg",
+        "id": "18",
+        "hash": "9230bade1fe98105"
+      },
+      {
+        "category": "arcs",
+        "time_start": 1278,
+        "title": "Пролог",
+        "description": "Завершите введение",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/19.jpg",
+        "id": "19",
+        "hash": "67b3ca6d00216795"
+      }
+    ]
+  }
+}

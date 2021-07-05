@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "110",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1059149210?i=1059149467&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://www.shazam.com/track/78050754",
+  "this_video_duration": 1511,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlYW1zIiwKdGltZV9zdGFydDogOTQwLAp0aXRsZTogItCe0YLRgNGP0LQg0KjQuNC60LDQvNCw0YDRgyIsCmRlc2NyaXB0aW9uOiAi0J/QviDRgdC70LXQtNCw0Lwg0KHQsNGB0LrQtSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzE5My5qcGciLAppZDogIjE5MyIsCmhhc2g6ICJjYTQ5NWZjOTcwZmNjZDExIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInF1b3RlcyIsCnRpbWVfc3RhcnQ6IDExODUsCnRpdGxlOiAi0K8g0LLQtdGA0L3RgyDQtdCz0L4hIiwKZGVzY3JpcHRpb246ICLQndCw0YDRg9GC0L4g0LTQsNC7INC+0LHQtdGJ0LDQvdC40LUg0KHQsNC60YPRgNC1IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMTk0LmpwZyIsCmlkOiAiMTk0IiwKaGFzaDogIjNlYmE1ZGRkMzg2NmIxMzMiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzE5My5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xOTQuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"teams\",\ntime_start: 940,\ntitle: \"Отряд Шикамару\",\ndescription: \"По следам Саске\",\nicon: js_preres_url + \"/uploads/achievements/icons/193.jpg\",\nid: \"193\",\nhash: \"ca495fc970fccd11\"\n});\r\nthis_anime_achievements.push({\ncategory: \"quotes\",\ntime_start: 1185,\ntitle: \"Я верну его!\",\ndescription: \"Наруто дал обещание Сакуре\",\nicon: js_preres_url + \"/uploads/achievements/icons/194.jpg\",\nid: \"194\",\nhash: \"3eba5ddd3866b133\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/193.jpg\", js_preres_url + \"/uploads/achievements/icons/194.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "teams",
+        "time_start": 940,
+        "title": "Отряд Шикамару",
+        "description": "По следам Саске",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/193.jpg",
+        "id": "193",
+        "hash": "ca495fc970fccd11"
+      },
+      {
+        "category": "quotes",
+        "time_start": 1185,
+        "title": "Я верну его!",
+        "description": "Наруто дал обещание Сакуре",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/194.jpg",
+        "id": "194",
+        "hash": "3eba5ddd3866b133"
+      }
+    ]
+  }
+}

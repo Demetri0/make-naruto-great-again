@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "222",
+  "video_intro_start": 253,
+  "video_intro_end": 343,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/550296634?i=550296638&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 253,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/673554732?i=673554737&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEwMjUsCnRpdGxlOiAi0JDQu9GM0Y/QvdGBINC90LjQvdC00LfRjyIsCmRlc2NyaXB0aW9uOiAi0JLQtdC70LjQutC40LUg0YHRgtGA0LDQvdGLINC30LDQutC70Y7Rh9Cw0Y7RgiDRgdC+0Y7QtyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU0Ni5qcGciLAppZDogIjU0NiIsCmhhc2g6ICIwYzYyMGVmYjBlNjdhZmM0Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImFyY3MiLAp0aW1lX3N0YXJ0OiAxMjYzLAp0aXRsZTogItCh0L7QsdGA0LDQvdC40LUg0L3QsCDQstGL0YHRiNC10Lwg0YPRgNC+0LLQvdC1IiwKZGVzY3JpcHRpb246ICLQl9Cw0LLQtdGA0YjQuNGC0LUg0LDRgNC60YMg0KHQvtCy0LXRgtCwINCf0Y/RgtC4INCa0LDQs9C1IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTQ3LmpwZyIsCmlkOiAiNTQ3IiwKaGFzaDogIjQ4ZDM2MTgzYTkyOTBiMDYiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU0Ni5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81NDcuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1025,\ntitle: \"Альянс ниндзя\",\ndescription: \"Великие страны заключают союз\",\nicon: js_preres_url + \"/uploads/achievements/icons/546.jpg\",\nid: \"546\",\nhash: \"0c620efb0e67afc4\"\n});\r\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 1263,\ntitle: \"Собрание на высшем уровне\",\ndescription: \"Завершите арку Совета Пяти Каге\",\nicon: js_preres_url + \"/uploads/achievements/icons/547.jpg\",\nid: \"547\",\nhash: \"48d36183a9290b06\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/546.jpg\", js_preres_url + \"/uploads/achievements/icons/547.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 1025,
+        "title": "Альянс ниндзя",
+        "description": "Великие страны заключают союз",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/546.jpg",
+        "id": "546",
+        "hash": "0c620efb0e67afc4"
+      },
+      {
+        "category": "arcs",
+        "time_start": 1263,
+        "title": "Собрание на высшем уровне",
+        "description": "Завершите арку Совета Пяти Каге",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/547.jpg",
+        "id": "547",
+        "hash": "48d36183a9290b06"
+      }
+    ]
+  }
+}

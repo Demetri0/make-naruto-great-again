@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "119",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/675163738?i=675163992&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1501689372?i=1501689393&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDEzNSwKdGl0bGU6ICLQltGR0LvRgtCw0Y8g0JzQvtC70L3QuNGPIiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCc0LjQvdCw0YLQviDQndCw0LzQuNC60LDQt9C1IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDA3LmpwZyIsCmlkOiAiNDA3IiwKaGFzaDogImVkYTNhNjkxNTJkMDI5YTYiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogMTcxLAp0aXRsZTogItCj0YHQv9C+0LrQvtC50YLQtdGB0Ywg0L7QsdCwIiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCg0LjQvSDQndC+0YXQsNGA0L7QuSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQwOC5qcGciLAppZDogIjQwOCIsCmhhc2g6ICI2ZmU4YjYzZjVhZDlkMDZiIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDE2MywKdGl0bGU6ICLQktGB0ZEg0LLQv9C10YDQtdC00LgiLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0J7QsdC40YLQviDQo9GH0LjRhdC+0LkiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80MDkuanBnIiwKaWQ6ICI0MDkiLApoYXNoOiAiMzQ1ZTE5ZWVjYzQ2Njg1OCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJxdW90ZXMiLAp0aW1lX3N0YXJ0OiAxMjMyLAp0aXRsZTogItCd0LDRgdGC0L7Rj9GJ0LjQuSDQvNGD0YHQvtGAIiwKZGVzY3JpcHRpb246ICLQodC70L7QstCwLCDQutC+0YLQvtGA0YvQtSDQt9Cw0L/QvtC80L3QuNGCINCa0LDQutCw0YjQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQxMC5qcGciLAppZDogIjQxMCIsCmhhc2g6ICJhYTEwYTU3ZjFlZWFjNGNkIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80MDcuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDA4LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQwOS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80MTAuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 135,\ntitle: \"Жёлтая Молния\",\ndescription: \"Вы познакомились с Минато Намиказе\",\nicon: js_preres_url + \"/uploads/achievements/icons/407.jpg\",\nid: \"407\",\nhash: \"eda3a69152d029a6\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 171,\ntitle: \"Успокойтесь оба\",\ndescription: \"Вы познакомились с Рин Нохарой\",\nicon: js_preres_url + \"/uploads/achievements/icons/408.jpg\",\nid: \"408\",\nhash: \"6fe8b63f5ad9d06b\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 163,\ntitle: \"Всё впереди\",\ndescription: \"Вы познакомились с Обито Учихой\",\nicon: js_preres_url + \"/uploads/achievements/icons/409.jpg\",\nid: \"409\",\nhash: \"345e19eecc466858\"\n});\r\nthis_anime_achievements.push({\ncategory: \"quotes\",\ntime_start: 1232,\ntitle: \"Настоящий мусор\",\ndescription: \"Слова, которые запомнит Какаши\",\nicon: js_preres_url + \"/uploads/achievements/icons/410.jpg\",\nid: \"410\",\nhash: \"aa10a57f1eeac4cd\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/407.jpg\", js_preres_url + \"/uploads/achievements/icons/408.jpg\", js_preres_url + \"/uploads/achievements/icons/409.jpg\", js_preres_url + \"/uploads/achievements/icons/410.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 135,
+        "title": "Жёлтая Молния",
+        "description": "Вы познакомились с Минато Намиказе",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/407.jpg",
+        "id": "407",
+        "hash": "eda3a69152d029a6"
+      },
+      {
+        "category": "heroes",
+        "time_start": 171,
+        "title": "Успокойтесь оба",
+        "description": "Вы познакомились с Рин Нохарой",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/408.jpg",
+        "id": "408",
+        "hash": "6fe8b63f5ad9d06b"
+      },
+      {
+        "category": "heroes",
+        "time_start": 163,
+        "title": "Всё впереди",
+        "description": "Вы познакомились с Обито Учихой",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/409.jpg",
+        "id": "409",
+        "hash": "345e19eecc466858"
+      },
+      {
+        "category": "quotes",
+        "time_start": 1232,
+        "title": "Настоящий мусор",
+        "description": "Слова, которые запомнит Какаши",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/410.jpg",
+        "id": "410",
+        "hash": "aa10a57f1eeac4cd"
+      }
+    ]
+  }
+}

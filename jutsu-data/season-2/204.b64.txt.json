@@ -1,0 +1,74 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "204",
+  "video_intro_start": 276,
+  "video_intro_end": 366,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/673586556?i=673586565&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 276,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1028930741?i=1028930747&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiA3MTAsCnRpdGxlOiAi0KHRgtC40YXQuNGPINCb0LDQstGLIiwKZGVzY3JpcHRpb246ICLQk9C+0YDRj9GH0LjQtSDRgtC10YXQvdC40LrQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUyMi5qcGciLAppZDogIjUyMiIsCmhhc2g6ICIxNWIyMGRkNzVjY2I5ZTNiIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiAxMTcyLAp0aXRsZTogItCh0YLQuNGF0LjRjyDQn9GL0LvQuCIsCmRlc2NyaXB0aW9uOiAi0KDQsNGB0YnQtdC/0LvQtdC90LjQtSDQvdCwINCw0YLQvtC80YsiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MjMuanBnIiwKaWQ6ICI1MjMiLApoYXNoOiAiYjA2MzBhYzhjMzEzNjg2ZCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJ0ZWNobmlxdWVzIiwKdGltZV9zdGFydDogOTMxLAp0aXRsZTogItCh0YLQuNGF0LjRjyDQn9Cw0YDQsCIsCmRlc2NyaXB0aW9uOiAi0JXQtNC60LDRjyDQutC40YHQu9C+0YLQsCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUyNC5qcGciLAppZDogIjUyNCIsCmhhc2g6ICI5YTBkMWYwOGZjY2EzNzE4Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDc1OCwKdGl0bGU6ICLQoNC+0LrQvtCy0LDRjyDQutGA0LDRgdC+0YLQsCIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQnNC10Lkg0KLQtdGA0YPQvNC4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTI1LmpwZyIsCmlkOiAiNTI1IiwKaGFzaDogIjk3YzdlMDhlZjc0MDQyYTkiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogMTEyNywKdGl0bGU6ICLQmtCw0LzQtdC90L3QsNGPINCy0L7Qu9GPIiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCe0L3QvtC60LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MjYuanBnIiwKaWQ6ICI1MjYiLApoYXNoOiAiZDllODgyNWQ3ZmU3ZjBmMCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiAxMDg4LAp0aXRsZTogItCh0LLQuNGC0LAg0KbRg9GH0LjQutCw0LPQtSIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQkNC60LDRhtGD0YfQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUyNy5qcGciLAppZDogIjUyNyIsCmhhc2g6ICI4MGI4NDM1MTlmMjk4ZTNjIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MjIuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTIzLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUyNC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MjUuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTI2LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUyNy5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 710,\ntitle: \"Стихия Лавы\",\ndescription: \"Горячие техники\",\nicon: js_preres_url + \"/uploads/achievements/icons/522.jpg\",\nid: \"522\",\nhash: \"15b20dd75ccb9e3b\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 1172,\ntitle: \"Стихия Пыли\",\ndescription: \"Расщепление на атомы\",\nicon: js_preres_url + \"/uploads/achievements/icons/523.jpg\",\nid: \"523\",\nhash: \"b0630ac8c313686d\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 931,\ntitle: \"Стихия Пара\",\ndescription: \"Едкая кислота\",\nicon: js_preres_url + \"/uploads/achievements/icons/524.jpg\",\nid: \"524\",\nhash: \"9a0d1f08fcca3718\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 758,\ntitle: \"Роковая красота\",\ndescription: \"Вы познакомились с Мей Теруми\",\nicon: js_preres_url + \"/uploads/achievements/icons/525.jpg\",\nid: \"525\",\nhash: \"97c7e08ef74042a9\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1127,\ntitle: \"Каменная воля\",\ndescription: \"Вы познакомились с Оноки\",\nicon: js_preres_url + \"/uploads/achievements/icons/526.jpg\",\nid: \"526\",\nhash: \"d9e8825d7fe7f0f0\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1088,\ntitle: \"Свита Цучикаге\",\ndescription: \"Вы познакомились с Акацучи\",\nicon: js_preres_url + \"/uploads/achievements/icons/527.jpg\",\nid: \"527\",\nhash: \"80b843519f298e3c\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/522.jpg\", js_preres_url + \"/uploads/achievements/icons/523.jpg\", js_preres_url + \"/uploads/achievements/icons/524.jpg\", js_preres_url + \"/uploads/achievements/icons/525.jpg\", js_preres_url + \"/uploads/achievements/icons/526.jpg\", js_preres_url + \"/uploads/achievements/icons/527.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 710,
+        "title": "Стихия Лавы",
+        "description": "Горячие техники",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/522.jpg",
+        "id": "522",
+        "hash": "15b20dd75ccb9e3b"
+      },
+      {
+        "category": "techniques",
+        "time_start": 1172,
+        "title": "Стихия Пыли",
+        "description": "Расщепление на атомы",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/523.jpg",
+        "id": "523",
+        "hash": "b0630ac8c313686d"
+      },
+      {
+        "category": "techniques",
+        "time_start": 931,
+        "title": "Стихия Пара",
+        "description": "Едкая кислота",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/524.jpg",
+        "id": "524",
+        "hash": "9a0d1f08fcca3718"
+      },
+      {
+        "category": "heroes",
+        "time_start": 758,
+        "title": "Роковая красота",
+        "description": "Вы познакомились с Мей Теруми",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/525.jpg",
+        "id": "525",
+        "hash": "97c7e08ef74042a9"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1127,
+        "title": "Каменная воля",
+        "description": "Вы познакомились с Оноки",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/526.jpg",
+        "id": "526",
+        "hash": "d9e8825d7fe7f0f0"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1088,
+        "title": "Свита Цучикаге",
+        "description": "Вы познакомились с Акацучи",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/527.jpg",
+        "id": "527",
+        "hash": "80b843519f298e3c"
+      }
+    ]
+  }
+}

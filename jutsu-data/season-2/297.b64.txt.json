@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "297",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1409861532?i=1409861550&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1286599059?i=1286599215&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDc0OCwKdGl0bGU6ICLQp9C10YLQstGR0YDRgtGL0Lkg0JrQsNC30LXQutCw0LPQtSIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQoNCw0YHQvtC5IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjQxLmpwZyIsCmlkOiAiNjQxIiwKaGFzaDogIjgwN2JlNzdhZDk0OTU1ZWEiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogMTI1MywKdGl0bGU6ICLQp9GD0LLRgdGC0LLQsCDQvNCw0YLQtdGA0LgiLApkZXNjcmlwdGlvbjogItCj0LfQvdCw0LnRgtC1INC/0YDQsNCy0LTRgyDQviDQmtCw0YDRg9GA0LUg0Lgg0JPQsNCw0YDQtSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY0Mi5qcGciLAppZDogIjY0MiIsCmhhc2g6ICJhMGJjNWMxYjMxOTZhZWJkIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiA4NTEsCnRpdGxlOiAi0JfQvtC70L7RgtC+0Lkg0L/QtdGB0L7QuiIsCmRlc2NyaXB0aW9uOiAi0KHQuNC70LAg0JrQsNC30LXQutCw0LPQtSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY0My5qcGciLAppZDogIjY0MyIsCmhhc2g6ICJkNjdiNDRkOWFhMDUyNDE5Igp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82NDEuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjQyLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY0My5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 748,\ntitle: \"Четвёртый Казекаге\",\ndescription: \"Вы познакомились с Расой\",\nicon: js_preres_url + \"/uploads/achievements/icons/641.jpg\",\nid: \"641\",\nhash: \"807be77ad94955ea\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1253,\ntitle: \"Чувства матери\",\ndescription: \"Узнайте правду о Каруре и Гааре\",\nicon: js_preres_url + \"/uploads/achievements/icons/642.jpg\",\nid: \"642\",\nhash: \"a0bc5c1b3196aebd\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 851,\ntitle: \"Золотой песок\",\ndescription: \"Сила Казекаге\",\nicon: js_preres_url + \"/uploads/achievements/icons/643.jpg\",\nid: \"643\",\nhash: \"d67b44d9aa052419\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/641.jpg\", js_preres_url + \"/uploads/achievements/icons/642.jpg\", js_preres_url + \"/uploads/achievements/icons/643.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 748,
+        "title": "Четвёртый Казекаге",
+        "description": "Вы познакомились с Расой",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/641.jpg",
+        "id": "641",
+        "hash": "807be77ad94955ea"
+      },
+      {
+        "category": "events",
+        "time_start": 1253,
+        "title": "Чувства матери",
+        "description": "Узнайте правду о Каруре и Гааре",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/642.jpg",
+        "id": "642",
+        "hash": "a0bc5c1b3196aebd"
+      },
+      {
+        "category": "techniques",
+        "time_start": 851,
+        "title": "Золотой песок",
+        "description": "Сила Казекаге",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/643.jpg",
+        "id": "643",
+        "hash": "d67b44d9aa052419"
+      }
+    ]
+  }
+}

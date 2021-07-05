@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "338",
+  "video_intro_start": 172,
+  "video_intro_end": 262,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1339552447?i=1339552642&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 172,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535817677?i=1535817678&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDc1MiwKdGl0bGU6ICLQmtC+0L3RgtGA0LzQtdGA0LAiLApkZXNjcmlwdGlvbjogItCj0LfQvdCw0LnRgtC1INC40YHRgtC+0YDQuNGOINCY0LfQsNC90LDQvNC4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzAxLmpwZyIsCmlkOiAiNzAxIiwKaGFzaDogIjE0YWY5MTY3MzNhY2Y3MjAiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzcwMS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 752,\ntitle: \"Контрмера\",\ndescription: \"Узнайте историю Изанами\",\nicon: js_preres_url + \"/uploads/achievements/icons/701.jpg\",\nid: \"701\",\nhash: \"14af916733acf720\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/701.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 752,
+        "title": "Контрмера",
+        "description": "Узнайте историю Изанами",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/701.jpg",
+        "id": "701",
+        "hash": "14af916733acf720"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "133",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1402641185?i=1402641459&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/337521814?i=337521818&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiAyODUsCnRpdGxlOiAi0KDQuNC90L3QtdCz0LDQvSIsCmRlc2NyaXB0aW9uOiAi0JPQu9Cw0LfQsCDQnNGD0LTRgNC10YbQsCDQqNC10YHRgtC4INCf0YPRgtC10LkiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80MzQuanBnIiwKaWQ6ICI0MzQiLApoYXNoOiAiOWU0MWU4NzBkYWFhZjIwNyIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiAyNzIsCnRpdGxlOiAi0KHRgtCw0LLRiNC40Lkg0LHQvtCz0L7QvCIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQn9C10LnQvdC+0LwiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80MzUuanBnIiwKaWQ6ICI0MzUiLApoYXNoOiAiNDIwOWE0MjRiZmQ2MzM3NyIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiAxMjAzLAp0aXRsZTogItCf0L7RgdC70LXQtNC90Y/RjyDQs9C70LDQstCwIiwKZGVzY3JpcHRpb246ICLQlNC20LjRgNCw0LnRjyDRg9C80LjRgNCw0LXRgiIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQzNi5qcGciLAppZDogIjQzNiIsCmhhc2g6ICJiMjkwNjhmMTAxOWNmOTAxIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80MzQuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDM1LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQzNi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 285,\ntitle: \"Риннеган\",\ndescription: \"Глаза Мудреца Шести Путей\",\nicon: js_preres_url + \"/uploads/achievements/icons/434.jpg\",\nid: \"434\",\nhash: \"9e41e870daaaf207\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 272,\ntitle: \"Ставший богом\",\ndescription: \"Вы познакомились с Пейном\",\nicon: js_preres_url + \"/uploads/achievements/icons/435.jpg\",\nid: \"435\",\nhash: \"4209a424bfd63377\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1203,\ntitle: \"Последняя глава\",\ndescription: \"Джирайя умирает\",\nicon: js_preres_url + \"/uploads/achievements/icons/436.jpg\",\nid: \"436\",\nhash: \"b29068f1019cf901\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/434.jpg\", js_preres_url + \"/uploads/achievements/icons/435.jpg\", js_preres_url + \"/uploads/achievements/icons/436.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 285,
+        "title": "Риннеган",
+        "description": "Глаза Мудреца Шести Путей",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/434.jpg",
+        "id": "434",
+        "hash": "9e41e870daaaf207"
+      },
+      {
+        "category": "heroes",
+        "time_start": 272,
+        "title": "Ставший богом",
+        "description": "Вы познакомились с Пейном",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/435.jpg",
+        "id": "435",
+        "hash": "4209a424bfd63377"
+      },
+      {
+        "category": "events",
+        "time_start": 1203,
+        "title": "Последняя глава",
+        "description": "Джирайя умирает",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/436.jpg",
+        "id": "436",
+        "hash": "b29068f1019cf901"
+      }
+    ]
+  }
+}

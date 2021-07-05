@@ -1,0 +1,65 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "128",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/675163738?i=675163992&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1501689372?i=1501689393&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDEwMiwKdGl0bGU6ICLQodCw0LvQsNC80LDQvdC00YDQsCIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQpdCw0L3Qt9C+IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDI0LmpwZyIsCmlkOiAiNDI0IiwKaGFzaDogImE5NTZiYzlkM2JjNTc2MmUiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogNTg1LAp0aXRsZTogItCl0YDQsNC90LjRgtC10LvRjCDQoNC40L3QvdC10LPQsNC90LAiLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0J3QsNCz0LDRgtC+IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDI1LmpwZyIsCmlkOiAiNDI1IiwKaGFzaDogIjY3MWI5Y2Q1YzM4YmM3YTYiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogMzA1LAp0aXRsZTogItCh0LjRgNC+0YLQsCDRgSDQvNC10YfRgtC+0LkiLApkZXNjcmlwdGlvbjogItCS0Ysg0L/QvtC30L3QsNC60L7QvNC40LvQuNGB0Ywg0YEg0K/RhdC40LrQviIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQyNi5qcGciLAppZDogIjQyNiIsCmhhc2g6ICI3YTAxZDkzMDk4MjU5Y2YzIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDI1NSwKdGl0bGU6ICLQptCy0LXRgtC+0Log0LTQvtC20LTRjyIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQmtC+0L3QsNC9IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDI3LmpwZyIsCmlkOiAiNDI3IiwKaGFzaDogImQwMzI0YzZjMzY5NGNmODciCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogMTI2MCwKdGl0bGU6ICLQkdGA0LXQvNGPINC/0YDQvtGA0L7Rh9C10YHRgtCy0LAiLApkZXNjcmlwdGlvbjogItCj0LfQvdCw0LnRgtC1INC+INC/0YDQvtGI0LvQvtC8INCU0LbQuNGA0LDQudC4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDI4LmpwZyIsCmlkOiAiNDI4IiwKaGFzaDogIjVhNTZkODk0YTM0NTA0MWMiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQyNC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80MjUuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDI2LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQyNy5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80MjguanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 102,\ntitle: \"Саламандра\",\ndescription: \"Вы познакомились с Ханзо\",\nicon: js_preres_url + \"/uploads/achievements/icons/424.jpg\",\nid: \"424\",\nhash: \"a956bc9d3bc5762e\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 585,\ntitle: \"Хранитель Риннегана\",\ndescription: \"Вы познакомились с Нагато\",\nicon: js_preres_url + \"/uploads/achievements/icons/425.jpg\",\nid: \"425\",\nhash: \"671b9cd5c38bc7a6\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 305,\ntitle: \"Сирота с мечтой\",\ndescription: \"Вы познакомились с Яхико\",\nicon: js_preres_url + \"/uploads/achievements/icons/426.jpg\",\nid: \"426\",\nhash: \"7a01d93098259cf3\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 255,\ntitle: \"Цветок дождя\",\ndescription: \"Вы познакомились с Конан\",\nicon: js_preres_url + \"/uploads/achievements/icons/427.jpg\",\nid: \"427\",\nhash: \"d0324c6c3694cf87\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1260,\ntitle: \"Бремя пророчества\",\ndescription: \"Узнайте о прошлом Джирайи\",\nicon: js_preres_url + \"/uploads/achievements/icons/428.jpg\",\nid: \"428\",\nhash: \"5a56d894a345041c\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/424.jpg\", js_preres_url + \"/uploads/achievements/icons/425.jpg\", js_preres_url + \"/uploads/achievements/icons/426.jpg\", js_preres_url + \"/uploads/achievements/icons/427.jpg\", js_preres_url + \"/uploads/achievements/icons/428.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 102,
+        "title": "Саламандра",
+        "description": "Вы познакомились с Ханзо",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/424.jpg",
+        "id": "424",
+        "hash": "a956bc9d3bc5762e"
+      },
+      {
+        "category": "heroes",
+        "time_start": 585,
+        "title": "Хранитель Риннегана",
+        "description": "Вы познакомились с Нагато",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/425.jpg",
+        "id": "425",
+        "hash": "671b9cd5c38bc7a6"
+      },
+      {
+        "category": "heroes",
+        "time_start": 305,
+        "title": "Сирота с мечтой",
+        "description": "Вы познакомились с Яхико",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/426.jpg",
+        "id": "426",
+        "hash": "7a01d93098259cf3"
+      },
+      {
+        "category": "heroes",
+        "time_start": 255,
+        "title": "Цветок дождя",
+        "description": "Вы познакомились с Конан",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/427.jpg",
+        "id": "427",
+        "hash": "d0324c6c3694cf87"
+      },
+      {
+        "category": "events",
+        "time_start": 1260,
+        "title": "Бремя пророчества",
+        "description": "Узнайте о прошлом Джирайи",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/428.jpg",
+        "id": "428",
+        "hash": "5a56d894a345041c"
+      }
+    ]
+  }
+}

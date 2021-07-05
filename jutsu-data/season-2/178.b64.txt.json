@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "178",
+  "video_intro_start": 305,
+  "video_intro_end": 395,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1445023799?i=1445023978&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 305,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/504722315?i=504722325&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEwODEsCnRpdGxlOiAi0KDQtdGI0LjQvNC+0YHRgtGMINGD0YfQuNGC0LXQu9GPIiwKZGVzY3JpcHRpb246ICLQktGLINGD0LfQvdCw0LvQuCDQmNGA0YPQutGDINC/0L7QsdC70LjQttC1IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDg3LmpwZyIsCmlkOiAiNDg3IiwKaGFzaDogImZiNjA2YjEyYmM5MmQzYTAiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ4Ny5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1081,\ntitle: \"Решимость учителя\",\ndescription: \"Вы узнали Ируку поближе\",\nicon: js_preres_url + \"/uploads/achievements/icons/487.jpg\",\nid: \"487\",\nhash: \"fb606b12bc92d3a0\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/487.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 1081,
+        "title": "Решимость учителя",
+        "description": "Вы узнали Ируку поближе",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/487.jpg",
+        "id": "487",
+        "hash": "fb606b12bc92d3a0"
+      }
+    ]
+  }
+}

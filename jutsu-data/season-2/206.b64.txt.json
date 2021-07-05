@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "206",
+  "video_intro_start": 145,
+  "video_intro_end": 235,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/550296634?i=550296638&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 145,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/507684809?i=507684818&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImNyZWRpdHMiLAp0aW1lX3N0YXJ0OiAyMTksCnRpdGxlOiAiS2ltaSB3YSBpbWEiLApkZXNjcmlwdGlvbjogItCf0YDQvtGB0LvRg9GI0LDQudGC0LUgOSDQvtC/0LXQvdC40L3QsyAyINGB0LXQt9C+0L3QsCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUzMC5qcGciLAppZDogIjUzMCIsCmhhc2g6ICJhN2M1MjZlOTFmYThmMDlmIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDE0MywKdGl0bGU6ICLQkNC60YPQu9CwINC4INC+0YHRjNC80LjQvdC+0LMiLApkZXNjcmlwdGlvbjogItCa0LjRgdCw0LzQtSDQvdCw0YXQvtC00LjRgiDQkdC4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTMxLmpwZyIsCmlkOiAiNTMxIiwKaGFzaDogIjYxODliMTU1MTJjYzAyYWQiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUzMC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MzEuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"credits\",\ntime_start: 219,\ntitle: \"Kimi wa ima\",\ndescription: \"Прослушайте 9 опенинг 2 сезона\",\nicon: js_preres_url + \"/uploads/achievements/icons/530.jpg\",\nid: \"530\",\nhash: \"a7c526e91fa8f09f\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 143,\ntitle: \"Акула и осьминог\",\ndescription: \"Кисаме находит Би\",\nicon: js_preres_url + \"/uploads/achievements/icons/531.jpg\",\nid: \"531\",\nhash: \"6189b15512cc02ad\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/530.jpg\", js_preres_url + \"/uploads/achievements/icons/531.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "credits",
+        "time_start": 219,
+        "title": "Kimi wa ima",
+        "description": "Прослушайте 9 опенинг 2 сезона",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/530.jpg",
+        "id": "530",
+        "hash": "a7c526e91fa8f09f"
+      },
+      {
+        "category": "events",
+        "time_start": 143,
+        "title": "Акула и осьминог",
+        "description": "Кисаме находит Би",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/531.jpg",
+        "id": "531",
+        "hash": "6189b15512cc02ad"
+      }
+    ]
+  }
+}

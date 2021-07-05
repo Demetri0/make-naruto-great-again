@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "251",
+  "video_intro_start": 149,
+  "video_intro_end": 239,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1537248449?i=1537248451&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 149,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/491247699?i=491247706&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDc5OSwKdGl0bGU6ICLQn9GA0LXQtNCw0L3QvdGL0Lkg0L3QuNC90LTQt9GPIiwKZGVzY3JpcHRpb246ICLQo9C30L3QsNC50YLQtSDQviDQv9GA0L7RiNC70L7QvCDQmtC40YHQsNC80LUiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81NzEuanBnIiwKaWQ6ICI1NzEiLApoYXNoOiAiNGYyNjE2ZWI0MmYwYmM2OCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJxdW90ZXMiLAp0aW1lX3N0YXJ0OiAxMDc1LAp0aXRsZTogItCe0YIg0YDQvtC20LTQtdC90LjRjyDQuiDRgdC80LXRgNGC0LgiLApkZXNjcmlwdGlvbjogItCS0YvRgdC70YPRiNCw0LnRgtC1INGA0LDQt9Cz0L7QstC+0YAg0JjRgtCw0YfQuCDQuCDQmtC40YHQsNC80LUiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81NzIuanBnIiwKaWQ6ICI1NzIiLApoYXNoOiAiM2E1NmQzYWM5M2RhM2U2ZiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiAxMTI3LAp0aXRsZTogItCn0LXRgdGC0Ywg0JDQutCw0YbRg9C60LgiLApkZXNjcmlwdGlvbjogItCa0LjRgdCw0LzQtSDQv9C+0LrQvtC90YfQuNC7INGBINGB0L7QsdC+0LkiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81NzMuanBnIiwKaWQ6ICI1NzMiLApoYXNoOiAiNWU0OWRiZWRmMzUzZTVmYyIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTcxLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU3Mi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81NzMuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 799,\ntitle: \"Преданный ниндзя\",\ndescription: \"Узнайте о прошлом Кисаме\",\nicon: js_preres_url + \"/uploads/achievements/icons/571.jpg\",\nid: \"571\",\nhash: \"4f2616eb42f0bc68\"\n});\r\nthis_anime_achievements.push({\ncategory: \"quotes\",\ntime_start: 1075,\ntitle: \"От рождения к смерти\",\ndescription: \"Выслушайте разговор Итачи и Кисаме\",\nicon: js_preres_url + \"/uploads/achievements/icons/572.jpg\",\nid: \"572\",\nhash: \"3a56d3ac93da3e6f\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1127,\ntitle: \"Честь Акацуки\",\ndescription: \"Кисаме покончил с собой\",\nicon: js_preres_url + \"/uploads/achievements/icons/573.jpg\",\nid: \"573\",\nhash: \"5e49dbedf353e5fc\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/571.jpg\", js_preres_url + \"/uploads/achievements/icons/572.jpg\", js_preres_url + \"/uploads/achievements/icons/573.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 799,
+        "title": "Преданный ниндзя",
+        "description": "Узнайте о прошлом Кисаме",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/571.jpg",
+        "id": "571",
+        "hash": "4f2616eb42f0bc68"
+      },
+      {
+        "category": "quotes",
+        "time_start": 1075,
+        "title": "От рождения к смерти",
+        "description": "Выслушайте разговор Итачи и Кисаме",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/572.jpg",
+        "id": "572",
+        "hash": "3a56d3ac93da3e6f"
+      },
+      {
+        "category": "events",
+        "time_start": 1127,
+        "title": "Честь Акацуки",
+        "description": "Кисаме покончил с собой",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/573.jpg",
+        "id": "573",
+        "hash": "5e49dbedf353e5fc"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "500",
+  "video_intro_start": 103,
+  "video_intro_end": 193,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1189707930?i=1189708057&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 103,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1538113636?i=1538113637&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1388,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImFyY3MiLAp0aW1lX3N0YXJ0OiAxMTg0LAp0aXRsZTogItCQ0YUg0Y3RgtCwINGB0LLQsNC00YzQsdCwIiwKZGVzY3JpcHRpb246ICLQl9Cw0LLQtdGA0YjQuNGC0LUg0LDRgNC60YMg0YHQstCw0LTRjNCx0Ysg0J3QsNGA0YPRgtC+IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODcxLmpwZyIsCmlkOiAiODcxIiwKaGFzaDogIjdjOTJkYzBlNjk3Y2I0NGYiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiYXJjcyIsCnRpbWVfc3RhcnQ6IDEyNjksCnRpdGxlOiAi0KHQv9Cw0YHQuNCx0L4sINGH0YLQviDQsdGL0LvQuCDRgSDQvdCw0LzQuCEiLApkZXNjcmlwdGlvbjogItCX0LDQstC10YDRiNC40YLQtSAyINGB0LXQt9C+0L0g0J3QsNGA0YPRgtC+IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODcyLmpwZyIsCmlkOiAiODcyIiwKaGFzaDogIjU5YTZmNGRkZTdiNTFmNTciCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzg3MS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84NzIuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 1184,\ntitle: \"Ах эта свадьба\",\ndescription: \"Завершите арку свадьбы Наруто\",\nicon: js_preres_url + \"/uploads/achievements/icons/871.jpg\",\nid: \"871\",\nhash: \"7c92dc0e697cb44f\"\n});\r\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 1269,\ntitle: \"Спасибо, что были с нами!\",\ndescription: \"Завершите 2 сезон Наруто\",\nicon: js_preres_url + \"/uploads/achievements/icons/872.jpg\",\nid: \"872\",\nhash: \"59a6f4dde7b51f57\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/871.jpg\", js_preres_url + \"/uploads/achievements/icons/872.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "arcs",
+        "time_start": 1184,
+        "title": "Ах эта свадьба",
+        "description": "Завершите арку свадьбы Наруто",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/871.jpg",
+        "id": "871",
+        "hash": "7c92dc0e697cb44f"
+      },
+      {
+        "category": "arcs",
+        "time_start": 1269,
+        "title": "Спасибо, что были с нами!",
+        "description": "Завершите 2 сезон Наруто",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/872.jpg",
+        "id": "872",
+        "hash": "59a6f4dde7b51f57"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "366",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1536453723?i=1536453786&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1394561868?i=1394562025&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDEwMywKdGl0bGU6ICLQn9C10YDQstGL0Lkg0KXQvtC60LDQs9C1IiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCl0LDRiNC40YDQsNC80L7QuSDQodC10L3QtNC20YMiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83MjkuanBnIiwKaWQ6ICI3MjkiLApoYXNoOiAiNjI3YTUzZDVjYTljNzdmNCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiA4MDksCnRpdGxlOiAi0JLRgtC+0YDQvtC5INCl0L7QutCw0LPQtSIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQotC+0LHQuNGA0LDQvNC+0Lkg0KHQtdC90LTQttGDIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzMwLmpwZyIsCmlkOiAiNzMwIiwKaGFzaDogIjBmY2Q3NjEzZmM4ODljMmMiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogMTIwLAp0aXRsZTogItCS0L7Qt9GA0L7QttC00ZHQvdC90LDRjyDQstC+0LvRjyIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQstGB0YLRgNC10YLQuNC70Lgg0LLQvtGB0LrRgNC10YjRkdC90L3QvtCz0L4g0KXQuNGA0YPQt9C10L3QsCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzczMS5qcGciLAppZDogIjczMSIsCmhhc2g6ICJhY2NiZjA3M2M4OTIzZGM3Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDE2MSwKdGl0bGU6ICLQktC+0LfRgNC+0LbQtNGR0L3QvdCw0Y8g0LLRgdC/0YvRiNC60LAiLApkZXNjcmlwdGlvbjogItCS0Ysg0LLRgdGC0YDQtdGC0LjQu9C4INCy0L7RgdC60YDQtdGI0ZHQvdC90L7Qs9C+INCc0LjQvdCw0YLQviIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzczMi5qcGciLAppZDogIjczMiIsCmhhc2g6ICJjMzQzZjE1ZDRiZDEwZGE5Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEwNjIsCnRpdGxlOiAi0JTQsNC70ZHQutC+0LUg0L/RgNC+0YjQu9C+0LUiLApkZXNjcmlwdGlvbjogItCl0LDRiNC40YDQsNC80LAg0L3QsNGH0LjQvdCw0LXRgiDRgdCy0L7QuSDRgNCw0YHRgdC60LDQtyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzczMy5qcGciLAppZDogIjczMyIsCmhhc2g6ICJkZDExNGFlNmI5Mjk4MDc5Igp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83MjkuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzMwLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzczMS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83MzIuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzMzLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 103,\ntitle: \"Первый Хокаге\",\ndescription: \"Вы познакомились с Хаширамой Сенджу\",\nicon: js_preres_url + \"/uploads/achievements/icons/729.jpg\",\nid: \"729\",\nhash: \"627a53d5ca9c77f4\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 809,\ntitle: \"Второй Хокаге\",\ndescription: \"Вы познакомились с Тобирамой Сенджу\",\nicon: js_preres_url + \"/uploads/achievements/icons/730.jpg\",\nid: \"730\",\nhash: \"0fcd7613fc889c2c\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 120,\ntitle: \"Возрождённая воля\",\ndescription: \"Вы встретили воскрешённого Хирузена\",\nicon: js_preres_url + \"/uploads/achievements/icons/731.jpg\",\nid: \"731\",\nhash: \"accbf073c8923dc7\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 161,\ntitle: \"Возрождённая вспышка\",\ndescription: \"Вы встретили воскрешённого Минато\",\nicon: js_preres_url + \"/uploads/achievements/icons/732.jpg\",\nid: \"732\",\nhash: \"c343f15d4bd10da9\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1062,\ntitle: \"Далёкое прошлое\",\ndescription: \"Хаширама начинает свой рассказ\",\nicon: js_preres_url + \"/uploads/achievements/icons/733.jpg\",\nid: \"733\",\nhash: \"dd114ae6b9298079\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/729.jpg\", js_preres_url + \"/uploads/achievements/icons/730.jpg\", js_preres_url + \"/uploads/achievements/icons/731.jpg\", js_preres_url + \"/uploads/achievements/icons/732.jpg\", js_preres_url + \"/uploads/achievements/icons/733.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 103,
+        "title": "Первый Хокаге",
+        "description": "Вы познакомились с Хаширамой Сенджу",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/729.jpg",
+        "id": "729",
+        "hash": "627a53d5ca9c77f4"
+      },
+      {
+        "category": "heroes",
+        "time_start": 809,
+        "title": "Второй Хокаге",
+        "description": "Вы познакомились с Тобирамой Сенджу",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/730.jpg",
+        "id": "730",
+        "hash": "0fcd7613fc889c2c"
+      },
+      {
+        "category": "heroes",
+        "time_start": 120,
+        "title": "Возрождённая воля",
+        "description": "Вы встретили воскрешённого Хирузена",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/731.jpg",
+        "id": "731",
+        "hash": "accbf073c8923dc7"
+      },
+      {
+        "category": "heroes",
+        "time_start": 161,
+        "title": "Возрождённая вспышка",
+        "description": "Вы встретили воскрешённого Минато",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/732.jpg",
+        "id": "732",
+        "hash": "c343f15d4bd10da9"
+      },
+      {
+        "category": "events",
+        "time_start": 1062,
+        "title": "Далёкое прошлое",
+        "description": "Хаширама начинает свой рассказ",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/733.jpg",
+        "id": "733",
+        "hash": "dd114ae6b9298079"
+      }
+    ]
+  }
+}

@@ -23,8 +23,10 @@ var video_intro_start = video_intro_start ?? null;
 var video_intro_end = video_intro_end ?? null;
 var video_music_intro = video_music_intro ?? null;
 var video_outro_start = video_intro_start ?? null;
+var video_music_outro = video_music_outro ?? null;
 var this_video_duration = this_video_duration ?? null;
 var this_anime_achievements = this_anime_achievements ?? null;
+var jutsu_new_player = jutsu_new_player ?? null;
 
 const results = {
   pview_anime,

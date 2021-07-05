@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "173",
+  "video_intro_start": 121,
+  "video_intro_end": 211,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1445023799?i=1445023978&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 121,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/504722315?i=504722325&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDExNTgsCnRpdGxlOiAi0J/Qu9Cw0Ycg0L3QtdCx0LAiLApkZXNjcmlwdGlvbjogItCj0LfQvdCw0LnRgtC1INC+INC/0YDQvtGI0LvQvtC8INCd0LDQs9Cw0YLQviIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ4My5qcGciLAppZDogIjQ4MyIsCmhhc2g6ICJjMzE5MzJhYjMwNzBlZTNjIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80ODMuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1158,\ntitle: \"Плач неба\",\ndescription: \"Узнайте о прошлом Нагато\",\nicon: js_preres_url + \"/uploads/achievements/icons/483.jpg\",\nid: \"483\",\nhash: \"c31932ab3070ee3c\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/483.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 1158,
+        "title": "Плач неба",
+        "description": "Узнайте о прошлом Нагато",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/483.jpg",
+        "id": "483",
+        "hash": "c31932ab3070ee3c"
+      }
+    ]
+  }
+}

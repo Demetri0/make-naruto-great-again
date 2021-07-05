@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "324",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/673672242?i=673672255&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1538111878?i=1538111883&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDEwMzMsCnRpdGxlOiAi0JLQvtC30YDQvtC20LTRkdC90L3Ri9C1INC60L7Qs9GC0LgiLApkZXNjcmlwdGlvbjogItCS0Ysg0LLRgdGC0YDQtdGC0LjQu9C4INCy0L7RgdC60YDQtdGI0ZHQvdC90YPRjiDQrtCz0LjRgtC+IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjczLmpwZyIsCmlkOiAiNjczIiwKaGFzaDogIjgzOWYwYjEzZTgyZjhhNzAiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogMjI5LAp0aXRsZTogItCn0LXRgtCy0ZHRgNGC0YvQuSDQnNC40LfRg9C60LDQs9C1IiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCv0LPRg9GA0L7QuSDQmtCw0YDQsNGC0LDRh9C4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjc0LmpwZyIsCmlkOiAiNjc0IiwKaGFzaDogIjA2NTMzMmMwYzgxOTM5ZjYiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogMjQ5LAp0aXRsZTogItCh0YLQsNGA0YvQuSDQt9C90LDQutC+0LzRi9C5IiwKZGVzY3JpcHRpb246ICLQktGLINCy0YHRgtGA0LXRgtC40LvQuCDQstC+0YHQutGA0LXRiNGR0L3QvdC+0LPQviDQo9GC0LDQutCw0YLRgyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY3NS5qcGciLAppZDogIjY3NSIsCmhhc2g6ICI0MmUxZjZmYjdhM2NjYmFmIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDY3NCwKdGl0bGU6ICLQn9GA0LDQstC00LAg0L4g0KjQtdGB0YLQuNGF0LLQvtGB0YLQvtC8IiwKZGVzY3JpcHRpb246ICLQo9C30L3QsNC50YLQtSwg0LrQsNC6INC30LDRhdCy0LDRgtC40LvQuCDQo9GC0LDQutCw0YLRgyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY3Ni5qcGciLAppZDogIjY3NiIsCmhhc2g6ICIzZTIzMjM2Nzc4YjkxYWMxIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82NzMuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjc0LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY3NS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82NzYuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1033,\ntitle: \"Возрождённые когти\",\ndescription: \"Вы встретили воскрешённую Югито\",\nicon: js_preres_url + \"/uploads/achievements/icons/673.jpg\",\nid: \"673\",\nhash: \"839f0b13e82f8a70\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 229,\ntitle: \"Четвёртый Мизукаге\",\ndescription: \"Вы познакомились с Ягурой Каратачи\",\nicon: js_preres_url + \"/uploads/achievements/icons/674.jpg\",\nid: \"674\",\nhash: \"065332c0c81939f6\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 249,\ntitle: \"Старый знакомый\",\ndescription: \"Вы встретили воскрешённого Утакату\",\nicon: js_preres_url + \"/uploads/achievements/icons/675.jpg\",\nid: \"675\",\nhash: \"42e1f6fb7a3ccbaf\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 674,\ntitle: \"Правда о Шестихвостом\",\ndescription: \"Узнайте, как захватили Утакату\",\nicon: js_preres_url + \"/uploads/achievements/icons/676.jpg\",\nid: \"676\",\nhash: \"3e23236778b91ac1\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/673.jpg\", js_preres_url + \"/uploads/achievements/icons/674.jpg\", js_preres_url + \"/uploads/achievements/icons/675.jpg\", js_preres_url + \"/uploads/achievements/icons/676.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 1033,
+        "title": "Возрождённые когти",
+        "description": "Вы встретили воскрешённую Югито",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/673.jpg",
+        "id": "673",
+        "hash": "839f0b13e82f8a70"
+      },
+      {
+        "category": "heroes",
+        "time_start": 229,
+        "title": "Четвёртый Мизукаге",
+        "description": "Вы познакомились с Ягурой Каратачи",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/674.jpg",
+        "id": "674",
+        "hash": "065332c0c81939f6"
+      },
+      {
+        "category": "heroes",
+        "time_start": 249,
+        "title": "Старый знакомый",
+        "description": "Вы встретили воскрешённого Утакату",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/675.jpg",
+        "id": "675",
+        "hash": "42e1f6fb7a3ccbaf"
+      },
+      {
+        "category": "events",
+        "time_start": 674,
+        "title": "Правда о Шестихвостом",
+        "description": "Узнайте, как захватили Утакату",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/676.jpg",
+        "id": "676",
+        "hash": "3e23236778b91ac1"
+      }
+    ]
+  }
+}

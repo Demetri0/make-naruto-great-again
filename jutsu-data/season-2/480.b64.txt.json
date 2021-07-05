@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "480",
+  "video_intro_start": 0,
+  "video_intro_end": 93,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1189707930?i=1189708057&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1173501808?i=1173501978&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1393,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImNyZWRpdHMiLAp0aW1lX3N0YXJ0OiA4NSwKdGl0bGU6ICJTaGluaW5nIHRocm91Z2ggdGhlIGNsb3VkcyIsCmRlc2NyaXB0aW9uOiAi0J/RgNC+0YHQu9GD0YjQsNC50YLQtSAyMCDQvtC/0LXQvdC40L3QsyAyINGB0LXQt9C+0L3QsCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzgzOS5qcGciLAppZDogIjgzOSIsCmhhc2g6ICI4NTZlNjNjZDUyYmRkOTJkIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDY3NywKdGl0bGU6ICLQntC00LjQvdC+0LrQuNC5INC80LDQu9GM0YfQuNC6IiwKZGVzY3JpcHRpb246ICLQo9C30L3QsNC50YLQtSDQsdC+0LvRjNGI0LUg0L4g0LTQtdGC0YHRgtCy0LUg0J3QsNGA0YPRgtC+IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODQwLmpwZyIsCmlkOiAiODQwIiwKaGFzaDogIjdiY2QxM2ZhMmQ3NGI1MTYiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogMTI2OCwKdGl0bGU6ICLQrtC90LDRjyDQv9GA0LjQvdGG0LXRgdGB0LAiLApkZXNjcmlwdGlvbjogItCj0LfQvdCw0LnRgtC1INCx0L7Qu9GM0YjQtSDQviDQtNC10YLRgdGC0LLQtSDQpdC40L3QsNGC0YsiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84NDEuanBnIiwKaWQ6ICI4NDEiLApoYXNoOiAiYzVjNmFlZjg3Y2E0NmQyMiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJodW1vciIsCnRpbWVfc3RhcnQ6IDgwMSwKdGl0bGU6ICJNaW5pIE5lamkiLApkZXNjcmlwdGlvbjogItCc0LjQvdC4INCd0LXQtNC20LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8xMjY5OC5qcGciLAppZDogIjEyNjk4IiwKaGFzaDogIjUwN2JhMDVjOTYxNTQyMDciCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzgzOS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84NDAuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODQxLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzEyNjk4LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"credits\",\ntime_start: 85,\ntitle: \"Shining through the clouds\",\ndescription: \"Прослушайте 20 опенинг 2 сезона\",\nicon: js_preres_url + \"/uploads/achievements/icons/839.jpg\",\nid: \"839\",\nhash: \"856e63cd52bdd92d\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 677,\ntitle: \"Одинокий мальчик\",\ndescription: \"Узнайте больше о детстве Наруто\",\nicon: js_preres_url + \"/uploads/achievements/icons/840.jpg\",\nid: \"840\",\nhash: \"7bcd13fa2d74b516\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1268,\ntitle: \"Юная принцесса\",\ndescription: \"Узнайте больше о детстве Хинаты\",\nicon: js_preres_url + \"/uploads/achievements/icons/841.jpg\",\nid: \"841\",\nhash: \"c5c6aef87ca46d22\"\n});\r\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 801,\ntitle: \"Mini Neji\",\ndescription: \"Мини Неджи\",\nicon: js_preres_url + \"/uploads/achievements/icons/12698.jpg\",\nid: \"12698\",\nhash: \"507ba05c96154207\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/839.jpg\", js_preres_url + \"/uploads/achievements/icons/840.jpg\", js_preres_url + \"/uploads/achievements/icons/841.jpg\", js_preres_url + \"/uploads/achievements/icons/12698.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "credits",
+        "time_start": 85,
+        "title": "Shining through the clouds",
+        "description": "Прослушайте 20 опенинг 2 сезона",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/839.jpg",
+        "id": "839",
+        "hash": "856e63cd52bdd92d"
+      },
+      {
+        "category": "events",
+        "time_start": 677,
+        "title": "Одинокий мальчик",
+        "description": "Узнайте больше о детстве Наруто",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/840.jpg",
+        "id": "840",
+        "hash": "7bcd13fa2d74b516"
+      },
+      {
+        "category": "events",
+        "time_start": 1268,
+        "title": "Юная принцесса",
+        "description": "Узнайте больше о детстве Хинаты",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/841.jpg",
+        "id": "841",
+        "hash": "c5c6aef87ca46d22"
+      },
+      {
+        "category": "humor",
+        "time_start": 801,
+        "title": "Mini Neji",
+        "description": "Мини Неджи",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/12698.jpg",
+        "id": "12698",
+        "hash": "507ba05c96154207"
+      }
+    ]
+  }
+}

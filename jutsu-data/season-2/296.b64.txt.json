@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "296",
+  "video_intro_start": 180,
+  "video_intro_end": 270,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1409861532?i=1409861550&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 180,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1286599059?i=1286599215&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImh1bW9yIiwKdGltZV9zdGFydDogMTgwLAp0aXRsZTogItCf0YDRj9C80L7QuSDRjdGE0LjRgCIsCmRlc2NyaXB0aW9uOiAi0J/RgNC+0YHQu9GD0YjQsNC50YLQtSDQstGL0L/Rg9GB0Log0L3QvtCy0L7RgdGC0LXQuSDQvdC40L3QtNC30Y8iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82MzcuanBnIiwKaWQ6ICI2MzciLApoYXNoOiAiMmY0NGVhMWUwNzU0ZjgzYSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiA4OTIsCnRpdGxlOiAi0JzQsNCz0L3QuNGCINC40Lcg0J7QsdC70LDQutCwIiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCi0L7RgNC+0LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82MzguanBnIiwKaWQ6ICI2MzgiLApoYXNoOiAiYzZhMzZjYWUxNTZiYmIwMiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiA4NzMsCnRpdGxlOiAi0KPRgdC/0LXRgtGMINC90LAg0L/QvtC80L7RidGMIiwKZGVzY3JpcHRpb246ICLQndCw0YDRg9GC0L4g0LLRgdGC0YPQv9Cw0LXRgiDQsiDQstC+0LnQvdGDIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjM5LmpwZyIsCmlkOiAiNjM5IiwKaGFzaDogIjRlNTcyNjI2ZThhNjhjMjgiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogMTE4NCwKdGl0bGU6ICLQktC+0LfRgNC+0LbQtNGR0L3QvdGL0LUg0JrQsNCz0LUiLApkZXNjcmlwdGlvbjogItCU0LjQstC40LfQuNGPINCT0LDQsNGA0Ysg0YHRgtCw0LvQutC40LLQsNC10YLRgdGPINGBINCa0LDQs9C1IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjQwLmpwZyIsCmlkOiAiNjQwIiwKaGFzaDogIjk2M2RlODkwNzNmM2RmMDUiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzYzNy5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82MzguanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjM5LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY0MC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 180,\ntitle: \"Прямой эфир\",\ndescription: \"Прослушайте выпуск новостей ниндзя\",\nicon: js_preres_url + \"/uploads/achievements/icons/637.jpg\",\nid: \"637\",\nhash: \"2f44ea1e0754f83a\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 892,\ntitle: \"Магнит из Облака\",\ndescription: \"Вы познакомились с Торои\",\nicon: js_preres_url + \"/uploads/achievements/icons/638.jpg\",\nid: \"638\",\nhash: \"c6a36cae156bbb02\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 873,\ntitle: \"Успеть на помощь\",\ndescription: \"Наруто вступает в войну\",\nicon: js_preres_url + \"/uploads/achievements/icons/639.jpg\",\nid: \"639\",\nhash: \"4e572626e8a68c28\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1184,\ntitle: \"Возрождённые Каге\",\ndescription: \"Дивизия Гаары сталкивается с Каге\",\nicon: js_preres_url + \"/uploads/achievements/icons/640.jpg\",\nid: \"640\",\nhash: \"963de89073f3df05\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/637.jpg\", js_preres_url + \"/uploads/achievements/icons/638.jpg\", js_preres_url + \"/uploads/achievements/icons/639.jpg\", js_preres_url + \"/uploads/achievements/icons/640.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "humor",
+        "time_start": 180,
+        "title": "Прямой эфир",
+        "description": "Прослушайте выпуск новостей ниндзя",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/637.jpg",
+        "id": "637",
+        "hash": "2f44ea1e0754f83a"
+      },
+      {
+        "category": "heroes",
+        "time_start": 892,
+        "title": "Магнит из Облака",
+        "description": "Вы познакомились с Торои",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/638.jpg",
+        "id": "638",
+        "hash": "c6a36cae156bbb02"
+      },
+      {
+        "category": "events",
+        "time_start": 873,
+        "title": "Успеть на помощь",
+        "description": "Наруто вступает в войну",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/639.jpg",
+        "id": "639",
+        "hash": "4e572626e8a68c28"
+      },
+      {
+        "category": "events",
+        "time_start": 1184,
+        "title": "Возрождённые Каге",
+        "description": "Дивизия Гаары сталкивается с Каге",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/640.jpg",
+        "id": "640",
+        "hash": "963de89073f3df05"
+      }
+    ]
+  }
+}

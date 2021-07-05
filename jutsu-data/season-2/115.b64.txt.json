@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "115",
+  "video_intro_start": 225,
+  "video_intro_end": 315,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/675163738?i=675163992&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 225,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536306413?i=1536306422&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDExOCwKdGl0bGU6ICLQpdC40YLRgNGL0Lkg0LzQtdGH0L3QuNC6IiwKZGVzY3JpcHRpb246ICLQktGLINC/0L7Qt9C90LDQutC+0LzQuNC70LjRgdGMINGBINCh0YPQudCz0LXRhtGDIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzk4LmpwZyIsCmlkOiAiMzk4IiwKaGFzaDogImQ0OTg3NmNmZTJiNzdhOWMiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAidGVjaG5pcXVlcyIsCnRpbWVfc3RhcnQ6IDEwMDYsCnRpdGxlOiAi0JPQuNC00YDQsNGC0LDRhtC40Y8iLApkZXNjcmlwdGlvbjogItCa0L7RgNC+0L3QvdGL0Lkg0L/RgNC40ZHQvCDQodGD0LnQs9C10YbRgyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzM5OS5qcGciLAppZDogIjM5OSIsCmhhc2g6ICJjM2U3YWI2N2I1MDBkODAwIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8zOTguanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMzk5LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 118,\ntitle: \"Хитрый мечник\",\ndescription: \"Вы познакомились с Суйгецу\",\nicon: js_preres_url + \"/uploads/achievements/icons/398.jpg\",\nid: \"398\",\nhash: \"d49876cfe2b77a9c\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 1006,\ntitle: \"Гидратация\",\ndescription: \"Коронный приём Суйгецу\",\nicon: js_preres_url + \"/uploads/achievements/icons/399.jpg\",\nid: \"399\",\nhash: \"c3e7ab67b500d800\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/398.jpg\", js_preres_url + \"/uploads/achievements/icons/399.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 118,
+        "title": "Хитрый мечник",
+        "description": "Вы познакомились с Суйгецу",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/398.jpg",
+        "id": "398",
+        "hash": "d49876cfe2b77a9c"
+      },
+      {
+        "category": "techniques",
+        "time_start": 1006,
+        "title": "Гидратация",
+        "description": "Коронный приём Суйгецу",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/399.jpg",
+        "id": "399",
+        "hash": "c3e7ab67b500d800"
+      }
+    ]
+  }
+}

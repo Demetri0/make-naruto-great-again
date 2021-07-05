@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "495",
+  "video_intro_start": 0,
+  "video_intro_end": 93,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1189707930?i=1189708057&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1538113636?i=1538113637&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1393,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImh1bW9yIiwKdGltZV9zdGFydDogNjIzLAp0aXRsZTogItCR0YDQsNGCINC90LXQstC10YHRgtGLIiwKZGVzY3JpcHRpb246ICLQryDQstC40LbRgyDQvNGR0YDRgtCy0YvRhSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzg2My5qcGciLAppZDogIjg2MyIsCmhhc2g6ICIzNDhlNzIyNzU1MDI5MmU5Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEyNjcsCnRpdGxlOiAi0J/QvtC00LDRgNC+0Log0Y7QvdC+0YHRgtC4IiwKZGVzY3JpcHRpb246ICLQo9C30L3QsNC50YLQtSwg0YfRgtC+INCz0L7RgtC+0LLQuNGCINCa0L7QvNCw0L3QtNCwINCT0LDRjyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzg2NC5qcGciLAppZDogIjg2NCIsCmhhc2g6ICJlNDFjZGY1OTY2MmIxZTBjIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84NjMuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODY0LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 623,\ntitle: \"Брат невесты\",\ndescription: \"Я вижу мёртвых\",\nicon: js_preres_url + \"/uploads/achievements/icons/863.jpg\",\nid: \"863\",\nhash: \"348e7227550292e9\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1267,\ntitle: \"Подарок юности\",\ndescription: \"Узнайте, что готовит Команда Гая\",\nicon: js_preres_url + \"/uploads/achievements/icons/864.jpg\",\nid: \"864\",\nhash: \"e41cdf59662b1e0c\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/863.jpg\", js_preres_url + \"/uploads/achievements/icons/864.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "humor",
+        "time_start": 623,
+        "title": "Брат невесты",
+        "description": "Я вижу мёртвых",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/863.jpg",
+        "id": "863",
+        "hash": "348e7227550292e9"
+      },
+      {
+        "category": "events",
+        "time_start": 1267,
+        "title": "Подарок юности",
+        "description": "Узнайте, что готовит Команда Гая",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/864.jpg",
+        "id": "864",
+        "hash": "e41cdf59662b1e0c"
+      }
+    ]
+  }
+}

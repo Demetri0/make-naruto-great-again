@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "177",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1489995044?i=1489995045&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536367493?i=1536367497&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1386,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImFyY3MiLAp0aW1lX3N0YXJ0OiAxMjU5LAp0aXRsZTogItCf0YPRgtC10YjQtdGB0YLQstC40LUg0YEg0LTRgNGD0LfRjNGP0LzQuCIsCmRlc2NyaXB0aW9uOiAi0JfQsNCy0LXRgNGI0LjRgtC1INCw0YDQutGDINCh0YLRgNCw0L3RiyDQnNC+0YDRjyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzI0Ni5qcGciLAppZDogIjI0NiIsCmhhc2g6ICIyMDIyY2YxMWU0MTI0OGZkIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImh1bW9yIiwKdGltZV9zdGFydDogMTA3MSwKdGl0bGU6ICLQndGDINC/0L7QttCw0LvRg9C50YHRgtCwIiwKZGVzY3JpcHRpb246ICLQoyDQndCw0YDRg9GC0L4g0YHQstC+0Lgg0LzQtdGC0L7QtNGLINGD0LHQtdC20LTQtdC90LjRjyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzI0Ny5qcGciLAppZDogIjI0NyIsCmhhc2g6ICJhMzY4NDEzMWYyNDA0MWZmIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yNDYuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjQ3LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 1259,\ntitle: \"Путешествие с друзьями\",\ndescription: \"Завершите арку Страны Моря\",\nicon: js_preres_url + \"/uploads/achievements/icons/246.jpg\",\nid: \"246\",\nhash: \"2022cf11e41248fd\"\n});\r\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 1071,\ntitle: \"Ну пожалуйста\",\ndescription: \"У Наруто свои методы убеждения\",\nicon: js_preres_url + \"/uploads/achievements/icons/247.jpg\",\nid: \"247\",\nhash: \"a3684131f24041ff\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/246.jpg\", js_preres_url + \"/uploads/achievements/icons/247.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "arcs",
+        "time_start": 1259,
+        "title": "Путешествие с друзьями",
+        "description": "Завершите арку Страны Моря",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/246.jpg",
+        "id": "246",
+        "hash": "2022cf11e41248fd"
+      },
+      {
+        "category": "humor",
+        "time_start": 1071,
+        "title": "Ну пожалуйста",
+        "description": "У Наруто свои методы убеждения",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/247.jpg",
+        "id": "247",
+        "hash": "a3684131f24041ff"
+      }
+    ]
+  }
+}

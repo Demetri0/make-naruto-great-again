@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "122",
+  "video_intro_start": 205,
+  "video_intro_end": 295,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/675163738?i=675163992&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 205,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1501689372?i=1501689393&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDgzNCwKdGl0bGU6ICLQl9GA0LjRgtC10LvRjCDQuCDQuNGB0LrRg9GB0YHRgtCy0L4iLApkZXNjcmlwdGlvbjogItCh0LDRgdC60LUg0YHRgtCw0LvQutC40LLQsNC10YLRgdGPINGBINCQ0LrQsNGG0YPQutC4IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDE1LmpwZyIsCmlkOiAiNDE1IiwKaGFzaDogIjk0ZWE2NjI5YzI2YTc5MWQiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogOTk4LAp0aXRsZTogItCe0LTQtdGA0LbQuNC80YvQuSIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQstGB0YLRgNC10YLQuNC70Lgg0L3QvtCy0L7Qs9C+INCa0LDQsdGD0YLQviIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQxNi5qcGciLAppZDogIjQxNiIsCmhhc2g6ICJmMmU0NWFmMjMwNzM5ZGYzIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80MTUuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDE2LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 834,\ntitle: \"Зритель и искусство\",\ndescription: \"Саске сталкивается с Акацуки\",\nicon: js_preres_url + \"/uploads/achievements/icons/415.jpg\",\nid: \"415\",\nhash: \"94ea6629c26a791d\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 998,\ntitle: \"Одержимый\",\ndescription: \"Вы встретили нового Кабуто\",\nicon: js_preres_url + \"/uploads/achievements/icons/416.jpg\",\nid: \"416\",\nhash: \"f2e45af230739df3\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/415.jpg\", js_preres_url + \"/uploads/achievements/icons/416.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 834,
+        "title": "Зритель и искусство",
+        "description": "Саске сталкивается с Акацуки",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/415.jpg",
+        "id": "415",
+        "hash": "94ea6629c26a791d"
+      },
+      {
+        "category": "heroes",
+        "time_start": 998,
+        "title": "Одержимый",
+        "description": "Вы встретили нового Кабуто",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/416.jpg",
+        "id": "416",
+        "hash": "f2e45af230739df3"
+      }
+    ]
+  }
+}

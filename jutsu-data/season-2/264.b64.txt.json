@@ -1,0 +1,29 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "264",
+  "video_intro_start": 168,
+  "video_intro_end": 258,
+  "video_music_intro": null,
+  "video_outro_start": 168,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/520999153?i=520999157&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDExMjAsCnRpdGxlOiAi0KLRkdC80L3QsNGPINGC0LXRhdC90LjQutCwIiwKZGVzY3JpcHRpb246ICLQo9C30L3QsNC50YLQtSwg0LrQsNC6INGA0LDQsdC+0YLQsNC10YIg0J3QtdGH0LXRgdGC0LjQstC+0LUg0LLQvtGB0LrRgNC10YjQtdC90LjQtSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU4OC5qcGciLAppZDogIjU4OCIsCmhhc2g6ICIzMTY4N2M4NTlmOWJkZTIxIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81ODguanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1120,\ntitle: \"Тёмная техника\",\ndescription: \"Узнайте, как работает Нечестивое воскрешение\",\nicon: js_preres_url + \"/uploads/achievements/icons/588.jpg\",\nid: \"588\",\nhash: \"31687c859f9bde21\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/588.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 1120,
+        "title": "Тёмная техника",
+        "description": "Узнайте, как работает Нечестивое воскрешение",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/588.jpg",
+        "id": "588",
+        "hash": "31687c859f9bde21"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "31",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/963662940?i=963662941&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535488943?i=1535488948&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1386,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiAxMTY3LAp0aXRsZTogItCb0L7RgtC+0YEiLApkZXNjcmlwdGlvbjogItCa0L7RgNC+0L3QvdC+0LUg0LLRgNCw0YnQtdC90LjQtSDQsiDQstC+0LfQtNGD0YXQtSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzc1LmpwZyIsCmlkOiAiNzUiLApoYXNoOiAiM2ExOGQ3MTIzYTgzMDhjNSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiA3ODAsCnRpdGxlOiAi0JfQsNC00LjRgNGLIiwKZGVzY3JpcHRpb246ICLQkdC40YLQstCwINGBINC90LjQvdC00LfRjyDQl9Cy0YPQutCwINC90LDRh9Cw0LvQsNGB0YwiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83Ni5qcGciLAppZDogIjc2IiwKaGFzaDogIjdiNjJkZjY0NmRiYmMzOGUiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzc1LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzc2LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 1167,\ntitle: \"Лотос\",\ndescription: \"Коронное вращение в воздухе\",\nicon: js_preres_url + \"/uploads/achievements/icons/75.jpg\",\nid: \"75\",\nhash: \"3a18d7123a8308c5\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 780,\ntitle: \"Задиры\",\ndescription: \"Битва с ниндзя Звука началась\",\nicon: js_preres_url + \"/uploads/achievements/icons/76.jpg\",\nid: \"76\",\nhash: \"7b62df646dbbc38e\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/75.jpg\", js_preres_url + \"/uploads/achievements/icons/76.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 1167,
+        "title": "Лотос",
+        "description": "Коронное вращение в воздухе",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/75.jpg",
+        "id": "75",
+        "hash": "3a18d7123a8308c5"
+      },
+      {
+        "category": "events",
+        "time_start": 780,
+        "title": "Задиры",
+        "description": "Битва с ниндзя Звука началась",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/76.jpg",
+        "id": "76",
+        "hash": "7b62df646dbbc38e"
+      }
+    ]
+  }
+}

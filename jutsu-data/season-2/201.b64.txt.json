@@ -1,0 +1,56 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "201",
+  "video_intro_start": 64,
+  "video_intro_end": 154,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/673586556?i=673586565&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 64,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1028930741?i=1028930747&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDcwOCwKdGl0bGU6ICLQn9GA0LjQvdGP0YLRjCDRgNC10YjQtdC90LjQtSIsCmRlc2NyaXB0aW9uOiAi0J7QsdGB0YPQttC00LXQvdC40LUg0KHQsNGB0LrQtSDQtdCz0L4g0YLQvtCy0LDRgNC40YnQsNC80LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MTEuanBnIiwKaWQ6ICI1MTEiLApoYXNoOiAiYjEzMWE1NDNkMjcwMDlmYSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJ0ZWNobmlxdWVzIiwKdGltZV9zdGFydDogMTAzOCwKdGl0bGU6ICLQmtC+0YLQvtCw0LzQsNGG0YPQutCw0LzQuCIsCmRlc2NyaXB0aW9uOiAi0JrQvtC90YLRgNC+0LvRjCDRgNCw0LfRg9C80LAiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MTIuanBnIiwKaWQ6ICI1MTIiLApoYXNoOiAiOWE5N2ZjMDMzM2RmZDU0MSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiAxMDgzLAp0aXRsZTogItCh0LDRgdC60LUg0YPQttC1INC30LTQtdGB0YwhIiwKZGVzY3JpcHRpb246ICLQkNC60LDRhtGD0LrQuCDQv9GA0LXRgNGL0LLQsNGO0YIg0YHQvtCy0LXRgiIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUxMy5qcGciLAppZDogIjUxMyIsCmhhc2g6ICI2YmZlOTQ2OTAxOTRkNjJiIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEyNjAsCnRpdGxlOiAi0JLQtdGH0LXRgCDQtNC+0LHRgNGL0LkiLApkZXNjcmlwdGlvbjogItCi0L7QsdC4INC70LjRh9C90L4g0Y/QstC70Y/QtdGC0YHRjyDQuiDQndCw0YDRg9GC0L4iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MTQuanBnIiwKaWQ6ICI1MTQiLApoYXNoOiAiM2RjMDY2NzdkZGE2ZTIwNCIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTExLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzUxMi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81MTMuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTE0LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 708,\ntitle: \"Принять решение\",\ndescription: \"Обсуждение Саске его товарищами\",\nicon: js_preres_url + \"/uploads/achievements/icons/511.jpg\",\nid: \"511\",\nhash: \"b131a543d27009fa\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 1038,\ntitle: \"Котоамацуками\",\ndescription: \"Контроль разума\",\nicon: js_preres_url + \"/uploads/achievements/icons/512.jpg\",\nid: \"512\",\nhash: \"9a97fc0333dfd541\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1083,\ntitle: \"Саске уже здесь!\",\ndescription: \"Акацуки прерывают совет\",\nicon: js_preres_url + \"/uploads/achievements/icons/513.jpg\",\nid: \"513\",\nhash: \"6bfe94690194d62b\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1260,\ntitle: \"Вечер добрый\",\ndescription: \"Тоби лично является к Наруто\",\nicon: js_preres_url + \"/uploads/achievements/icons/514.jpg\",\nid: \"514\",\nhash: \"3dc06677dda6e204\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/511.jpg\", js_preres_url + \"/uploads/achievements/icons/512.jpg\", js_preres_url + \"/uploads/achievements/icons/513.jpg\", js_preres_url + \"/uploads/achievements/icons/514.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 708,
+        "title": "Принять решение",
+        "description": "Обсуждение Саске его товарищами",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/511.jpg",
+        "id": "511",
+        "hash": "b131a543d27009fa"
+      },
+      {
+        "category": "techniques",
+        "time_start": 1038,
+        "title": "Котоамацуками",
+        "description": "Контроль разума",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/512.jpg",
+        "id": "512",
+        "hash": "9a97fc0333dfd541"
+      },
+      {
+        "category": "events",
+        "time_start": 1083,
+        "title": "Саске уже здесь!",
+        "description": "Акацуки прерывают совет",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/513.jpg",
+        "id": "513",
+        "hash": "6bfe94690194d62b"
+      },
+      {
+        "category": "events",
+        "time_start": 1260,
+        "title": "Вечер добрый",
+        "description": "Тоби лично является к Наруто",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/514.jpg",
+        "id": "514",
+        "hash": "3dc06677dda6e204"
+      }
+    ]
+  }
+}

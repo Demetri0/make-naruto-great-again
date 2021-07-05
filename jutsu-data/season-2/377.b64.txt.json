@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "377",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1536453723?i=1536453786&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1537252430?i=1537252431&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImh1bW9yIiwKdGltZV9zdGFydDogNTM4LAp0aXRsZTogItCY0LfQtNGR0LLQutCwIiwKZGVzY3JpcHRpb246ICLQk9Cw0LDRgNCwINCy0LXQtNGR0YLRgdGPINC90LAg0L/RgNC+0LLQvtC60LDRhtC40LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83NTEuanBnIiwKaWQ6ICI3NTEiLApoYXNoOiAiNjliMzJkNTM4ZTAxYTc0NSIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJodW1vciIsCnRpbWVfc3RhcnQ6IDEwNzUsCnRpdGxlOiAi0JbQtdC70LXQt9C90YvQuSDRh9C10LvQvtCy0LXQuiIsCmRlc2NyaXB0aW9uOiAi0J3QsNGA0YPRgtC+INC4INCc0LXRhdCwINGA0LDQsdC+0YLQsNGO0YIg0LLQvNC10YHRgtC1IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzUyLmpwZyIsCmlkOiAiNzUyIiwKaGFzaDogIjY4YTljNTY1MDQ2MmU0ZjEiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzc1MS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83NTIuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 538,\ntitle: \"Издёвка\",\ndescription: \"Гаара ведётся на провокации\",\nicon: js_preres_url + \"/uploads/achievements/icons/751.jpg\",\nid: \"751\",\nhash: \"69b32d538e01a745\"\n});\r\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 1075,\ntitle: \"Железный человек\",\ndescription: \"Наруто и Меха работают вместе\",\nicon: js_preres_url + \"/uploads/achievements/icons/752.jpg\",\nid: \"752\",\nhash: \"68a9c5650462e4f1\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/751.jpg\", js_preres_url + \"/uploads/achievements/icons/752.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "humor",
+        "time_start": 538,
+        "title": "Издёвка",
+        "description": "Гаара ведётся на провокации",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/751.jpg",
+        "id": "751",
+        "hash": "69b32d538e01a745"
+      },
+      {
+        "category": "humor",
+        "time_start": 1075,
+        "title": "Железный человек",
+        "description": "Наруто и Меха работают вместе",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/752.jpg",
+        "id": "752",
+        "hash": "68a9c5650462e4f1"
+      }
+    ]
+  }
+}

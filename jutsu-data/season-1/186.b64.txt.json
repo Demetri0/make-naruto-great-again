@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "186",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1403260339?i=1403260604&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1536255721?i=1536255877&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1388,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImh1bW9yIiwKdGltZV9zdGFydDogMzk4LAp0aXRsZTogItCS0L7RgiDRgtCw0Log0LDQvdC10LrQtNC+0YIiLApkZXNjcmlwdGlvbjogItCo0LjQvdC+INC30LDRgdC80LXRj9C70YHRjz8hIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjU1LmpwZyIsCmlkOiAiMjU1IiwKaGFzaDogImQ2ZTEyZmM0ODFmZmQ3ZTUiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiYXJjcyIsCnRpbWVfc3RhcnQ6IDEyNjEsCnRpdGxlOiAi0K/RgNC60LDRjyDQt9Cy0LXQt9C00LAiLApkZXNjcmlwdGlvbjogItCX0LDQstC10YDRiNC40YLQtSDQsNGA0LrRgyDQodC10LvQtdC90LjRjyDQl9Cy0LXQt9C00YsiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yNTYuanBnIiwKaWQ6ICIyNTYiLApoYXNoOiAiMDlhNGMxOWY1ZTlkMzBhMCIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjU1LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzI1Ni5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 398,\ntitle: \"Вот так анекдот\",\ndescription: \"Шино засмеялся?!\",\nicon: js_preres_url + \"/uploads/achievements/icons/255.jpg\",\nid: \"255\",\nhash: \"d6e12fc481ffd7e5\"\n});\r\nthis_anime_achievements.push({\ncategory: \"arcs\",\ntime_start: 1261,\ntitle: \"Яркая звезда\",\ndescription: \"Завершите арку Селения Звезды\",\nicon: js_preres_url + \"/uploads/achievements/icons/256.jpg\",\nid: \"256\",\nhash: \"09a4c19f5e9d30a0\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/255.jpg\", js_preres_url + \"/uploads/achievements/icons/256.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "humor",
+        "time_start": 398,
+        "title": "Вот так анекдот",
+        "description": "Шино засмеялся?!",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/255.jpg",
+        "id": "255",
+        "hash": "d6e12fc481ffd7e5"
+      },
+      {
+        "category": "arcs",
+        "time_start": 1261,
+        "title": "Яркая звезда",
+        "description": "Завершите арку Селения Звезды",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/256.jpg",
+        "id": "256",
+        "hash": "09a4c19f5e9d30a0"
+      }
+    ]
+  }
+}

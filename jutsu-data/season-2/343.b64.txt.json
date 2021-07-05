@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "343",
+  "video_intro_start": 272,
+  "video_intro_end": 362,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1339552447?i=1339552642&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 272,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1535817677?i=1535817678&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDkwOCwKdGl0bGU6ICLQotCw0Log0Y3RgtC+INGC0YsiLApkZXNjcmlwdGlvbjogItCf0L7QtCDQvNCw0YHQutC+0Lkg0KLQvtCx0Lgg0L7QutCw0LfQsNC70YHRjyDQntCx0LjRgtC+IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzA5LmpwZyIsCmlkOiAiNzA5IiwKaGFzaDogIjk3ZTM5YTMxMDNkZWU3YzQiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiaGVyb2VzIiwKdGltZV9zdGFydDogMTE2NywKdGl0bGU6ICLQqNGA0LDQvCIsCmRlc2NyaXB0aW9uOiAi0JLRgdGC0YDQtdGH0LDQudGC0LUg0L/QvtCy0LfRgNC+0YHQu9C10LLRiNC10LPQviDQntCx0LjRgtC+IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzEwLmpwZyIsCmlkOiAiNzEwIiwKaGFzaDogIjllZTJjYWM0YjUzZWNjZDYiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogMTI1NiwKdGl0bGU6ICLQndCwINC80LXRgdGC0LUiLApkZXNjcmlwdGlvbjogItCc0LDQtNCw0YDQsCDQv9GA0LjRgdC+0LXQtNC40L3QuNC70YHRjyDQuiDRgdC+0Y7Qt9C90LjQutGDIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzExLmpwZyIsCmlkOiAiNzExIiwKaGFzaDogImY5Y2YxNDk0YzMyZWYzZjQiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzcwOS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83MTAuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzExLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 908,\ntitle: \"Так это ты\",\ndescription: \"Под маской Тоби оказался Обито\",\nicon: js_preres_url + \"/uploads/achievements/icons/709.jpg\",\nid: \"709\",\nhash: \"97e39a3103dee7c4\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1167,\ntitle: \"Шрам\",\ndescription: \"Встречайте повзрослевшего Обито\",\nicon: js_preres_url + \"/uploads/achievements/icons/710.jpg\",\nid: \"710\",\nhash: \"9ee2cac4b53eccd6\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1256,\ntitle: \"На месте\",\ndescription: \"Мадара присоединился к союзнику\",\nicon: js_preres_url + \"/uploads/achievements/icons/711.jpg\",\nid: \"711\",\nhash: \"f9cf1494c32ef3f4\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/709.jpg\", js_preres_url + \"/uploads/achievements/icons/710.jpg\", js_preres_url + \"/uploads/achievements/icons/711.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 908,
+        "title": "Так это ты",
+        "description": "Под маской Тоби оказался Обито",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/709.jpg",
+        "id": "709",
+        "hash": "97e39a3103dee7c4"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1167,
+        "title": "Шрам",
+        "description": "Встречайте повзрослевшего Обито",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/710.jpg",
+        "id": "710",
+        "hash": "9ee2cac4b53eccd6"
+      },
+      {
+        "category": "events",
+        "time_start": 1256,
+        "title": "На месте",
+        "description": "Мадара присоединился к союзнику",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/711.jpg",
+        "id": "711",
+        "hash": "f9cf1494c32ef3f4"
+      }
+    ]
+  }
+}

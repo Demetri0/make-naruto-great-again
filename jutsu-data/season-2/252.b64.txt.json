@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "252",
+  "video_intro_start": 184,
+  "video_intro_end": 274,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1537248449?i=1537248451&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 184,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/491247699?i=491247706&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDgxNCwKdGl0bGU6ICLQn9GA0LXQtNCw0L3QvdGL0LUg0LjQtNC10LDQu9GLIiwKZGVzY3JpcHRpb246ICLQkdC+0Lkg0KLQvtCx0Lgg0Lgg0JrQvtC90LDQvSDQvdCw0YfQsNC70YHRjyIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU3NC5qcGciLAppZDogIjU3NCIsCmhhc2g6ICIzOTIyOGM1ZDc0YzQ5Mzk4Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiAxMjI4LAp0aXRsZTogItCe0LrQtdCw0L0g0LHRg9C80LDQs9C4IiwKZGVzY3JpcHRpb246ICLQkdGD0LzQsNC20L3QsNGPINCx0LXQt9C00L3QsCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzU3NS5qcGciLAppZDogIjU3NSIsCmhhc2g6ICI2OWZlMzhkOThiYTM2OWYzIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy81NzQuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNTc1LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 814,\ntitle: \"Преданные идеалы\",\ndescription: \"Бой Тоби и Конан начался\",\nicon: js_preres_url + \"/uploads/achievements/icons/574.jpg\",\nid: \"574\",\nhash: \"39228c5d74c49398\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 1228,\ntitle: \"Океан бумаги\",\ndescription: \"Бумажная бездна\",\nicon: js_preres_url + \"/uploads/achievements/icons/575.jpg\",\nid: \"575\",\nhash: \"69fe38d98ba369f3\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/574.jpg\", js_preres_url + \"/uploads/achievements/icons/575.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 814,
+        "title": "Преданные идеалы",
+        "description": "Бой Тоби и Конан начался",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/574.jpg",
+        "id": "574",
+        "hash": "39228c5d74c49398"
+      },
+      {
+        "category": "techniques",
+        "time_start": 1228,
+        "title": "Океан бумаги",
+        "description": "Бумажная бездна",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/575.jpg",
+        "id": "575",
+        "hash": "69fe38d98ba369f3"
+      }
+    ]
+  }
+}

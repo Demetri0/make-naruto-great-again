@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "451",
+  "video_intro_start": 27,
+  "video_intro_end": 117,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1445060469?i=1445060832&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 27,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1082334092?i=1082334287&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDU2NiwKdGl0bGU6ICLQnNC10YfRgtGLINC60LDQttC00L7Qs9C+IiwKZGVzY3JpcHRpb246ICLQo9C30L3QsNC50YLQtSwg0YfRgtC+INGB0L3QuNGC0YHRjyDQtNGA0YPQt9GM0Y/QvCDQndCw0YDRg9GC0L4iLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84MDIuanBnIiwKaWQ6ICI4MDIiLApoYXNoOiAiYzVlNzIyMGZlNjI3ZWIwYyIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiA2NTIsCnRpdGxlOiAi0JLQvtGB0L/QvtC80LjQvdCw0L3QuNGPINC+INCx0YDQsNGC0LUiLApkZXNjcmlwdGlvbjogItCj0LfQvdCw0LnRgtC1INC+INC00LXRgtGB0YLQstC1INCY0YLQsNGH0LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84MDMuanBnIiwKaWQ6ICI4MDMiLApoYXNoOiAiNjgzMjRhOGY2ODc5ZTBmYiIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJoZXJvZXMiLAp0aW1lX3N0YXJ0OiAxMTU4LAp0aXRsZTogItCU0L7QsdGA0LDRjyDQv9C+0LTRgNGD0LPQsCIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQmNC30YPQvNC4INCj0YfQuNGF0L7QuSIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzgwNC5qcGciLAppZDogIjgwNCIsCmhhc2g6ICI0MjMyOTJiNWQ4MDM5MmIwIgp9KTsNCnZhciB0aGlzX2FuaW1lX2FjaGlldmVtZW50c19pY29ucyA9IFtqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy84MDIuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvODAzLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzgwNC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 566,\ntitle: \"Мечты каждого\",\ndescription: \"Узнайте, что снится друзьям Наруто\",\nicon: js_preres_url + \"/uploads/achievements/icons/802.jpg\",\nid: \"802\",\nhash: \"c5e7220fe627eb0c\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 652,\ntitle: \"Воспоминания о брате\",\ndescription: \"Узнайте о детстве Итачи\",\nicon: js_preres_url + \"/uploads/achievements/icons/803.jpg\",\nid: \"803\",\nhash: \"68324a8f6879e0fb\"\n});\r\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 1158,\ntitle: \"Добрая подруга\",\ndescription: \"Вы познакомились с Изуми Учихой\",\nicon: js_preres_url + \"/uploads/achievements/icons/804.jpg\",\nid: \"804\",\nhash: \"423292b5d80392b0\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/802.jpg\", js_preres_url + \"/uploads/achievements/icons/803.jpg\", js_preres_url + \"/uploads/achievements/icons/804.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "events",
+        "time_start": 566,
+        "title": "Мечты каждого",
+        "description": "Узнайте, что снится друзьям Наруто",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/802.jpg",
+        "id": "802",
+        "hash": "c5e7220fe627eb0c"
+      },
+      {
+        "category": "events",
+        "time_start": 652,
+        "title": "Воспоминания о брате",
+        "description": "Узнайте о детстве Итачи",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/803.jpg",
+        "id": "803",
+        "hash": "68324a8f6879e0fb"
+      },
+      {
+        "category": "heroes",
+        "time_start": 1158,
+        "title": "Добрая подруга",
+        "description": "Вы познакомились с Изуми Учихой",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/804.jpg",
+        "id": "804",
+        "hash": "423292b5d80392b0"
+      }
+    ]
+  }
+}

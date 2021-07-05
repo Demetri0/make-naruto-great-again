@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "17",
+  "video_intro_start": 207,
+  "video_intro_end": 297,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1535496914?i=1535496920&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 207,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/784294802?i=784294831&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1388,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInF1b3RlcyIsCnRpbWVfc3RhcnQ6IDkwNywKdGl0bGU6ICLQniDQlNC20LjQvdGH0YPRgNC40LrQuCIsCmRlc2NyaXB0aW9uOiAi0JLRi9GB0LvRg9GI0LDQudGC0LUg0YDQtdGH0Ywg0KfQuNGRINC+INGB0YPQtNGM0LHQtSDQlNC20LjQvdGH0YPRgNC40LrQuCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzI4OS5qcGciLAppZDogIjI4OSIsCmhhc2g6ICIzYTk3NDZjOGVlYTMzNTMyIgp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDEwNTUsCnRpdGxlOiAi0JjRgdGC0L7RidGR0L3QvdGL0LkiLApkZXNjcmlwdGlvbjogItCh0LzQtdGA0YLRjCDQk9Cw0LDRgNGLIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjkwLmpwZyIsCmlkOiAiMjkwIiwKaGFzaDogImM4OGU0YzgwMTEyOWI2NjUiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzI4OS5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yOTAuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"quotes\",\ntime_start: 907,\ntitle: \"О Джинчурики\",\ndescription: \"Выслушайте речь Чиё о судьбе Джинчурики\",\nicon: js_preres_url + \"/uploads/achievements/icons/289.jpg\",\nid: \"289\",\nhash: \"3a9746c8eea33532\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1055,\ntitle: \"Истощённый\",\ndescription: \"Смерть Гаары\",\nicon: js_preres_url + \"/uploads/achievements/icons/290.jpg\",\nid: \"290\",\nhash: \"c88e4c801129b665\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/289.jpg\", js_preres_url + \"/uploads/achievements/icons/290.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "quotes",
+        "time_start": 907,
+        "title": "О Джинчурики",
+        "description": "Выслушайте речь Чиё о судьбе Джинчурики",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/289.jpg",
+        "id": "289",
+        "hash": "3a9746c8eea33532"
+      },
+      {
+        "category": "events",
+        "time_start": 1055,
+        "title": "Истощённый",
+        "description": "Смерть Гаары",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/290.jpg",
+        "id": "290",
+        "hash": "c88e4c801129b665"
+      }
+    ]
+  }
+}

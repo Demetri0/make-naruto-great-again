@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "1",
+  "pview_episode": "127",
+  "video_intro_start": 0,
+  "video_intro_end": 90,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1059149210?i=1059149467&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 0,
+  "video_music_outro": null,
+  "this_video_duration": 1387,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogInRlY2huaXF1ZXMiLAp0aW1lX3N0YXJ0OiA3NzksCnRpdGxlOiAi0KDQsNGB0YHQsNC00LAg0L/QsNC/0L7RgNC+0YLQvdC40LrQvtCyIiwKZGVzY3JpcHRpb246ICLQodC+0LLQtdGA0YjQtdC90L3QsNGPINCw0YLQsNC60LAg0LrQvtGB0YLRj9C80LgiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yMTEuanBnIiwKaWQ6ICIyMTEiLApoYXNoOiAiMTYxM2UyMTNhYzBkZDUyMCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiAxMDk5LAp0aXRsZTogItCj0LLRj9C00LDRjtGJ0LjQuSDRhtCy0LXRgtC+0LoiLApkZXNjcmlwdGlvbjogItCa0LjQvNC40LzQsNGA0L4g0YPQvNC40YDQsNC10YIiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy8yMTIuanBnIiwKaWQ6ICIyMTIiLApoYXNoOiAiMmE4N2M0YWY1M2U0OGUxZCIKfSk7DQp2YXIgdGhpc19hbmltZV9hY2hpZXZlbWVudHNfaWNvbnMgPSBbanNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvMjExLmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzIxMi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmxpbmsucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9nbG93LnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fYmFkZ2VfZnJhbWUucG5nIl07",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 779,\ntitle: \"Рассада папоротников\",\ndescription: \"Совершенная атака костями\",\nicon: js_preres_url + \"/uploads/achievements/icons/211.jpg\",\nid: \"211\",\nhash: \"1613e213ac0dd520\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1099,\ntitle: \"Увядающий цветок\",\ndescription: \"Кимимаро умирает\",\nicon: js_preres_url + \"/uploads/achievements/icons/212.jpg\",\nid: \"212\",\nhash: \"2a87c4af53e48e1d\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/211.jpg\", js_preres_url + \"/uploads/achievements/icons/212.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "techniques",
+        "time_start": 779,
+        "title": "Рассада папоротников",
+        "description": "Совершенная атака костями",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/211.jpg",
+        "id": "211",
+        "hash": "1613e213ac0dd520"
+      },
+      {
+        "category": "events",
+        "time_start": 1099,
+        "title": "Увядающий цветок",
+        "description": "Кимимаро умирает",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/212.jpg",
+        "id": "212",
+        "hash": "2a87c4af53e48e1d"
+      }
+    ]
+  }
+}

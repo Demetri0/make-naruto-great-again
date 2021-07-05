@@ -1,0 +1,47 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "374",
+  "video_intro_start": 58,
+  "video_intro_end": 148,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1536453723?i=1536453786&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 58,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1537252430?i=1537252431&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImh1bW9yIiwKdGltZV9zdGFydDogODY4LAp0aXRsZTogItCvINC30LzQtdGPLCDQsdGDIiwKZGVzY3JpcHRpb246ICLQntGA0L7Rh9C40LzQsNGA0YMg0LLRgdGRINC10YnRkSDQv9GD0LPQsNC10YIiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83NDQuanBnIiwKaWQ6ICI3NDQiLApoYXNoOiAiY2IzMDMxZDUxNDQyMzExMCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJldmVudHMiLAp0aW1lX3N0YXJ0OiAxMjU1LAp0aXRsZTogItCa0LDQs9C1INCyINGB0YLRgNC+0Y4iLApkZXNjcmlwdGlvbjogItCi0LDQutCwINC/0L7QvNC+0LPQsNC10YIg0YDQsNC90LXQvdGL0LwiLAppY29uOiBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83NDUuanBnIiwKaWQ6ICI3NDUiLApoYXNoOiAiZGE2ZDk2NzZjMjRjMWY5OCIKfSk7DQp0aGlzX2FuaW1lX2FjaGlldmVtZW50cy5wdXNoKHsKY2F0ZWdvcnk6ICJ0ZWNobmlxdWVzIiwKdGltZV9zdGFydDogNTI2LAp0aXRsZTogItCh0LvQvtC20L3QvtC1INC90LDQt9Cy0LDQvdC40LUiLApkZXNjcmlwdGlvbjogItCh0L7QstC80LXRgdGC0L3QsNGPINGC0LXRhdC90LjQutCwINCd0LDRgNGD0YLQviDQuCDQodCw0YHQutC1IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzQ2LmpwZyIsCmlkOiAiNzQ2IiwKaGFzaDogImE2NjFmOTcwOTVlNzkyYTgiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzc0NC5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy83NDUuanBnIiwganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNzQ2LmpwZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW4ucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9ibGluay5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2dsb3cucG5nIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbl9iYWRnZV9mcmFtZS5wbmciXTs=",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"humor\",\ntime_start: 868,\ntitle: \"Я змея, бу\",\ndescription: \"Орочимару всё ещё пугает\",\nicon: js_preres_url + \"/uploads/achievements/icons/744.jpg\",\nid: \"744\",\nhash: \"cb3031d514423110\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 1255,\ntitle: \"Каге в строю\",\ndescription: \"Така помогает раненым\",\nicon: js_preres_url + \"/uploads/achievements/icons/745.jpg\",\nid: \"745\",\nhash: \"da6d9676c24c1f98\"\n});\r\nthis_anime_achievements.push({\ncategory: \"techniques\",\ntime_start: 526,\ntitle: \"Сложное название\",\ndescription: \"Совместная техника Наруто и Саске\",\nicon: js_preres_url + \"/uploads/achievements/icons/746.jpg\",\nid: \"746\",\nhash: \"a661f97095e792a8\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/744.jpg\", js_preres_url + \"/uploads/achievements/icons/745.jpg\", js_preres_url + \"/uploads/achievements/icons/746.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "humor",
+        "time_start": 868,
+        "title": "Я змея, бу",
+        "description": "Орочимару всё ещё пугает",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/744.jpg",
+        "id": "744",
+        "hash": "cb3031d514423110"
+      },
+      {
+        "category": "events",
+        "time_start": 1255,
+        "title": "Каге в строю",
+        "description": "Така помогает раненым",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/745.jpg",
+        "id": "745",
+        "hash": "da6d9676c24c1f98"
+      },
+      {
+        "category": "techniques",
+        "time_start": 526,
+        "title": "Сложное название",
+        "description": "Совместная техника Наруто и Саске",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/746.jpg",
+        "id": "746",
+        "hash": "a661f97095e792a8"
+      }
+    ]
+  }
+}

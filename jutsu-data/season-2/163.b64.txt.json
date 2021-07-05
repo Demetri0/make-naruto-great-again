@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "163",
+  "video_intro_start": 197,
+  "video_intro_end": 287,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1445023799?i=1445023978&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 197,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1297477596?i=1297478116&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDExMiwKdGl0bGU6ICLQn9C70LDRiSDQvdCw0LTQtdC20LTRiyIsCmRlc2NyaXB0aW9uOiAi0JLRgdGC0YDQtdGH0LDQudGC0LUg0J3QsNGA0YPRgtC+INCyINCg0LXQttC40LzQtSDQntGC0YjQtdC70YzQvdC40LrQsCIsCmljb246IGpzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ3Mi5qcGciLAppZDogIjQ3MiIsCmhhc2g6ICI3MDVkYzI4M2JiYjUzYTI5Igp9KTsNCnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImV2ZW50cyIsCnRpbWVfc3RhcnQ6IDk0MCwKdGl0bGU6ICLQntC00LjQvSDQt9CwINCy0YHQtdGFIiwKZGVzY3JpcHRpb246ICLQndCw0YDRg9GC0L4g0LLRgdGC0YPQv9Cw0LXRgiDQsiDQsdC+0Lkg0YEg0J/QtdC50L3QvtC8IiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNDczLmpwZyIsCmlkOiAiNDczIiwKaGFzaDogIjM5MzUyMGM3N2EwOWY4OGYiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzQ3Mi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy80NzMuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 112,\ntitle: \"Плащ надежды\",\ndescription: \"Встречайте Наруто в Режиме Отшельника\",\nicon: js_preres_url + \"/uploads/achievements/icons/472.jpg\",\nid: \"472\",\nhash: \"705dc283bbb53a29\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 940,\ntitle: \"Один за всех\",\ndescription: \"Наруто вступает в бой с Пейном\",\nicon: js_preres_url + \"/uploads/achievements/icons/473.jpg\",\nid: \"473\",\nhash: \"393520c77a09f88f\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/472.jpg\", js_preres_url + \"/uploads/achievements/icons/473.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 112,
+        "title": "Плащ надежды",
+        "description": "Встречайте Наруто в Режиме Отшельника",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/472.jpg",
+        "id": "472",
+        "hash": "705dc283bbb53a29"
+      },
+      {
+        "category": "events",
+        "time_start": 940,
+        "title": "Один за всех",
+        "description": "Наруто вступает в бой с Пейном",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/473.jpg",
+        "id": "473",
+        "hash": "393520c77a09f88f"
+      }
+    ]
+  }
+}

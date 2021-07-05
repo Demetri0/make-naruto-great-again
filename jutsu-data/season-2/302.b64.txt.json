@@ -1,0 +1,38 @@
+{
+  "pview_anime": "naruto",
+  "pview_category": "n",
+  "pview_type": "0",
+  "pview_season": "2",
+  "pview_episode": "302",
+  "video_intro_start": 157,
+  "video_intro_end": 247,
+  "video_music_intro": "https://geo.itunes.apple.com/ru/album/1409861532?i=1409861550&mt=1&app=music&at=1010l34ii&ct=player",
+  "video_outro_start": 157,
+  "video_music_outro": "https://geo.itunes.apple.com/ru/album/1286599059?i=1286599215&mt=1&app=music&at=1010l34ii&ct=player",
+  "this_video_duration": 1389,
+  "jutsu_new_player": "yes",
+  "some_achiv_str": "dmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzID0gW107CnRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzLnB1c2goewpjYXRlZ29yeTogImhlcm9lcyIsCnRpbWVfc3RhcnQ6IDgwNywKdGl0bGU6ICLQktGC0L7RgNC+0Lkg0KbRg9GH0LjQutCw0LPQtSIsCmRlc2NyaXB0aW9uOiAi0JLRiyDQv9C+0LfQvdCw0LrQvtC80LjQu9C40YHRjCDRgSDQnNGDIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjUyLmpwZyIsCmlkOiAiNjUyIiwKaGFzaDogIjkyNzcyMTdjOGEwMjJkYTkiCn0pOw0KdGhpc19hbmltZV9hY2hpZXZlbWVudHMucHVzaCh7CmNhdGVnb3J5OiAiZXZlbnRzIiwKdGltZV9zdGFydDogNzY4LAp0aXRsZTogItCU0L7RgNC+0LPRgyDQvNC+0LvQvtC00YvQvCIsCmRlc2NyaXB0aW9uOiAi0J/RgNC+0YjQu9GL0LUg0JrQsNCz0LUg0L/QvtCx0LXQttC00LXQvdGLIiwKaWNvbjoganNfcHJlcmVzX3VybCArICIvdXBsb2Fkcy9hY2hpZXZlbWVudHMvaWNvbnMvNjUzLmpwZyIsCmlkOiAiNjUzIiwKaGFzaDogImQzYzg3M2Y4ZjI3ZjE5NzQiCn0pOw0KdmFyIHRoaXNfYW5pbWVfYWNoaWV2ZW1lbnRzX2ljb25zID0gW2pzX3ByZXJlc191cmwgKyAiL3VwbG9hZHMvYWNoaWV2ZW1lbnRzL2ljb25zLzY1Mi5qcGciLCBqc19wcmVyZXNfdXJsICsgIi91cGxvYWRzL2FjaGlldmVtZW50cy9pY29ucy82NTMuanBnIiwganNfcHJlcmVzX3VybCArICIvdGVtcGxhdGVzL3NjaG9vbC9pbWFnZXMvYWNoaXYvYWNoaWV2ZW1lbnRfbWFpbi5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JsaW5rLnBuZyIsIGpzX3ByZXJlc191cmwgKyAiL3RlbXBsYXRlcy9zY2hvb2wvaW1hZ2VzL2FjaGl2L2FjaGlldmVtZW50X21haW5fZ2xvdy5wbmciLCBqc19wcmVyZXNfdXJsICsgIi90ZW1wbGF0ZXMvc2Nob29sL2ltYWdlcy9hY2hpdi9hY2hpZXZlbWVudF9tYWluX2JhZGdlX2ZyYW1lLnBuZyJdOw==",
+  "custom_achiv_str": "var this_anime_achievements = [];\nthis_anime_achievements.push({\ncategory: \"heroes\",\ntime_start: 807,\ntitle: \"Второй Цучикаге\",\ndescription: \"Вы познакомились с Му\",\nicon: js_preres_url + \"/uploads/achievements/icons/652.jpg\",\nid: \"652\",\nhash: \"9277217c8a022da9\"\n});\r\nthis_anime_achievements.push({\ncategory: \"events\",\ntime_start: 768,\ntitle: \"Дорогу молодым\",\ndescription: \"Прошлые Каге побеждены\",\nicon: js_preres_url + \"/uploads/achievements/icons/653.jpg\",\nid: \"653\",\nhash: \"d3c873f8f27f1974\"\n});\r\nvar this_anime_achievements_icons = [js_preres_url + \"/uploads/achievements/icons/652.jpg\", js_preres_url + \"/uploads/achievements/icons/653.jpg\", js_preres_url + \"/templates/school/images/achiv/achievement_main.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_blink.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_glow.png\", js_preres_url + \"/templates/school/images/achiv/achievement_main_badge_frame.png\"];",
+  "custom_achivements": {
+    "this_anime_achievements": [
+      {
+        "category": "heroes",
+        "time_start": 807,
+        "title": "Второй Цучикаге",
+        "description": "Вы познакомились с Му",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/652.jpg",
+        "id": "652",
+        "hash": "9277217c8a022da9"
+      },
+      {
+        "category": "events",
+        "time_start": 768,
+        "title": "Дорогу молодым",
+        "description": "Прошлые Каге побеждены",
+        "icon": "https://gen.jut.su/uploads/achievements/icons/653.jpg",
+        "id": "653",
+        "hash": "d3c873f8f27f1974"
+      }
+    ]
+  }
+}
