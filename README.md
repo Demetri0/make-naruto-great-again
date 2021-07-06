@@ -21,7 +21,12 @@ You can use `extract-episode-links.sh` to get list of all episodes
 
 ## 5. Retrieve list of fillers
 - `curl https://jut.su/narutoo/season-1/ | pup 'a.short-btn:parent-of(sup) json{}' | jshon -a -e text | sed "s/[^0-9]//g" > season1-fillers.list.txt`
-- `curl https://jut.su/narutoo/season-1/ | pup 'a.short-btn:parent-of(sup) json{}' | jshon -a -e text | sed "s/[^0-9]//g" > season2-fillers.list.txt`
+- `curl https://jut.su/narutoo/season-2/ | pup 'a.short-btn:parent-of(sup) json{}' | jshon -a -e text | sed "s/[^0-9]//g" > season2-fillers.list.txt`
+
+## 6. Retrieve episode titles
+- `curl https://jut.su/narutoo/season-1/ | pup 'a.short-btn json{}' | jq '.[] | {episode: (.text | scan("[0-9]+") | tonumber), title}' | jq -s . > season1-titles.json`
+- `curl https://jut.su/narutoo/season-2/ | pup 'a.short-btn json{}' | jq '.[] | {episode: (.text | scan("[0-9]+") | tonumber), title}' | jq -s . > season2-titles.json`
+
 
 # LICENSE
 MIT
