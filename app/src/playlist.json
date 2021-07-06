@@ -1,0 +1,71 @@
+[
+    {
+                "episode": 1,
+                "title": "Знакомьтесь, Узумаки Наруто!",
+                "poster": "./1_1521204719.jpg",
+                "sources": [
+                    {
+                        "quality": 480,
+                        "src": "./1.480.1f89a08c65b0c303.mp4"
+                    },
+                    {
+                        "quality": 360,
+                        "src": "./1.360.d4712bee71fb12c4.mp4"
+                    }
+                ],
+                "mediaType": "serial",
+                "contentType": "scenario",
+                "fragments": [
+                    {
+                        "start": 0,
+                        "end": 54,
+                        "type": "flashback"
+                    },
+                    {
+                        "start": 54,
+                        "end": 75,
+                        "type": "opening"
+                    },
+                    {
+                        "start": 198,
+                        "end": 216,
+                        "type": "filler"
+                    },
+                    {
+                        "start": 801,
+                        "end": 893,
+                        "type": "boring"
+                    },
+                    {
+                        "start": 1284.461145,
+                        "end": 1370.680208,
+                        "type": "ending"
+                    }
+                ]
+            },
+            {
+                "episode": 2,
+                "title": "Конохамару!",
+                "poster": null,
+                "sources": [
+                    {
+                        "quality": 480,
+                        "src": "./2.480.f6fbc40058af276a.mp4"
+                    }
+                ],
+                "mediaType": "serial",
+                "contentType": "filler",
+                "fragments": [
+                    {
+                        "start": 0,
+                        "end": 89.663978,
+                        "type": "opening"
+                    },
+                    {
+                        "start": 165,
+                        "end": 180,
+                        "type": "filler"
+                    }
+                ]
+            }
+        ]
