@@ -19,5 +19,9 @@ You can use `extract-episode-links.sh` to get list of all episodes
 ## 4. Concatenate json files to single json file with array
 - `jq -s . jutsu-data/season-1/*.json jutsu-data/season-2/*.json > jutsu-data.json`
 
+## 5. Retrieve list of fillers
+- `curl https://jut.su/narutoo/season-1/ | pup 'a.short-btn:parent-of(sup) json{}' | jshon -a -e text | sed "s/[^0-9]//g" > season1-fillers.list.txt`
+- `curl https://jut.su/narutoo/season-1/ | pup 'a.short-btn:parent-of(sup) json{}' | jshon -a -e text | sed "s/[^0-9]//g" > season2-fillers.list.txt`
+
 # LICENSE
 MIT
