@@ -1,0 +1,71 @@
+// "naruto#s1e001:1560" -- "${title}#${episode.code}:${time}"
+{
+	"anime": "naruto",
+	"music": [
+		{
+			"id": 1,
+			"type": "opening",
+			"title": "Aoi",
+			"artist": { "name": "", "url": "" },
+			"sources": [
+				{ "source": "youtube", "title": "Aoi", "url": "...", "artist": { "name": "", "url": "" } }
+			]
+		}
+	],
+	"seasons": [
+		{
+			"season": 1,
+			"title": "Наруто",
+			"arcs": [
+				{ "title": "Введение" },
+				{ "title": "Страна Волн" }
+			]
+		},
+		{
+			"season": 2,
+			"title": "Наруто - Ураганные хроники",
+			"arcs": []
+		}
+	],
+	"episodes": [
+		{
+			"code": "s1e001",
+			"season": 1,
+			"arc": 0,
+			"episode": 1,
+			"mediaType": "serial",
+			"contentType": "scenario",
+			"title": "Знакомьтесь - Наруто Узумаки!",
+			"poster": "./1.jpg",
+			"sources": [
+				{ "quality": 480, "src": "./1.480.1f89a08c65b0c303.mp4" },
+				{ "quality": 360, "src": "./1.360.d4712bee71fb12c4.mp4" }
+			],
+			"fragments": [
+				{ "start": 0, "end": 54, "type": "flashback:relevant" },
+				{ "start": 54, "end": 75, "type": "opening", "music": 1 },
+				{ "start": 198, "end": 216, "type": "filler", "music": null },
+				{ "start": 801, "end": 891, "type": "boring" },
+				{ "start": 1284.461145, "end": 1284.461145, "type": "flashback:irrelevant" },
+				{ "start": 1284.461145, "end": null, "type": "ending" }
+			]
+		},
+		{
+			"code": "s1e002",
+			"season": 1,
+			"arc": 0,
+			"episode": 2,
+			"mediaType": "serial",
+			"contentType": "filler",
+			"title": "Конохамару!",
+			"poster": null,
+			"sources": [
+				{ "quality": 480, "src": "./2.480.f6fbc40058af276a.mp4" }
+			],
+			"fragments": [
+				{ "start": 0, "end": 89.663978, "type": "opening" },
+				{ "start": 165, "end": 180, "type": "filler" }
+			]
+		}
+	]
+}

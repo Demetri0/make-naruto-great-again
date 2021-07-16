@@ -1,0 +1,123 @@
+{
+	"additionalProperties": false,
+	"definitions": {
+		"ContentType": {
+			"enum": ["opening", "ending", "scenario", "flashback:relevant", "flashback:irrelevant", "boring", "filler"]
+		},
+		"MediaType": {
+			"enum": ["serial", "film"]
+		},
+		"Artist": {
+			"type": "object",
+			"properties": {
+				"name": { "type": "string" },
+				"url": { "type": "string" }
+			}
+		}
+	},
+	
+	
+	"type": "object",
+	"properties": {
+		"anime": { "type": "string" },
+		"name": {
+			"type": "string"
+		},
+		"music" : {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"id": { "type": "string" },
+					"type": { "$ref": "#/definitions/ContentType" },
+					"title": { "type": "string" },
+					"artist": { "$ref": "#/definitions/Artist" },
+					"sources": {
+						"type": "array",
+						"items": {
+							"type": "object",
+							"properties": {
+								"source": { "type": "string" },
+								"title": { "type": "string" },
+								"url": { "type": "string" },
+								"artist": { "$ref": "#/definitions/Artist" }
+							}
+						}
+					}
+				}
+			}
+		},
+		"seasons": {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"season": { "type": "number" },
+					"title": { "type": "string" },
+					"arcs": {
+						"type": "array",
+						"items": {
+							"type": "object",
+							"properties": {
+								"title": { "type": "string" }
+							}
+						}
+					}
+				}
+			}
+		},
+		"episodes": {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"code": { "type": "string" },
+					"season": { "type": "number" },
+					"arc": { "type": "number" },
+					"episode": { "type": "number" },
+					"mediaType": { "$ref": "#/definitions/MediaType" },
+					"contentType": { "$ref": "#/definitions/ContentType" },
+					"title": { "type": "string" },
+					"poster": {
+						"oneOf": [
+							{ "type": "null" },
+							{ "type": "string" }
+						]
+					},
+					"sources": {
+						"type": "array",
+						"items": {
+							"type": "object",
+							"properties": {
+								"quality": { "type": "number" },
+								"src": { "type": "string" }
+							}
+						}
+					},
+					"fragments": {
+						"type": "array",
+						"items": {
+							"type": "object",
+							"properties": {
+								"start": { "type": "number" },
+								"end": {
+									"oneOf": [
+										{ "type": "null" },
+										{ "type": "number" }
+									]
+								},
+								"type": { "$ref": "#/definitions/ContentType" },
+								"music": {
+									"oneOf": [
+										{ "type": "null" },
+										{ "type": "number" }
+									]
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
