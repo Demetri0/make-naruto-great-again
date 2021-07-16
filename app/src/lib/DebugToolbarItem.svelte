@@ -5,5 +5,11 @@
 
 <div>
     <span>{title}: </span>
-    <span>{value}</span>
+    <span class="value">{value}</span>
 </div>
+
+<style>
+    .value {
+        color: var(--color-accent);
+    }
+</style>
