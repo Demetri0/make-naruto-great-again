@@ -27,6 +27,14 @@ You can use `extract-episode-links.sh` to get list of all episodes
 - `curl https://jut.su/narutoo/season-1/ | pup 'a.short-btn json{}' | jq '.[] | {episode: (.text | scan("[0-9]+") | tonumber), title}' | jq -s . > season1-titles.json`
 - `curl https://jut.su/narutoo/season-2/ | pup 'a.short-btn json{}' | jq '.[] | {episode: (.text | scan("[0-9]+") | tonumber), title}' | jq -s . > season2-titles.json`
 
+# 7. Retrieve arcs
+- `curl https://jut.su/narutoo/season-1/ | pup '.watch_list_item h2 + a json{}' | jshon -a -e text | sed "s/[^0-9]//g" > season1-arc-start.txt`
+- `curl https://jut.su/narutoo/season-2/ | pup '.watch_list_item h2 + a json{}' | jshon -a -e text | sed "s/[^0-9]//g" > season2-arc-start.txt`
+- `curl https://jut.su/narutoo/season-1/ | pup '.watch_list_item h2 text{}' > season1-arc-title.txt`
+- `curl https://jut.su/narutoo/season-2/ | pup '.watch_list_item h2 text{}' > season2-arc-title.txt`
+
+Note:
+- NO NEED `paste season1-arc-start.txt season1-arc-title.txt`
 
 # LICENSE
 MIT
