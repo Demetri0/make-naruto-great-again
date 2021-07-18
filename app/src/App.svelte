@@ -18,6 +18,12 @@
         { title: 'FlashBack', name: 'flashback', value: 2 }
   ];
   let state = null;
+
+  // TODO Update state in interval
+  // TODO update speed in depend of state and config
+  // TODO Change episode based on config and state
+  // TODO
+  // TODO Preload next episode
 </script>
 
 <main>
