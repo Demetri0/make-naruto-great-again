@@ -38,8 +38,8 @@
 			"title": "Знакомьтесь - Наруто Узумаки!",
 			"poster": "./1.jpg",
 			"sources": [
-				{ "quality": 480, "src": "./1.480.1f89a08c65b0c303.mp4" },
-				{ "quality": 360, "src": "./1.360.d4712bee71fb12c4.mp4" }
+				{ "quality": 480, "src": "./1.480.1f89a08c65b0c303.mp4", "mimetype": "video/mp4" },
+				{ "quality": 360, "src": "./1.360.d4712bee71fb12c4.mp4", "mimetype": "video/mp4" }
 			],
 			"fragments": [
 				{ "start": 0, "end": 54, "type": "flashback:relevant" },

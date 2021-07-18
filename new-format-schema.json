@@ -15,8 +15,8 @@
 			}
 		}
 	},
-	
-	
+
+
 	"type": "object",
 	"properties": {
 		"anime": { "type": "string" },
@@ -90,7 +90,8 @@
 							"type": "object",
 							"properties": {
 								"quality": { "type": "number" },
-								"src": { "type": "string" }
+								"src": { "type": "string" },
+                                "mimetype": { "type": "string" }
 							}
 						}
 					},
